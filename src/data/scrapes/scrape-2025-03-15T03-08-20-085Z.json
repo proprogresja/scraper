@@ -1,0 +1,3239 @@
+[
+  {
+    "events": [
+      {
+        "id": "3dc06554-52cc-463b-b0f8-e2c9b55ce6e3",
+        "name": "Anxious",
+        "date": "2025-03-14T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/anxious/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.105Z",
+        "hash": "86021b15c420ce8a008a1bc524d7d52f",
+        "performers": [
+          "Anxious"
+        ]
+      },
+      {
+        "id": "f0977e58-1050-453d-a573-98dd8bd5c783",
+        "name": "corook: Committed to a Bit Tour",
+        "date": "2025-03-14T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/corook-committed-to-a-bit-tour/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.106Z",
+        "hash": "740abeb7983c2874545950cf2ca87b8d",
+        "performers": [
+          "corook: Committed to a Bit Tour"
+        ]
+      },
+      {
+        "id": "8bc113fd-d366-411e-8d69-00b9d9e73fdd",
+        "name": "Missio – I Am Cinco Tour",
+        "date": "2025-03-15T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/missio-i-am-cinco-tour/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.106Z",
+        "hash": "a8440e67428dc2aef42f8552222835d1",
+        "performers": [
+          "Missio – I Am Cinco Tour"
+        ]
+      },
+      {
+        "id": "af506dac-83ab-405e-b786-bbbfc64b0923",
+        "name": "Paul McDonald & the Mourning Doves",
+        "date": "2025-03-16T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "2:30pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/paul-mcdonald-the-mourning-doves/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.107Z",
+        "hash": "772c4cbcf59835cd432e06270a2ed07b",
+        "performers": [
+          "Paul McDonald & the Mourning Doves"
+        ]
+      },
+      {
+        "id": "48433ed5-9ade-4ea7-9c59-7acc65055352",
+        "name": "Wyatt Easterling, Rod Abernethy",
+        "date": "2025-03-16T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "6:30pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/wyatt-easterling-rod-abernethy/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.108Z",
+        "hash": "1cc3f58babea213f73bb7669df401842",
+        "performers": [
+          "Wyatt Easterling, Rod Abernethy"
+        ]
+      },
+      {
+        "id": "19d26920-3867-41cc-b27a-627398aaec6f",
+        "name": "Low Cut Connie",
+        "date": "2025-03-18T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/low-cut-connie-3/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.108Z",
+        "hash": "7e6d9ed362ba6e220873d28e7444774d",
+        "performers": [
+          "Low Cut Connie"
+        ]
+      },
+      {
+        "id": "5c2ac98d-60f6-4209-b61e-79edcb96310d",
+        "name": "Sings Like Hell with Peter Case & Sid Griffin",
+        "date": "2025-03-19T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/sings-like-hell-with-peter-case-sid-griffin/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.108Z",
+        "hash": "2637808bde072219c4592bb9cb821e7b",
+        "performers": [
+          "Sings Like Hell with Peter Case & Sid Griffin"
+        ]
+      },
+      {
+        "id": "a5b87198-a326-43cd-a371-8165bf97a95a",
+        "name": "Sven Jungbeck Gypsy Jazz Guitar Workshop",
+        "date": "2025-03-20T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "6:30pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/sven-jungbeck-gypsy-jazz-guitar-workshop/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.109Z",
+        "hash": "b1b104d5488d3d6f430aa4ba0050b6f6",
+        "performers": [
+          "Sven Jungbeck Gypsy Jazz Guitar Workshop"
+        ]
+      },
+      {
+        "id": "4ec14c8d-3b82-4957-a7af-418b9121fa7d",
+        "name": "Joscho Stephan & Sven Jungbeck",
+        "date": "2025-03-21T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/joscho-stephan-sven-jungbeck/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.110Z",
+        "hash": "4039c742363e4473002f67a38021ee0c",
+        "performers": [
+          "Joscho Stephan & Sven Jungbeck"
+        ]
+      },
+      {
+        "id": "dc1b09a1-b4ec-4ab4-964e-e031a359660c",
+        "name": "of Montreal",
+        "date": "2025-03-21T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/of-montreal-4/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.110Z",
+        "hash": "d02047c4c1cb302b64e6b80b1b587f03",
+        "performers": [
+          "of Montreal"
+        ]
+      },
+      {
+        "id": "cf2dd7e4-f035-4bc9-84e5-ffa6e7387b90",
+        "name": "Ray Bull",
+        "date": "2025-03-21T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Local 506",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/ray-bull/local-506/chapel-hill-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.111Z",
+        "hash": "8989bbb88d377268d387fd554b6112ad",
+        "performers": [
+          "Ray Bull"
+        ]
+      },
+      {
+        "id": "6da3a01e-2db0-4399-9c8e-cb40c13690c6",
+        "name": "Simba Baumgartner & Adrien Marco Gypsy Jazz Guitar Workshop",
+        "date": "2025-03-22T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "1pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/simba-baumgartner-adrien-marco-gypsy-jazz-guitar-workshop/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.112Z",
+        "hash": "7bf829246294f83084f9b6a2e207a3ab",
+        "performers": [
+          "Simba Baumgartner & Adrien Marco Gypsy Jazz Guitar Workshop"
+        ]
+      },
+      {
+        "id": "3ac35698-0f1d-4455-a7f7-47b2b81ca159",
+        "name": "Last Dinosaurs",
+        "date": "2025-03-22T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/last-dinosaurs/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.112Z",
+        "hash": "53f3c7bc18ed68dd9874cd753e180b33",
+        "performers": [
+          "Last Dinosaurs"
+        ]
+      },
+      {
+        "id": "21434790-ab4f-46e7-bcf4-7b51b78d0d78",
+        "name": "Simba Baumgartner & Adrien Marco + Onyx Club Boys",
+        "date": "2025-03-22T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/simba-baumgartner-adrien-marco-onyx-club-boys/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.113Z",
+        "hash": "b572a9087f8c6ea5901f7c8b1b083f62",
+        "performers": [
+          "Simba Baumgartner & Adrien Marco + Onyx Club Boys"
+        ]
+      },
+      {
+        "id": "c180b887-1349-428a-8f77-d333a3bc2839",
+        "name": "Be Loud! Sophie High School Music Showcase",
+        "date": "2025-03-23T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "3:30pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/be-loud-sophie-high-school-music-showcase/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.113Z",
+        "hash": "03d6ed7280b79e3976cf991a635de119",
+        "performers": [
+          "Be Loud! Sophie High School Music Showcase"
+        ]
+      },
+      {
+        "id": "fff13122-0a1f-4478-9e1a-de4f6016e48a",
+        "name": "The Hard Quartet",
+        "date": "2025-03-23T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/the-hard-quartet/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.114Z",
+        "hash": "e93a2857792802af84488bcd80891dd4",
+        "performers": [
+          "The Hard Quartet"
+        ]
+      },
+      {
+        "id": "c45efb06-20fa-4caf-9992-2308c218da95",
+        "name": "ALEXSUCKS",
+        "date": "2025-03-25T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/alexsucks/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.114Z",
+        "hash": "4539c9471d3e4642c49a5e263bfbd1c6",
+        "performers": [
+          "ALEXSUCKS"
+        ]
+      },
+      {
+        "id": "9235a40a-660f-49c5-bfbb-1718cc752c1f",
+        "name": "Patterson Hood",
+        "date": "2025-03-25T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/patterson-hood/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.115Z",
+        "hash": "66b2b08fac3972c12c50871ff14ff58e",
+        "performers": [
+          "Patterson Hood"
+        ]
+      },
+      {
+        "id": "4b7a083a-8a59-43bb-b54d-b54decd0537c",
+        "name": "Your Neighbors",
+        "date": "2025-03-26T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/your-neighbors/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.115Z",
+        "hash": "537684d73b7971c0dacd33aebbad99de",
+        "performers": [
+          "Your Neighbors"
+        ]
+      },
+      {
+        "id": "d3061afb-8cbb-48bd-8cbb-0466806e2432",
+        "name": "Cassandra Jenkins",
+        "date": "2025-03-27T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/cassandra-jenkins/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.116Z",
+        "hash": "9a825151d08ff447f64c13c1c865c3bd",
+        "performers": [
+          "Cassandra Jenkins"
+        ]
+      },
+      {
+        "id": "0da7544e-6a98-4179-87e4-74266667154d",
+        "name": "¡Tumbao!",
+        "date": "2025-03-28T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/tumbao-4/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.116Z",
+        "hash": "19fd9d12e00b9088966770968282aa48",
+        "performers": [
+          "¡Tumbao!"
+        ]
+      },
+      {
+        "id": "bd2e0999-ec1a-485a-9044-acffb2fd4696",
+        "name": "Palmyra",
+        "date": "2025-03-29T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/palmyra/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.117Z",
+        "hash": "f6967bed7132fc07f5e5d7b3b7427b90",
+        "performers": [
+          "Palmyra"
+        ]
+      },
+      {
+        "id": "2cc07247-7517-4ab3-bf38-0ab2ddc4805e",
+        "name": "Alan Sparhawk (of Low)",
+        "date": "2025-03-31T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/alan-sparhawk-of-low-2/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.117Z",
+        "hash": "f333dd3fa39f4c69f80502d9b8afb1f2",
+        "performers": [
+          "Alan Sparhawk (of Low)"
+        ]
+      },
+      {
+        "id": "f10c6805-eaca-4e33-a34a-34639bf0c360",
+        "name": "Clap Your Hands Say Yeah – Performing The Debut Album",
+        "date": "2025-04-01T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/clap-your-hands-say-yeah-performing-the-debut-album/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.118Z",
+        "hash": "c24f0ede0bc8622fcdc2830fa28733a6",
+        "performers": [
+          "Clap Your Hands Say Yeah – Performing The Debut Album"
+        ]
+      },
+      {
+        "id": "591e7c6f-564e-4fae-8c23-0fe7a24aba15",
+        "name": "Pom Pom Squad",
+        "date": "2025-04-01T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/pom-pom-squad-2/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.118Z",
+        "hash": "5ba79fac71cde1b01004834920f8ca28",
+        "performers": [
+          "Pom Pom Squad"
+        ]
+      },
+      {
+        "id": "bdd25056-f216-47d6-a720-279fc9fb78e1",
+        "name": "Willi Carlisle",
+        "date": "2025-04-02T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/willi-carlisle/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.119Z",
+        "hash": "7ef6fcb3e4bfec099db9d3fd94b406a3",
+        "performers": [
+          "Willi Carlisle"
+        ]
+      },
+      {
+        "id": "0420fe7f-0156-4ffc-b1c6-2b62f25f4a26",
+        "name": "Wim Tapley",
+        "date": "2025-04-03T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/wim-tapley/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.119Z",
+        "hash": "88afd05faebaf1887346db0f0fd7ec98",
+        "performers": [
+          "Wim Tapley"
+        ]
+      },
+      {
+        "id": "58356443-b75d-4488-aec8-83cebad6084a",
+        "name": "John Vincent III",
+        "date": "2025-04-04T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/john-vincent-iii/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.119Z",
+        "hash": "178d6158ab5558be9867528a5e6d1376",
+        "performers": [
+          "John Vincent III"
+        ]
+      },
+      {
+        "id": "cb9ec518-8751-436d-8b5b-45452fe239be",
+        "name": "Liz Longley",
+        "date": "2025-04-04T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/liz-longley/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.120Z",
+        "hash": "f0ed191535658126125857927fa60e9b",
+        "performers": [
+          "Liz Longley"
+        ]
+      },
+      {
+        "id": "3fef8d3a-1f58-427e-8ff3-4a927656ab63",
+        "name": "The Tallest Man On Earth",
+        "date": "2025-04-05T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Haw River Ballroom",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/the-tallest-man-on-earth/haw-river-ballroom/saxapahaw-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.120Z",
+        "hash": "218e432300349ab9538fcfa69a32ac2f",
+        "performers": [
+          "The Tallest Man On Earth"
+        ]
+      },
+      {
+        "id": "98da2257-d040-481f-beca-e50e5b525799",
+        "name": "Chase Petra",
+        "date": "2025-04-06T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/chase-petra/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.121Z",
+        "hash": "244d4d24d77bb004500fe1167d94889c",
+        "performers": [
+          "Chase Petra"
+        ]
+      },
+      {
+        "id": "2efa1869-7e98-4759-93ab-2254868e6859",
+        "name": "The Weather Station: Humanhood Tour",
+        "date": "2025-04-06T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Motorco Music Hall",
+        "startTime": "8pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/the-weather-station-humanhood-tour/motorco-music-hall/durham-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.121Z",
+        "hash": "ef49b6483e7385ac98f3b47db34165d8",
+        "performers": [
+          "The Weather Station: Humanhood Tour"
+        ]
+      },
+      {
+        "id": "e64047b6-bc4a-41a6-af4b-28954f8f09ac",
+        "name": "Transviolet",
+        "date": "2025-04-06T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Local 506",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/transviolet/local-506/chapel-hill-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.121Z",
+        "hash": "5a46c9534d257360fb5e5be9bc0b8c44",
+        "performers": [
+          "Transviolet"
+        ]
+      },
+      {
+        "id": "99ba039c-6c2c-4817-9fee-40f1e28f3b20",
+        "name": "Teen Mortgage",
+        "date": "2025-04-09T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/teen-mortgage/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.121Z",
+        "hash": "f85444bf0d9c5d417c4cc7454c41bc62",
+        "performers": [
+          "Teen Mortgage"
+        ]
+      },
+      {
+        "id": "9b43530e-388c-417e-9c7b-389dc97985e3",
+        "name": "Stephen Wilson Jr. – SØN OF DAD TOUR 2025",
+        "date": "2025-04-10T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/stephen-wilson-jr-s%c3%b8n-of-dad-tour-2025/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.122Z",
+        "hash": "257bc01dc074aa2f27849b833cb97e70",
+        "performers": [
+          "Stephen Wilson Jr. – SØN OF DAD TOUR 2025"
+        ]
+      },
+      {
+        "id": "11f7caf2-4bf8-40d7-9a47-3f00718f1557",
+        "name": "The Crystal Casino Band",
+        "date": "2025-04-10T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/the-crystal-casino-band-2/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.122Z",
+        "hash": "5fb817d71d3c5e0586b962ea273ed3ae",
+        "performers": [
+          "The Crystal Casino Band"
+        ]
+      },
+      {
+        "id": "cccd9eda-e589-496e-9d4d-4a9c17fed780",
+        "name": "Tan & Sober Gentlemen, Driftwood",
+        "date": "2025-04-11T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/tan-sober-gentlemen-driftwood/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.123Z",
+        "hash": "e4981f07c7bbbe6ef9025bf7b2488bc4",
+        "performers": [
+          "Tan & Sober Gentlemen, Driftwood"
+        ]
+      },
+      {
+        "id": "ea73ed1b-708d-46ad-ae74-6972af412a85",
+        "name": "The Wellermen",
+        "date": "2025-04-11T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/the-wellermen/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.123Z",
+        "hash": "3ae68bd768f3f6f5417d5d59bbbbe944",
+        "performers": [
+          "The Wellermen"
+        ]
+      },
+      {
+        "id": "73bd7094-656d-4351-b206-4b6549b1e362",
+        "name": "Husbands",
+        "date": "2025-04-12T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/husbands-2/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.124Z",
+        "hash": "9b4cd7b344ec4886fe1c3aaef1227a8d",
+        "performers": [
+          "Husbands"
+        ]
+      },
+      {
+        "id": "cb6a237b-d004-4360-b2c6-33f0618c7fd0",
+        "name": "The War And Treaty",
+        "date": "2025-04-12T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/the-war-and-treaty/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.124Z",
+        "hash": "f6f32ef4bc427abc89e9c677a33afae9",
+        "performers": [
+          "The War And Treaty"
+        ]
+      },
+      {
+        "id": "a05530fb-c5f2-439c-8e96-2b88d54910c4",
+        "name": "Beach Bunny",
+        "date": "2025-04-15T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: The Ritz Raleigh",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/beach-bunny-2/the-ritz-raleigh/raleigh-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.124Z",
+        "hash": "b0ae6b9a56ccb4e6d93a1b41cd7eff36",
+        "performers": [
+          "Beach Bunny"
+        ]
+      },
+      {
+        "id": "0b74f7ab-e3b1-4510-abee-57bb2ab0dff4",
+        "name": "Mercury Rev",
+        "date": "2025-04-15T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/mercury-rev/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.125Z",
+        "hash": "57273fbd6c02750147f7b7af6fb6f89d",
+        "performers": [
+          "Mercury Rev"
+        ]
+      },
+      {
+        "id": "ab264147-76cf-4152-ae94-657aecc38d80",
+        "name": "Rubblebucket",
+        "date": "2025-04-16T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/rubblebucket-2/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.125Z",
+        "hash": "77c7c0e1890c781944cb84913890660e",
+        "performers": [
+          "Rubblebucket"
+        ]
+      },
+      {
+        "id": "34f9d62f-d2ff-42ea-8d14-928e78b9a46a",
+        "name": "Back to Back to Black: the Amy Winehouse Celebration",
+        "date": "2025-04-17T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/back-to-back-to-black-the-amy-winehouse-celebration/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.125Z",
+        "hash": "67dd1dbb2142a17e1cd16f5f351e10a5",
+        "performers": [
+          "Back to Back to Black: the Amy Winehouse Celebration"
+        ]
+      },
+      {
+        "id": "8bcad856-6dcd-47c6-b5a8-c7e437406189",
+        "name": "The Wildmans",
+        "date": "2025-04-17T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/the-wildmans-2/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.126Z",
+        "hash": "b5c52cd07184b9359334d5e461352f5f",
+        "performers": [
+          "The Wildmans"
+        ]
+      },
+      {
+        "id": "94a8e66a-5551-44d9-81e3-d0423ef4549c",
+        "name": "John Howie Jr and the Rosewood Bluff Album Release Show",
+        "date": "2025-04-18T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "6pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/john-howie-jr-and-the-rosewood-bluff-album-release-show/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.126Z",
+        "hash": "43d976ba0a5cd3bc5ab49c0abb8623bd",
+        "performers": [
+          "John Howie Jr and the Rosewood Bluff Album Release Show"
+        ]
+      },
+      {
+        "id": "ede623c5-989f-4773-b64c-fb97c65ac67b",
+        "name": "MIKE",
+        "date": "2025-04-18T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/mike-2/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.126Z",
+        "hash": "55b7d271ae3ef1676d2a686127d3b6fa",
+        "performers": [
+          "MIKE"
+        ]
+      },
+      {
+        "id": "cd0d33d6-3571-4b42-861a-6777a5d72fb8",
+        "name": "The Dip: Love Direction Tour Part II",
+        "date": "2025-04-18T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Haw River Ballroom",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/the-dip-love-direction-tour-part-ii/haw-river-ballroom/saxapahaw-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.127Z",
+        "hash": "8651972c99a98b2a814d58e1482f5922",
+        "performers": [
+          "The Dip: Love Direction Tour Part II"
+        ]
+      },
+      {
+        "id": "eb4cc7e0-9db5-43a9-b632-23fd241d55b0",
+        "name": "Fust",
+        "date": "2025-04-19T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/fust/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.127Z",
+        "hash": "ab17e43aa05031381964fff37d85765c",
+        "performers": [
+          "Fust"
+        ]
+      },
+      {
+        "id": "c2ee87f3-9708-474b-ae5d-58644c686b57",
+        "name": "Tank and The Bangas",
+        "date": "2025-04-19T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/tank-and-the-bangas-3/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.127Z",
+        "hash": "46c2f606ee2bc9f3de9de1d06418c2b2",
+        "performers": [
+          "Tank and The Bangas"
+        ]
+      },
+      {
+        "id": "41799a36-ba81-4e36-b678-48056b7bfdd1",
+        "name": "Cheekface",
+        "date": "2025-04-20T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/cheekface-3/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.128Z",
+        "hash": "a7be67a2cacfe7f5ad599fe789130ce2",
+        "performers": [
+          "Cheekface"
+        ]
+      },
+      {
+        "id": "f8caee22-ee26-4507-ba1f-b5987347c01b",
+        "name": "Free Throw: Those Days Are Gone 10 Year Anniversary Tour",
+        "date": "2025-04-21T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "6:30pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/free-throw-those-days-are-gone-10-year-anniversary-tour/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.128Z",
+        "hash": "d0a5c511cc66a94c8963a1e931bd4c07",
+        "performers": [
+          "Free Throw: Those Days Are Gone 10 Year Anniversary Tour"
+        ]
+      },
+      {
+        "id": "90f846b8-41c5-4e6c-84ea-9fd92b36898d",
+        "name": "The Mystery Lights, Levitation Room",
+        "date": "2025-04-21T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/the-mystery-lights-levitation-room/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.129Z",
+        "hash": "af05fbed1e75f272b6ebea1ece88019d",
+        "performers": [
+          "The Mystery Lights, Levitation Room"
+        ]
+      },
+      {
+        "id": "d3c3af28-c1cd-453e-a288-232226f6ffa0",
+        "name": "Lowertown",
+        "date": "2025-04-22T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/lowertown/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.129Z",
+        "hash": "cdd466895adab9031c436b2dbc8942be",
+        "performers": [
+          "Lowertown"
+        ]
+      },
+      {
+        "id": "93855ef6-8f66-4843-95a4-44d400b123f2",
+        "name": "Jennifer Curtis, violin with friends from NC Symphony",
+        "date": "2025-04-23T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "6:30pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/jennifer-curtis-violin-with-friends-from-nc-symphony/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.130Z",
+        "hash": "2245780684821a5ab78e3ad4a2c14c1f",
+        "performers": [
+          "Jennifer Curtis, violin with friends from NC Symphony"
+        ]
+      },
+      {
+        "id": "de9639e6-dca9-46fe-b9da-4eb79c206940",
+        "name": "An Evening with The Tannahill Weavers",
+        "date": "2025-04-24T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "6:30pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/an-evening-with-the-tannahill-weavers/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.130Z",
+        "hash": "5ac4dd4856dcc64a3d7bcb82efb5ee44",
+        "performers": [
+          "An Evening with The Tannahill Weavers"
+        ]
+      },
+      {
+        "id": "6a27987d-214a-4b26-9edd-8f1d9ff2d181",
+        "name": "Darren Kiely",
+        "date": "2025-04-25T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/darren-kiely-2/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.131Z",
+        "hash": "9bbb273825ff3e7ae2058c670b027713",
+        "performers": [
+          "Darren Kiely"
+        ]
+      },
+      {
+        "id": "efbd7a56-da23-42a9-aa0b-3155c174066e",
+        "name": "Julien Baker & TORRES – Send A Prayer My Way Tour",
+        "date": "2025-04-25T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Haw River Ballroom",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/julien-baker-torres-send-a-prayer-my-way-tour/haw-river-ballroom/saxapahaw-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.131Z",
+        "hash": "a3866325e39684f626c2a89465af277c",
+        "performers": [
+          "Julien Baker & TORRES – Send A Prayer My Way Tour"
+        ]
+      },
+      {
+        "id": "1bdb8362-c0d3-4890-9035-2f2d1e90e2bc",
+        "name": "Peter Holsapple Album Release Show",
+        "date": "2025-04-25T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/peter-holsapple-album-release-show/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.132Z",
+        "hash": "4c8f016746fd3a1a10d4aa19ca92f0a2",
+        "performers": [
+          "Peter Holsapple Album Release Show"
+        ]
+      },
+      {
+        "id": "65b8fa9d-d072-48b9-9c6a-cb8063a36e54",
+        "name": "Gang of Four",
+        "date": "2025-04-27T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/gang-of-four/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.132Z",
+        "hash": "c1341ff1898cac4c6e05bfd9b1b21a84",
+        "performers": [
+          "Gang of Four"
+        ]
+      },
+      {
+        "id": "47dd3eb1-6892-453b-83aa-a63981429bf3",
+        "name": "Sawyer Hill",
+        "date": "2025-04-28T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/sawyer-hill-2/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.132Z",
+        "hash": "1bd3c0d2d1b47d8ad6e0433bbb8646c9",
+        "performers": [
+          "Sawyer Hill"
+        ]
+      },
+      {
+        "id": "9d605adb-4be9-4acf-bcd1-19172474d274",
+        "name": "Trousdale Growing Pains Tour",
+        "date": "2025-05-01T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "6pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/trousdale-growing-pains-tour/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.133Z",
+        "hash": "39c7a543fbf655b4a098083843258de5",
+        "performers": [
+          "Trousdale Growing Pains Tour"
+        ]
+      },
+      {
+        "id": "fc67e156-e0d9-4368-a8a2-e0eae09d4719",
+        "name": "Evan Honer",
+        "date": "2025-05-01T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Lincoln Theatre",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/evan-honer/lincoln-theatre/raleigh-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.133Z",
+        "hash": "d4ad005d1f96a1c343f38aed5dd28893",
+        "performers": [
+          "Evan Honer"
+        ]
+      },
+      {
+        "id": "d471df74-2d36-4bca-93d3-11ab84a29735",
+        "name": "Portico",
+        "date": "2025-05-01T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/portico/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.134Z",
+        "hash": "dd2fd8eda3ffb4d4c53a2015af9dd92c",
+        "performers": [
+          "Portico"
+        ]
+      },
+      {
+        "id": "a837627f-8235-44af-b924-e0fcda12774c",
+        "name": "Evening Elephants",
+        "date": "2025-05-02T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/evening-elephants/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.134Z",
+        "hash": "ba171cd0b1c5ce0377f1eb46c7567fc9",
+        "performers": [
+          "Evening Elephants"
+        ]
+      },
+      {
+        "id": "ff5d3d57-0cf3-4f49-a760-05c11d1417e6",
+        "name": "Napalm Death and Melvins",
+        "date": "2025-05-02T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/napalm-death-and-melvins/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.134Z",
+        "hash": "56336720af95f3047ba24981c2d79841",
+        "performers": [
+          "Napalm Death and Melvins"
+        ]
+      },
+      {
+        "id": "00eda7d6-de1b-4316-8289-db8df4d5a49f",
+        "name": "Blue Cactus Album Release Show",
+        "date": "2025-05-03T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/blue-cactus-album-release-show/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.135Z",
+        "hash": "f7923fd4096794ddc79c584885b2eea8",
+        "performers": [
+          "Blue Cactus Album Release Show"
+        ]
+      },
+      {
+        "id": "9ef91393-32db-49b7-9e7f-d3c22517cc03",
+        "name": "John Moreland",
+        "date": "2025-05-03T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Haw River Ballroom",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/john-moreland-2/haw-river-ballroom/saxapahaw-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.135Z",
+        "hash": "1ddb929ff020d093b09f7c19be16eda7",
+        "performers": [
+          "John Moreland"
+        ]
+      },
+      {
+        "id": "9ced34aa-245d-4403-9cd5-f1df515cbb39",
+        "name": "Phoneboy",
+        "date": "2025-05-04T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/phoneboy-2/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.135Z",
+        "hash": "0e39606e736edd5c85cda4b566d6e821",
+        "performers": [
+          "Phoneboy"
+        ]
+      },
+      {
+        "id": "1c35c864-ad14-468b-a2d8-2cec7210ef45",
+        "name": "Brigitte Calls Me Baby",
+        "date": "2025-05-07T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/brigitte-calls-me-baby/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.136Z",
+        "hash": "cbdf6a9d1baf056ea45e76d2331217a3",
+        "performers": [
+          "Brigitte Calls Me Baby"
+        ]
+      },
+      {
+        "id": "4f211ed3-3d8b-41d7-a791-020035732049",
+        "name": "Nicotine Dolls",
+        "date": "2025-05-09T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/nicotine-dolls-2/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.136Z",
+        "hash": "7b1f1e32d65997808b8e5202be8c975b",
+        "performers": [
+          "Nicotine Dolls"
+        ]
+      },
+      {
+        "id": "079a69ee-c405-42f6-81b3-494a4282a8a1",
+        "name": "Them Coulee Boys",
+        "date": "2025-05-09T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/them-coulee-boys-2/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.136Z",
+        "hash": "908616aef05ea095567ee3e6ec0fb751",
+        "performers": [
+          "Them Coulee Boys"
+        ]
+      },
+      {
+        "id": "7c3ff18f-bb61-4c72-bc9b-9ad9856b6f43",
+        "name": "Christopher Owens",
+        "date": "2025-05-10T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/christopher-owens/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.137Z",
+        "hash": "e04abce9eda2014a5ee9561ae9ad6afb",
+        "performers": [
+          "Christopher Owens"
+        ]
+      },
+      {
+        "id": "c76de54a-0858-489c-b007-0792a0434b63",
+        "name": "Electric Six",
+        "date": "2025-05-10T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/electric-six-2/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.137Z",
+        "hash": "7cc3cad52623171f029e621fe28415f9",
+        "performers": [
+          "Electric Six"
+        ]
+      },
+      {
+        "id": "7b35f4a0-61ec-4fff-bc82-83b5277ca155",
+        "name": "Hamilton Leithauser – This Side of the Island Tour",
+        "date": "2025-05-11T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Haw River Ballroom",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/hamilton-leithauser-this-side-of-the-island-tour/haw-river-ballroom/saxapahaw-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.137Z",
+        "hash": "8286f7d4c67f8f27c331c7d8ca9cc3ea",
+        "performers": [
+          "Hamilton Leithauser – This Side of the Island Tour"
+        ]
+      },
+      {
+        "id": "f9fa818c-4b9b-4314-ab9a-01afc48dbbeb",
+        "name": "Jimmy Eat World",
+        "date": "2025-05-11T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/jimmy-eat-world/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.138Z",
+        "hash": "057cf657281004bef4af4d9456021385",
+        "performers": [
+          "Jimmy Eat World"
+        ]
+      },
+      {
+        "id": "36cc9e75-9e3b-4172-aee2-f96852b61f4b",
+        "name": "Leprous: Melodies of Atonement 2025",
+        "date": "2025-05-13T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "6:30pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/leprous-melodies-of-atonement-2025/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.138Z",
+        "hash": "6bbab0c6bdec2f1cddbf1ce174eb3187",
+        "performers": [
+          "Leprous: Melodies of Atonement 2025"
+        ]
+      },
+      {
+        "id": "d06bcfd0-29fc-4080-a1cf-2b351fcd4cbb",
+        "name": "L.A. Witch",
+        "date": "2025-05-13T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/l-a-witch-2/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.138Z",
+        "hash": "0ecc5ec848c672dbff6de760679bc521",
+        "performers": [
+          "L.A. Witch"
+        ]
+      },
+      {
+        "id": "7c43baa0-744b-4d0d-abc2-3b86057b00b1",
+        "name": "The Crane Wives – Beyond Beyond Beyond Tour",
+        "date": "2025-05-13T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: The Ritz Raleigh",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/the-crane-wives-beyond-beyond-beyond-tour/the-ritz-raleigh/raleigh-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.139Z",
+        "hash": "654efb68d6507937cbafaf90c44cb5b7",
+        "performers": [
+          "The Crane Wives – Beyond Beyond Beyond Tour"
+        ]
+      },
+      {
+        "id": "e9994f6b-21f6-4d6a-8cb5-180f01db66dc",
+        "name": "Waxahatchee",
+        "date": "2025-05-14T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Durham Performing Arts Center",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/waxahatchee/durham-performing-arts-center/durham-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.139Z",
+        "hash": "af71268c5138952c74df7bbf51596b2f",
+        "performers": [
+          "Waxahatchee"
+        ]
+      },
+      {
+        "id": "8f9701df-79b1-462b-a163-d5cf88a05572",
+        "name": "bodie – Murder My Ego Tour",
+        "date": "2025-05-15T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/bodie-murder-my-ego-tour/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.139Z",
+        "hash": "02922cc04736032832d1e030373fd336",
+        "performers": [
+          "bodie – Murder My Ego Tour"
+        ]
+      },
+      {
+        "id": "fb28baa3-ee09-495e-82bb-a59a0758e0e7",
+        "name": "Arm’s Length",
+        "date": "2025-05-16T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "6pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/arms-length/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.139Z",
+        "hash": "0061ac34d5b82e795356fcaad84eb454",
+        "performers": [
+          "Arm’s Length"
+        ]
+      },
+      {
+        "id": "fec9e152-6f34-49f6-a15b-5c9546e2d40c",
+        "name": "Andrew Duhon",
+        "date": "2025-05-16T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/andrew-duhon/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.140Z",
+        "hash": "f839d23757482ed79a2a9a83b3cb81f7",
+        "performers": [
+          "Andrew Duhon"
+        ]
+      },
+      {
+        "id": "e7787845-51c1-482c-ae6c-28ba7a025248",
+        "name": "Chloe Moriondo",
+        "date": "2025-05-16T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Motorco Music Hall",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/chloe-moriondo-2/motorco-music-hall/durham-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.140Z",
+        "hash": "37eb51a5fd46c919cc0762ad103a8774",
+        "performers": [
+          "Chloe Moriondo"
+        ]
+      },
+      {
+        "id": "dd681e3d-a8ab-4b3f-9a67-2699298d4783",
+        "name": "Lucius",
+        "date": "2025-05-17T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/lucius-3/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.140Z",
+        "hash": "bed8f026a4f94815d83066ed7ee0f418",
+        "performers": [
+          "Lucius"
+        ]
+      },
+      {
+        "id": "bb3b74ed-18ca-4ff6-99f5-6bbc1e80ae6d",
+        "name": "Melissa Carper",
+        "date": "2025-05-20T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/melissa-carper/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.140Z",
+        "hash": "580037c8dc4e21a756e375dded2033bd",
+        "performers": [
+          "Melissa Carper"
+        ]
+      },
+      {
+        "id": "a1fae2c6-121d-45e3-b499-ec9454107f99",
+        "name": "Holy Fawn",
+        "date": "2025-05-21T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/holy-fawn-3/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.141Z",
+        "hash": "e2ad54058b1ff9d62e54613052d0cbbb",
+        "performers": [
+          "Holy Fawn"
+        ]
+      },
+      {
+        "id": "dfeebe38-12b1-4d9a-836c-1ccef34ecd2d",
+        "name": "Young Medicine",
+        "date": "2025-05-21T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Local 506",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/young-medicine/local-506/chapel-hill-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.141Z",
+        "hash": "b8f68b2bc845def8bb4c8c958dfe2fb7",
+        "performers": [
+          "Young Medicine"
+        ]
+      },
+      {
+        "id": "1eabc934-1cc9-4517-a71e-4890921a2c6f",
+        "name": "Pet Symmetry",
+        "date": "2025-05-22T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/pet-symmetry/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.141Z",
+        "hash": "196d554c6a4eb63b2ac40d4c89397bc1",
+        "performers": [
+          "Pet Symmetry"
+        ]
+      },
+      {
+        "id": "13eb75f9-2b75-4ff6-bdda-03c5abb7a999",
+        "name": "Carrboro Bluegrass Festival",
+        "date": "2025-05-24T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Yard",
+        "startTime": "1pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/carrboro-bluegrass-festival/cats-cradle-back-yard/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.142Z",
+        "hash": "46172076896cef3d33818d87dd7c623d",
+        "performers": [
+          "Carrboro Bluegrass Festival"
+        ]
+      },
+      {
+        "id": "68d8ffcf-115e-4be7-b197-3b61431a44f7",
+        "name": "Sunflower Bean – Mortal Primetime Tour",
+        "date": "2025-05-24T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Kings",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/sunflower-bean-mortal-primetime-tour/kings/raleigh-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.142Z",
+        "hash": "1c2c50e1a15bfda84a73b269a588f27c",
+        "performers": [
+          "Sunflower Bean – Mortal Primetime Tour"
+        ]
+      },
+      {
+        "id": "32964189-d7bc-4f0e-812f-848b33e838ea",
+        "name": "The Last Revel",
+        "date": "2025-05-29T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/the-last-revel/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.142Z",
+        "hash": "5707ea77cd000693fbae65dc94dc2cc7",
+        "performers": [
+          "The Last Revel"
+        ]
+      },
+      {
+        "id": "9a12d239-bd25-4499-a654-debcc9731ff4",
+        "name": "Lights",
+        "date": "2025-05-31T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Motorco Music Hall",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/lights-2/motorco-music-hall/durham-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.142Z",
+        "hash": "15fb1ef30426050197fce830ae259ad9",
+        "performers": [
+          "Lights"
+        ]
+      },
+      {
+        "id": "66036a4d-f2ef-4b1f-8c0f-ac7b481b3476",
+        "name": "Mei Semones",
+        "date": "2025-05-31T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/mei-semones/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.143Z",
+        "hash": "3bd1a3727421524bcb657d1be05b32ca",
+        "performers": [
+          "Mei Semones"
+        ]
+      },
+      {
+        "id": "90be94d6-2c47-4788-81cf-9ffb00b910b2",
+        "name": "Peter Hook & The Light",
+        "date": "2025-06-02T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/peter-hook-the-light/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.143Z",
+        "hash": "85c45271ad5e374de7c661a53e3f8e1a",
+        "performers": [
+          "Peter Hook & The Light"
+        ]
+      },
+      {
+        "id": "c7daf8c4-8b01-4caf-af78-f115325b6e8c",
+        "name": "Perfume Genius ‘Glory’ Tour",
+        "date": "2025-06-06T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Haw River Ballroom",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/perfume-genius-glory-tour/haw-river-ballroom/saxapahaw-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.143Z",
+        "hash": "015080cd0cc1715927d64cce86b54b37",
+        "performers": [
+          "Perfume Genius ‘Glory’ Tour"
+        ]
+      },
+      {
+        "id": "0dbca2e9-5c55-467f-8461-3d196662cf52",
+        "name": "Reverend Horton Heat",
+        "date": "2025-06-07T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7:30pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/reverend-horton-heat-3/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.143Z",
+        "hash": "b13c81777e598c223fba10c67cbb01b8",
+        "performers": [
+          "Reverend Horton Heat"
+        ]
+      },
+      {
+        "id": "4f2a93a1-9933-4ed3-a4e7-76861db5b6fc",
+        "name": "The Arcadian Wild",
+        "date": "2025-06-14T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/the-arcadian-wild/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.144Z",
+        "hash": "614f7735eb71972bbbad7d2f49d4b225",
+        "performers": [
+          "The Arcadian Wild"
+        ]
+      },
+      {
+        "id": "2ae5566e-9509-4dee-bbef-5f9f1937d3af",
+        "name": "The Lemon Twigs",
+        "date": "2025-06-14T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/the-lemon-twigs-2/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.144Z",
+        "hash": "466c5c339f7128da9876d6b3a95ebccf",
+        "performers": [
+          "The Lemon Twigs"
+        ]
+      },
+      {
+        "id": "25d084f1-5820-459a-8432-5034d3d119ad",
+        "name": "Lauren Sanderson",
+        "date": "2025-06-20T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/lauren-sanderson-2/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.144Z",
+        "hash": "8c44731b33475ab3fbcf048ea5cadd0c",
+        "performers": [
+          "Lauren Sanderson"
+        ]
+      },
+      {
+        "id": "aba37b68-b998-41c0-9cfd-63f1ea85df49",
+        "name": "Godspeed You! Black Emperor – Liberation Summer of ’25",
+        "date": "2025-06-22T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Haw River Ballroom",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/godspeed-you-black-emperor-liberation-summer-of-25/haw-river-ballroom/saxapahaw-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.145Z",
+        "hash": "cc0805496c7a015a261185dd531bf0f9",
+        "performers": [
+          "Godspeed You! Black Emperor – Liberation Summer of ’25"
+        ]
+      },
+      {
+        "id": "3e6d7c24-6c74-42f4-8f62-e958345b7cd7",
+        "name": "mc chris",
+        "date": "2025-07-02T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/mc-chris-3/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.145Z",
+        "hash": "2d70d005b6d45d4b0132a502b8812b8f",
+        "performers": [
+          "mc chris"
+        ]
+      },
+      {
+        "id": "67421035-a5eb-410b-8212-b48dbecd8add",
+        "name": "Samantha Crain",
+        "date": "2025-07-13T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/samantha-crain/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.146Z",
+        "hash": "a6ccc6658f5f6fafaa73c05fcb824432",
+        "performers": [
+          "Samantha Crain"
+        ]
+      },
+      {
+        "id": "62d0852b-8435-4e80-9f89-c8d982760cff",
+        "name": "Rose City Band",
+        "date": "2025-07-22T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Motorco Music Hall",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/rose-city-band-3/motorco-music-hall/durham-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.146Z",
+        "hash": "7d44fe67b1f8dec9f28c2cb94a65df87",
+        "performers": [
+          "Rose City Band"
+        ]
+      },
+      {
+        "id": "1a9d5829-1025-452a-98f6-6e00603db391",
+        "name": "Broncho",
+        "date": "2025-07-23T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/broncho-2/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.146Z",
+        "hash": "fc79a5557b21e59740ecc0c442055dbf",
+        "performers": [
+          "Broncho"
+        ]
+      },
+      {
+        "id": "a2d01503-8f89-47c4-8a52-7bc0783c38e9",
+        "name": "MJ Lenderman & The Wind: 2025 Tour",
+        "date": "2025-07-23T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Durham Performing Arts Center",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/mj-lenderman-the-wind-2025-tour/durham-performing-arts-center/durham-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.147Z",
+        "hash": "44068d47f370c240658e0cd138247990",
+        "performers": [
+          "MJ Lenderman & The Wind: 2025 Tour"
+        ]
+      },
+      {
+        "id": "7a9214b5-54a7-480a-81ba-8eeadba2cfb6",
+        "name": "Beth Stelling",
+        "date": "2025-08-22T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/beth-stelling-2/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.147Z",
+        "hash": "d1e9432c9c2b9e5383a742d4b1428a25",
+        "performers": [
+          "Beth Stelling"
+        ]
+      },
+      {
+        "id": "8e6f65a0-6880-45cc-9bb9-7240c3d43e0c",
+        "name": "Mountain Grass Unit",
+        "date": "2025-08-26T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle Back Room",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/mountain-grass-unit/cats-cradle-back-room/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.147Z",
+        "hash": "ba616fc6a6b03fe468a8e65ac4ede224",
+        "performers": [
+          "Mountain Grass Unit"
+        ]
+      },
+      {
+        "id": "a6865151-f6e5-468c-901c-957eb18e22ed",
+        "name": "The Brian Jonestown Massacre",
+        "date": "2025-09-03T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/the-brian-jonestown-massacre-2/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.148Z",
+        "hash": "6ae81f6a6f34167b39f1d1ee576885b5",
+        "performers": [
+          "The Brian Jonestown Massacre"
+        ]
+      },
+      {
+        "id": "3e6f3db4-57e9-4bce-937b-c3da95faa620",
+        "name": "Stereolab",
+        "date": "2025-09-21T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Haw River Ballroom",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/stereolab-2/haw-river-ballroom/saxapahaw-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.148Z",
+        "hash": "21c093785a43b128c584b65fc2f3865f",
+        "performers": [
+          "Stereolab"
+        ]
+      },
+      {
+        "id": "7ffb7118-3ae7-4735-9c2c-7ae4dd185543",
+        "name": "Mt. Joy",
+        "date": "2025-09-23T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Koka Booth Amphitheatre",
+        "startTime": "6pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/mt-joy-2/koka-booth-amphitheatre/cary-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.149Z",
+        "hash": "3831a6f81a327731aadb4f7ac8969243",
+        "performers": [
+          "Mt. Joy"
+        ]
+      },
+      {
+        "id": "d49e63c7-57e7-4d1d-b5d3-81231959689f",
+        "name": "Destroyer: Dan’s Boogie Tour",
+        "date": "2025-10-15T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/destroyer-dans-boogie-tour/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.149Z",
+        "hash": "9af23aecdd0e6834784fc2362a6eb833",
+        "performers": [
+          "Destroyer: Dan’s Boogie Tour"
+        ]
+      },
+      {
+        "id": "b31755bc-566d-4404-8e98-5a49604543b4",
+        "name": "Sam Burchfield & The Scoundrels",
+        "date": "2025-10-16T04:00:00.000Z",
+        "type": "music",
+        "description": "Venue: Cat’s Cradle",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/sam-burchfield-the-scoundrels-2/cats-cradle/carrboro-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.149Z",
+        "hash": "8ea25ef9d05c80b0309322e2460b4ecb",
+        "performers": [
+          "Sam Burchfield & The Scoundrels"
+        ]
+      },
+      {
+        "id": "b191f144-a532-4fcc-9342-00ebbaa80d4b",
+        "name": "Viagra Boys – The Infinite Anxiety Tour of 2025",
+        "date": "2025-11-03T05:00:00.000Z",
+        "type": "music",
+        "description": "Venue: The Ritz Raleigh",
+        "startTime": "7pm",
+        "venueId": "1",
+        "sourceUrl": "https://catscradle.com/event/viagra-boys-the-infinite-anxiety-tour-of-2025/the-ritz-raleigh/raleigh-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:11.150Z",
+        "hash": "a34cafd2c6a6448b5466ae125abc9de0",
+        "performers": [
+          "Viagra Boys – The Infinite Anxiety Tour of 2025"
+        ]
+      }
+    ],
+    "venue": "Cat's Cradle",
+    "success": true,
+    "scrapedAt": "2025-03-15T03:08:11.150Z"
+  },
+  {
+    "events": [
+      {
+        "id": "603cd773-2235-4336-9bfc-43008e7d02a8",
+        "name": "Manifest 7",
+        "date": "2026-03-14T04:00:00.000Z",
+        "type": "music",
+        "description": "Manifest Music Festival Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/71473145/manifest-7-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.811Z",
+        "hash": "923d2728fe75025a01ce478d8317771b",
+        "performers": [
+          "Manifest 7"
+        ]
+      },
+      {
+        "id": "9201b006-c37d-4f09-b31d-eac7fd9c0908",
+        "name": "The Spectacles, The Unsustainables, and Hex Files",
+        "date": "2025-03-16T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "",
+        "lastScraped": "2025-03-15T03:08:14.812Z",
+        "hash": "cb7b81787fa48422897297eda1cad291",
+        "performers": [
+          "The Spectacles, The Unsustainables, and Hex Files"
+        ]
+      },
+      {
+        "id": "5e76b4bc-84eb-4368-9790-74de44b862b7",
+        "name": "Ashes to Amber with Current Blue",
+        "date": "2025-03-19T04:00:00.000Z",
+        "type": "music",
+        "description": "Andmoreagain Presents presents at Local 506",
+        "startTime": "",
+        "venueId": "2",
+        "sourceUrl": "https://tickets.venuepilot.com/e/127387",
+        "lastScraped": "2025-03-15T03:08:14.812Z",
+        "hash": "56c5542f7facae6b4f8958801f837672",
+        "performers": [
+          "Ashes to Amber with Current Blue"
+        ]
+      },
+      {
+        "id": "18265775-a1cb-4114-95ed-6cfdc7d29d28",
+        "name": "Superintendo with Oort Patrol and Ruler!",
+        "date": "2025-03-20T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/89894102/superintendo-with-oort-patrol-and-ruler-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.813Z",
+        "hash": "d67745884f4a482d8ef39196a58aa100",
+        "performers": [
+          "Superintendo with Oort Patrol and Ruler!"
+        ]
+      },
+      {
+        "id": "7f0d1a11-86d7-4a13-887e-2fc3157e19fc",
+        "name": "Ray Bull",
+        "date": "2025-03-21T04:00:00.000Z",
+        "type": "music",
+        "description": "Cat's Cradle Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://catscradle.com/event/ray-bull/local-506/chapel-hill-north-carolina/",
+        "lastScraped": "2025-03-15T03:08:14.813Z",
+        "hash": "7211131cfa6d7b1b6faf24af0e8dcc89",
+        "performers": [
+          "Ray Bull"
+        ]
+      },
+      {
+        "id": "530159d6-e0d8-4691-bd78-5da32c406e06",
+        "name": "Whores with Facet and Scrape",
+        "date": "2025-03-22T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "7:30pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/95527161/whores-with-facet-and-scrape-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.814Z",
+        "hash": "835dd056caebcce6db984416d99e41d5",
+        "performers": [
+          "Whores with Facet and Scrape"
+        ]
+      },
+      {
+        "id": "94b05737-171d-4c26-af2f-e599036439a8",
+        "name": "Lawn Enforcement with Negative Feedback and Mush, Puppy!",
+        "date": "2025-03-23T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/37706196/lawn-enforcement-with-negative-feedback-and-mushpuppy-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.814Z",
+        "hash": "a00676227290a4620f4e4029c351ca6c",
+        "performers": [
+          "Lawn Enforcement with Negative Feedback and Mush, Puppy!"
+        ]
+      },
+      {
+        "id": "ef7ed49f-2ec9-43ac-8776-173404c5afcf",
+        "name": "Heart to Gold with Rosary, Weymouth, and Buck Swope",
+        "date": "2025-03-24T04:00:00.000Z",
+        "type": "music",
+        "description": "Andmoreagain Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.venuepilot.co/events/122981/orders/new",
+        "lastScraped": "2025-03-15T03:08:14.815Z",
+        "hash": "7a5c0958d49798ccb1079410d7395d9e",
+        "performers": [
+          "Heart to Gold with Rosary, Weymouth, and Buck Swope"
+        ]
+      },
+      {
+        "id": "6d861e00-ad72-4c84-a6eb-ef14a4a9ac22",
+        "name": "Cancerslug with Good Good Grief and Cigarettesmokingman",
+        "date": "2025-03-27T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/34435285/cancerslug-with-good-good-grief-and-cigarettesmokingman-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.815Z",
+        "hash": "3b19afe31cfd36719b5b6da0b6dd498f",
+        "performers": [
+          "Cancerslug with Good Good Grief and Cigarettesmokingman"
+        ]
+      },
+      {
+        "id": "fc1058e7-525a-46df-90e0-701ece247487",
+        "name": "Dogwood Tales with Owen FitzGerald and Brian McGee",
+        "date": "2025-03-28T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/44665939/dogwood-tales-with-owen-fitzgerald-and-brian-mcgee-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.816Z",
+        "hash": "815fdade9314f89c87b856b126ee6ac2",
+        "performers": [
+          "Dogwood Tales with Owen FitzGerald and Brian McGee"
+        ]
+      },
+      {
+        "id": "0a77d3f2-98ae-4b5d-9146-b89e7ece91e7",
+        "name": "The Bleu Ball: Jean-Belle’s Punk Rock B-Day Bash",
+        "date": "2025-03-29T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "9:30pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/82524734/the-bleu-balljeanbelles-punk-rock-bday-bash-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.816Z",
+        "hash": "055c83ff9fa42e3eb461e1a8c92022ef",
+        "performers": [
+          "The Bleu Ball: Jean-Belle’s Punk Rock B-Day Bash"
+        ]
+      },
+      {
+        "id": "78f41781-f9dd-4284-96cd-b64ec40a3b27",
+        "name": "Cloakroom with Napalm Cruiser and Applefield",
+        "date": "2025-03-30T04:00:00.000Z",
+        "type": "music",
+        "description": "Andmoreagain Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://tickets.venuepilot.com/e/130440",
+        "lastScraped": "2025-03-15T03:08:14.817Z",
+        "hash": "6d6bc456452e6df592b62aa4302e0fc6",
+        "performers": [
+          "Cloakroom with Napalm Cruiser and Applefield"
+        ]
+      },
+      {
+        "id": "a5cffa68-3ec3-4496-8510-04d04283a3c9",
+        "name": "Temptress and Thunderchief with The Magpie",
+        "date": "2025-04-03T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/38011903/temptress-and-thunderchief-with-the-magpie-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.817Z",
+        "hash": "f2dc56759e06313973eea417304c99a2",
+        "performers": [
+          "Temptress and Thunderchief with The Magpie"
+        ]
+      },
+      {
+        "id": "06d95de7-d0ae-4672-9e59-b416f420e04c",
+        "name": "senses with Negative 25, Mvssie",
+        "date": "2025-04-04T04:00:00.000Z",
+        "type": "music",
+        "description": "Andmoreagain Presents presents at Local 506",
+        "startTime": "6:30pm",
+        "venueId": "2",
+        "sourceUrl": "https://tickets.venuepilot.com/e/125268",
+        "lastScraped": "2025-03-15T03:08:14.818Z",
+        "hash": "05191c873135c0a318ec749a570f5324",
+        "performers": [
+          "senses with Negative 25, Mvssie"
+        ]
+      },
+      {
+        "id": "cd03a2f0-3d99-4cf5-ae92-3268a9ea7692",
+        "name": "Manic Third Planet EP Release Show with Narsick",
+        "date": "2025-04-05T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/61286863/manic-third-planet-ep-release-show-with-narsick-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.819Z",
+        "hash": "88bc1586d3334d05bb3587a5488c8538",
+        "performers": [
+          "Manic Third Planet EP Release Show with Narsick"
+        ]
+      },
+      {
+        "id": "d4516f8b-31af-4b3b-83be-55dbf2b6e8ce",
+        "name": "Transviolet with Annabel Lee, Mixie",
+        "date": "2025-04-06T04:00:00.000Z",
+        "type": "music",
+        "description": "Cat's Cradle Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "826628.1646705385.1739988861-185969892.1717019010&_gl=1*1qlafni*_ga*MTg1OTY5ODkyLjE3MTcwMTkwMTA.*_ga_QDDJ0LYGZE*MTczOTk4ODg2MS4zNi4xLjE3Mzk5ODg4NzQuMC4wLjA.",
+        "lastScraped": "2025-03-15T03:08:14.819Z",
+        "hash": "8d2fb2f4f39976dad94e961375b9d6d5",
+        "performers": [
+          "Transviolet with Annabel Lee, Mixie"
+        ]
+      },
+      {
+        "id": "8d758b78-384e-413b-ad23-441956cb6506",
+        "name": "Slow Joy with Flycatcher and Goddamn Wolves",
+        "date": "2025-04-08T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Local 506",
+        "startTime": "6:30pm",
+        "venueId": "2",
+        "sourceUrl": "https://tickets.venuepilot.com/e/129245",
+        "lastScraped": "2025-03-15T03:08:14.819Z",
+        "hash": "d2c547050447f5761abaa515863caf52",
+        "performers": [
+          "Slow Joy with Flycatcher and Goddamn Wolves"
+        ]
+      },
+      {
+        "id": "46092c4d-7214-471e-82aa-61d01ea0404f",
+        "name": "New Translations – Vacation Tour 2025",
+        "date": "2025-04-10T04:00:00.000Z",
+        "type": "music",
+        "description": "Crank It Loud presents at Local 506",
+        "startTime": "6pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/62837641/new-translations-vacation-tour-2025-chapel-hill-local-506-cil?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.820Z",
+        "hash": "7eb1d1768651399f9ddfd8270cca3c3c",
+        "performers": [
+          "New Translations – Vacation Tour 2025"
+        ]
+      },
+      {
+        "id": "be25bc50-9413-4fa5-81c9-d226d6f1f93e",
+        "name": "Excercise, Blous3, Quinine, Faeryring",
+        "date": "2025-04-11T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/71305850/excerciseblous3quininefaeryring-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.820Z",
+        "hash": "61394aac996befb7a0bf0ebaba626fc8",
+        "performers": [
+          "Excercise, Blous3, Quinine, Faeryring"
+        ]
+      },
+      {
+        "id": "d5214b50-735e-4977-a70e-75451001e592",
+        "name": "First To Eleven – ‘Full Steam Ahead’ Tour",
+        "date": "2025-04-12T04:00:00.000Z",
+        "type": "music",
+        "description": "Crank It Loud presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/58881414/first-to-eleven-full-steam-aheadtour-chapel-hill-local-506-cil?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.820Z",
+        "hash": "1e1fdc45335d684ff3977c5282ae8e03",
+        "performers": [
+          "First To Eleven – ‘Full Steam Ahead’ Tour"
+        ]
+      },
+      {
+        "id": "a0da012c-1e97-47ed-9de3-480f7807ad64",
+        "name": "Pity Party (Girls Club) with Foxtide",
+        "date": "2025-04-13T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/94311634/pity-party-girls-clubwith-foxtide-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.821Z",
+        "hash": "4f6ea74262d167bbe5567890ad658abc",
+        "performers": [
+          "Pity Party (Girls Club) with Foxtide"
+        ]
+      },
+      {
+        "id": "2464f55a-ca24-45c1-8f07-f636fe941dcf",
+        "name": "Shayfer James with Sparkbird",
+        "date": "2025-04-14T04:00:00.000Z",
+        "type": "music",
+        "description": "Andmoreagain Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://tickets.venuepilot.com/e/124797",
+        "lastScraped": "2025-03-15T03:08:14.821Z",
+        "hash": "e1f5c017822fb41518d0b800007663b8",
+        "performers": [
+          "Shayfer James with Sparkbird"
+        ]
+      },
+      {
+        "id": "953fce63-d7d7-4b54-b997-791a6d8f77d0",
+        "name": "The Punk Rap Tour: Kool Keith and MC Homeless with DJ Halo, Marc Live, J Stylez, and Geeked",
+        "date": "2025-04-15T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/61182003/the-punk-rap-tourkool-keith-and-mc-homeless-with-dj-halomarc-livej-stylezand-geeked-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.822Z",
+        "hash": "a536a337a33eda10a02990d69e012552",
+        "performers": [
+          "The Punk Rap Tour: Kool Keith and MC Homeless with DJ Halo, Marc Live, J Stylez, and Geeked"
+        ]
+      },
+      {
+        "id": "2fe33779-be2b-44d2-8e9c-3a0a5a614ed2",
+        "name": "The Ivy with Lyncs and Waking April",
+        "date": "2025-04-17T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/31169689/the-ivy-with-lyncs-and-waking-april-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.822Z",
+        "hash": "4fb6d59f39427c5d982b2e74e8524fbe",
+        "performers": [
+          "The Ivy with Lyncs and Waking April"
+        ]
+      },
+      {
+        "id": "84800be8-d0ae-40eb-9ad1-d84465542949",
+        "name": "Daisy The Great – Ballerina Tour with Benét",
+        "date": "2025-04-18T04:00:00.000Z",
+        "type": "music",
+        "description": "Andmoreagain Presents presents at Local 506",
+        "startTime": "",
+        "venueId": "2",
+        "sourceUrl": "https://www.venuepilot.co/events/122621/orders/new",
+        "lastScraped": "2025-03-15T03:08:14.822Z",
+        "hash": "c0eff88be4293e8fc56b2d540b0ef03c",
+        "performers": [
+          "Daisy The Great – Ballerina Tour with Benét"
+        ]
+      },
+      {
+        "id": "e3aa7b8f-3538-47e8-8343-f424c196367d",
+        "name": "Cold with September Mourning, University Drive, Thrower",
+        "date": "2025-04-19T04:00:00.000Z",
+        "type": "music",
+        "description": "Andmoreagain Presents presents at Local 506",
+        "startTime": "6pm",
+        "venueId": "2",
+        "sourceUrl": "https://tickets.venuepilot.com/e/127075",
+        "lastScraped": "2025-03-15T03:08:14.823Z",
+        "hash": "76f0a139d17e170f68f68455ccde24e6",
+        "performers": [
+          "Cold with September Mourning, University Drive, Thrower"
+        ]
+      },
+      {
+        "id": "817a4bf7-dbe0-49d3-a8b1-a144c4569651",
+        "name": "Youth Lagoon: Rarely Do I Dream Tour with Valley James",
+        "date": "2025-04-20T04:00:00.000Z",
+        "type": "music",
+        "description": "Andmoreagain Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://tickets.venuepilot.com/e/125386",
+        "lastScraped": "2025-03-15T03:08:14.823Z",
+        "hash": "c19b390ad5b090868956b70b01c88cf7",
+        "performers": [
+          "Youth Lagoon: Rarely Do I Dream Tour with Valley James"
+        ]
+      },
+      {
+        "id": "38dfcf3e-7841-40d0-9e74-c6edec04937d",
+        "name": "General Purpose with Sweet Dream and Monadi",
+        "date": "2025-04-22T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/74587606/general-purpose-with-sweet-dream-and-monadi-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.823Z",
+        "hash": "54388b4634a97e9b3c8cb6cc5caea419",
+        "performers": [
+          "General Purpose with Sweet Dream and Monadi"
+        ]
+      },
+      {
+        "id": "72c227ec-a503-4ff1-9607-7fe632021390",
+        "name": "Oceanic with Pageant",
+        "date": "2025-04-25T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/81268770/oceanic-with-pageant-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.823Z",
+        "hash": "ce192bba905c0fa8b37901edb3bd0654",
+        "performers": [
+          "Oceanic with Pageant"
+        ]
+      },
+      {
+        "id": "72c18f36-74d5-427c-8a0c-8eed852421de",
+        "name": "R.A.P. Ferreira with BLAX",
+        "date": "2025-04-28T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/65352846/rapferreira-with-blax-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.824Z",
+        "hash": "330a5e90938ccca1d2b5732346a7e670",
+        "performers": [
+          "R.A.P. Ferreira with BLAX"
+        ]
+      },
+      {
+        "id": "208cce9a-074f-4204-a3bf-64395f9934d4",
+        "name": "After Midnight Chappell Roan Dance Party: A Night of Bubblegum Pop Disco",
+        "date": "2025-05-03T04:00:00.000Z",
+        "type": "music",
+        "description": "GBH Events X Local 506 Presents presents at Local 506",
+        "startTime": "8pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/99371093/after-midnight-chappell-roan-dance-partya-night-of-bubblegum-pop-disco-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.824Z",
+        "hash": "3ef07fc796a4dc9e4164bc64f1b5adbf",
+        "performers": [
+          "After Midnight Chappell Roan Dance Party: A Night of Bubblegum Pop Disco"
+        ]
+      },
+      {
+        "id": "5f92fc6c-fbd7-4260-8b61-699d2b348476",
+        "name": "DeathByRomy with heffy",
+        "date": "2025-05-04T04:00:00.000Z",
+        "type": "music",
+        "description": "Andmoreagain Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://tickets.venuepilot.com/e/129190",
+        "lastScraped": "2025-03-15T03:08:14.824Z",
+        "hash": "5ea0c341bfdeb43ea1555e0d23bb8771",
+        "performers": [
+          "DeathByRomy with heffy"
+        ]
+      },
+      {
+        "id": "d0b159bc-d868-4606-bcb8-8e113ce86c58",
+        "name": "Hackensaw Boys “Love What You Do” 20 Year Anniversary Tour",
+        "date": "2025-05-09T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/98715195/hackensaw-boys-love-what-you-do20-year-anniversary-tour-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.825Z",
+        "hash": "2674d90936004b26617283821edb7018",
+        "performers": [
+          "Hackensaw Boys “Love What You Do” 20 Year Anniversary Tour"
+        ]
+      },
+      {
+        "id": "0fd319c6-b90d-4f72-aeee-69a106e6ca59",
+        "name": "SUICIDAL-IDOL and rouri404 with Vaeo",
+        "date": "2025-05-10T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/86521553/suicidalidol-and-rouri404-with-vaeo-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.825Z",
+        "hash": "4782b37de8a1d9049cd3747ce9a1bef7",
+        "performers": [
+          "SUICIDAL-IDOL and rouri404 with Vaeo"
+        ]
+      },
+      {
+        "id": "b4bba3da-03e8-41ec-b6d8-871954381521",
+        "name": "The Bones of J.R. Jones",
+        "date": "2025-05-14T04:00:00.000Z",
+        "type": "music",
+        "description": "Andmoreagain Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://tickets.venuepilot.com/e/130535",
+        "lastScraped": "2025-03-15T03:08:14.826Z",
+        "hash": "549a0afaa19b6962c90aba276cd87e5d",
+        "performers": [
+          "The Bones of J.R. Jones"
+        ]
+      },
+      {
+        "id": "a0ad2b08-0e8c-404d-9357-c2fb80e14d54",
+        "name": "TRSH with doan, Summerbruise, Dear Maryanne",
+        "date": "2025-05-15T04:00:00.000Z",
+        "type": "music",
+        "description": "Andmoreagain Presents presents at Local 506",
+        "startTime": "6:30pm",
+        "venueId": "2",
+        "sourceUrl": "https://tickets.venuepilot.com/e/130603",
+        "lastScraped": "2025-03-15T03:08:14.827Z",
+        "hash": "d05e693f759ca38cbb6fbc7374155672",
+        "performers": [
+          "TRSH with doan, Summerbruise, Dear Maryanne"
+        ]
+      },
+      {
+        "id": "18b60bff-69b7-4681-89d1-19bad9d00e80",
+        "name": "Pinko with Night! Night!, Treasure Pains, and Covenant Eye",
+        "date": "2025-05-18T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/58451660/pinko-with-nightnighttreasure-painsand-covenant-eye-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.827Z",
+        "hash": "f064304f250ba7c6fea403bee7ecfb13",
+        "performers": [
+          "Pinko with Night! Night!, Treasure Pains, and Covenant Eye"
+        ]
+      },
+      {
+        "id": "b4c69d7b-8e80-47f5-a46a-0a5f0d99e18c",
+        "name": "Anubis The Dog Tour: Klokwork E with Gavyn Gun, The Hooliganz, Krackle Kapone, Crashout Artist, and Lo",
+        "date": "2025-05-20T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/86031843/anubis-the-dog-tourklokwork-e-with-gavyn-gunthe-hooliganzkrackle-kaponecrashout-artistand-lo-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.828Z",
+        "hash": "6ced73bb85f00bd82addbb5db14ed154",
+        "performers": [
+          "Anubis The Dog Tour: Klokwork E with Gavyn Gun, The Hooliganz, Krackle Kapone, Crashout Artist, and Lo"
+        ]
+      },
+      {
+        "id": "ab7c7abf-e383-4a51-bd23-5b0816c3dac2",
+        "name": "Young Medicine",
+        "date": "2025-05-21T04:00:00.000Z",
+        "type": "music",
+        "description": "Cat's Cradle Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/58756566/young-medicine-chapel-hill-local-506-cats-cradle-presents?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.828Z",
+        "hash": "f41f6702cd84993581f4baa66ad6e9be",
+        "performers": [
+          "Young Medicine"
+        ]
+      },
+      {
+        "id": "8da0ea28-f0f1-4151-9f1d-4894a4bc6c4b",
+        "name": "Slackjaw with Parris Bridge",
+        "date": "2025-05-23T04:00:00.000Z",
+        "type": "music",
+        "description": "Andmoreagain Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://tickets.venuepilot.com/e/slackjaw-2025-05-23-local-506-chapel-hill-a96d48",
+        "lastScraped": "2025-03-15T03:08:14.828Z",
+        "hash": "0a101b835f0a87f5f868eea2e2eaeb16",
+        "performers": [
+          "Slackjaw with Parris Bridge"
+        ]
+      },
+      {
+        "id": "e84342da-9574-4dad-ab45-51a8a9507f5b",
+        "name": "Max Diaz",
+        "date": "2025-05-24T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/34240419/max-diaz-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.829Z",
+        "hash": "105990e574fbe7f80308356884adeb71",
+        "performers": [
+          "Max Diaz"
+        ]
+      },
+      {
+        "id": "446297b4-3b60-4295-a5df-1bbc3e8ab999",
+        "name": "Heathen Sun with Laniidae, Feverhill, and Mourning Lotus",
+        "date": "2025-05-30T04:00:00.000Z",
+        "type": "music",
+        "description": "Sunflower and Madhattor Presents: presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/85155604/heathen-sun-with-laniidaefeverhilland-mourning-lotus-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.829Z",
+        "hash": "63ce30ba33c9337872f5a99bfb1454d7",
+        "performers": [
+          "Heathen Sun with Laniidae, Feverhill, and Mourning Lotus"
+        ]
+      },
+      {
+        "id": "e8271a92-4bdd-409c-ada7-bbfa231b335b",
+        "name": "The Pink Stones",
+        "date": "2025-05-31T04:00:00.000Z",
+        "type": "music",
+        "description": "Local 506 Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/36779672/the-pink-stones-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.829Z",
+        "hash": "92783f67f88debdf77933738e3086c03",
+        "performers": [
+          "The Pink Stones"
+        ]
+      },
+      {
+        "id": "590fe4e7-2bff-4074-aafa-dc0f221a7a22",
+        "name": "Strictly 4 The Underground: Kev-O with Justen Best, Camz, Wuuudidit, Jon Lamar, Till OJ",
+        "date": "2025-06-21T04:00:00.000Z",
+        "type": "music",
+        "description": "4th Room Entertainment Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://www.etix.com/ticket/p/45771223/strictly-4-the-undergroundkevo-with-justen-bestcamzwuuudiditjon-lamartill-oj-chapel-hill-local-506?partner_id=100",
+        "lastScraped": "2025-03-15T03:08:14.829Z",
+        "hash": "a49363d21295b208ecd957a38ebcea4c",
+        "performers": [
+          "Strictly 4 The Underground: Kev-O with Justen Best, Camz, Wuuudidit, Jon Lamar, Till OJ"
+        ]
+      },
+      {
+        "id": "10f558aa-fd71-46ab-81f5-4243c903a00d",
+        "name": "Bambara",
+        "date": "2025-09-20T04:00:00.000Z",
+        "type": "music",
+        "description": "Andmoreagain Presents presents at Local 506",
+        "startTime": "7pm",
+        "venueId": "2",
+        "sourceUrl": "https://tickets.venuepilot.com/e/bambara-2025-09-20-local-506-chapel-hill-198cba",
+        "lastScraped": "2025-03-15T03:08:14.830Z",
+        "hash": "d185d02b7332ee00983fc87cb7c2c94f",
+        "performers": [
+          "Bambara"
+        ]
+      }
+    ],
+    "venue": "Local 506",
+    "success": true,
+    "scrapedAt": "2025-03-15T03:08:14.830Z"
+  },
+  {
+    "venue": "Motorco Music Hall",
+    "events": [
+      {
+        "id": "dfb27c4a-cb81-45d1-8044-e1fa8cc86c25",
+        "name": "Melt with KATIE LYNNE SHARBAUGH",
+        "date": "2025-03-14T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Melt with KATIE LYNNE SHARBAUGH. Tickets $20/$25",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/melt/",
+        "lastScraped": "2025-03-15T03:08:18.073Z",
+        "hash": "ae2660c3529e02d56e7114f5a2248e2a",
+        "performers": [
+          "Melt",
+          "KATIE LYNNE SHARBAUGH"
+        ]
+      },
+      {
+        "id": "d7bcd538-738e-419a-ad1d-e524b091d12b",
+        "name": "Take On Me An 80s Affair 3 with THE 80'S DANSE SOCIETY / DJ FIFI HI-FI & PATRICK",
+        "date": "2025-03-15T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Take On Me An 80s Affair 3 with THE 80'S DANSE SOCIETY / DJ FIFI HI-FI & PATRICK. Tickets $20/$23",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/take-on-me-an-80s-affair-3/",
+        "lastScraped": "2025-03-15T03:08:18.073Z",
+        "hash": "addde060ba87a805107d188fc3e94abd",
+        "performers": [
+          "Take On Me An 80s Affair 3",
+          "PATRICK"
+        ]
+      },
+      {
+        "id": "7656f90a-0848-4940-9212-533fd2e34ef4",
+        "name": "Donovan Woods with BILLY RAFFOUL",
+        "date": "2025-03-16T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Donovan Woods with BILLY RAFFOUL. Tickets $25/$27",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/donovan-woods/",
+        "lastScraped": "2025-03-15T03:08:18.073Z",
+        "hash": "44a528b3593b9e6f0d2e4faf2d441390",
+        "performers": [
+          "Donovan Woods",
+          "BILLY RAFFOUL"
+        ]
+      },
+      {
+        "id": "e20a74f7-1169-406d-b5d7-3bf74d5c7b8d",
+        "name": "Willis with BRAVE BABY",
+        "date": "2025-03-17T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Willis with BRAVE BABY. Tickets $18/$22",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/willis/",
+        "lastScraped": "2025-03-15T03:08:18.074Z",
+        "hash": "01cd5152074afadd832ca9e8f6e08208",
+        "performers": [
+          "Willis",
+          "BRAVE BABY"
+        ]
+      },
+      {
+        "id": "a020beae-b7b0-4aa3-b5d1-e1cc8a2dd604",
+        "name": "The Monti Storyslam Lucky Break",
+        "date": "2025-03-18T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: The Monti Storyslam Lucky Break. Tickets $12",
+        "startTime": "7:30 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/the-monti-storyslam-lucky-break/",
+        "lastScraped": "2025-03-15T03:08:18.074Z",
+        "hash": "9ee8c580a793734d63217a4a3a00746c",
+        "performers": [
+          "The Monti Storyslam Lucky Break"
+        ]
+      },
+      {
+        "id": "a93a43b8-5cd6-403e-bc27-57f658ba363e",
+        "name": "Reggie Watts",
+        "date": "2025-03-19T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Reggie Watts. Tickets $39.50/$45",
+        "startTime": "8:30 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/reggie-watts/",
+        "lastScraped": "2025-03-15T03:08:18.074Z",
+        "hash": "83ec579cffd32ffc2daf8e6f9a87433d",
+        "performers": [
+          "Reggie Watts"
+        ]
+      },
+      {
+        "id": "b6928066-dbfe-4890-acca-54a0e4e8ac86",
+        "name": "Periodic Tables 03 20 2025 with featured speaker Benjamin Chapman",
+        "date": "2025-03-20T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Periodic Tables 03 20 2025 with featured speaker Benjamin Chapman. FREE",
+        "startTime": "7:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/periodic-tables-03-20-2025/",
+        "lastScraped": "2025-03-15T03:08:18.074Z",
+        "hash": "8c64f8b642640e97178aafe62a447866",
+        "performers": [
+          "Periodic Tables 03 20 2025",
+          "featured speaker Benjamin Chapman"
+        ]
+      },
+      {
+        "id": "3dd5c949-d18b-475c-beac-337015c066c9",
+        "name": "Mentally Im Here",
+        "date": "2025-03-21T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Mentally Im Here. Tickets DONATIONS",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/mentally-im-here/",
+        "lastScraped": "2025-03-15T03:08:18.074Z",
+        "hash": "d04225f417e895e7574901af654200e9",
+        "performers": [
+          "Mentally Im Here"
+        ]
+      },
+      {
+        "id": "857e76e8-53a8-4f71-96d8-36736aea8fcf",
+        "name": "Motorco Annual Shrimp Boil with Motorco x Parts & Labor Annual Shrimp Boil",
+        "date": "2025-03-22T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Motorco Annual Shrimp Boil with Motorco x Parts & Labor Annual Shrimp Boil. Tickets $20/$25",
+        "startTime": "12:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/motorco-annual-shrimp-boil/",
+        "lastScraped": "2025-03-15T03:08:18.075Z",
+        "hash": "aca30b6e1d7f10eab5cc1134688baa4d",
+        "performers": [
+          "Motorco Annual Shrimp Boil",
+          "Motorco x Parts",
+          "Labor Annual Shrimp Boil"
+        ]
+      },
+      {
+        "id": "9ebd2276-c638-42f8-8829-151c7c46c289",
+        "name": "Gimme Gimme Disco 3 22 25 with A DISCO DANCE PARTY!",
+        "date": "2025-03-22T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Gimme Gimme Disco 3 22 25 with A DISCO DANCE PARTY!. Tickets $20/$23",
+        "startTime": "9:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/gimme-gimme-disco-3-22-25/",
+        "lastScraped": "2025-03-15T03:08:18.075Z",
+        "hash": "c7f57a6a8fb6bf6376b098c0e1931458",
+        "performers": [
+          "Gimme Gimme Disco 3 22 25",
+          "A DISCO DANCE PARTY!"
+        ]
+      },
+      {
+        "id": "e809da21-d534-491d-b58d-eda2baa659eb",
+        "name": "Will Mcbride Group Matinee Show with RETRO FUSION",
+        "date": "2025-03-23T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Will Mcbride Group Matinee Show with RETRO FUSION. Tickets $15/$17",
+        "startTime": "1:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/will-mcbride-group-matinee-show/",
+        "lastScraped": "2025-03-15T03:08:18.075Z",
+        "hash": "466baf86ca4a43ab027a80abb170c93c",
+        "performers": [
+          "Will Mcbride Group Matinee Show",
+          "RETRO FUSION"
+        ]
+      },
+      {
+        "id": "d651101f-8c76-4830-b911-d5bbb16db7d0",
+        "name": "The Monti Storyslam Fish Out Of Water",
+        "date": "2025-03-26T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: The Monti Storyslam Fish Out Of Water. Tickets $12",
+        "startTime": "7:30 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/the-monti-storyslam-fish-out-of-water/",
+        "lastScraped": "2025-03-15T03:08:18.075Z",
+        "hash": "62fdfc37234d67e2388a5c37b9143fa9",
+        "performers": [
+          "The Monti Storyslam Fish Out Of Water"
+        ]
+      },
+      {
+        "id": "416848c0-ead4-43ee-9096-b9dbd30f8ba0",
+        "name": "Tricky Dick 2025",
+        "date": "2025-03-27T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Tricky Dick 2025. Tickets $8/$10",
+        "startTime": "8:30 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/tricky-dick-2025/",
+        "lastScraped": "2025-03-15T03:08:18.076Z",
+        "hash": "7044718132fef34e726f38ab19047b46",
+        "performers": [
+          "Tricky Dick 2025"
+        ]
+      },
+      {
+        "id": "0962d1b5-a278-4dcc-ab00-e4360a5f86f1",
+        "name": "Maggie Antone with MOLLY FORBES",
+        "date": "2025-03-28T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Maggie Antone with MOLLY FORBES. Tickets $20/$25",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/maggie-antone/",
+        "lastScraped": "2025-03-15T03:08:18.076Z",
+        "hash": "cb63f0ca51ebcc8f2de3667ace26f3e3",
+        "performers": [
+          "Maggie Antone",
+          "MOLLY FORBES"
+        ]
+      },
+      {
+        "id": "5c632648-df01-4261-b8e6-f1be2f74cc0d",
+        "name": "Motorco Rock N Shop 3",
+        "date": "2025-03-30T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Motorco Rock N Shop 3. Free",
+        "startTime": "12:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/motorco-rock-n-shop-3/",
+        "lastScraped": "2025-03-15T03:08:18.076Z",
+        "hash": "e76c55bf692a87241edd98b7cd2b3eae",
+        "performers": [
+          "Motorco Rock N Shop 3"
+        ]
+      },
+      {
+        "id": "5d02cb24-355e-4446-a67b-76b1ec59da35",
+        "name": "A Woman Is A School with author Céline Semaan",
+        "date": "2025-04-02T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: A Woman Is A School with author Céline Semaan. Tickets $20/$10/$40/$420",
+        "startTime": "7:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/a-woman-is-a-school/",
+        "lastScraped": "2025-03-15T03:08:18.076Z",
+        "hash": "abcb12782174ad23dd8b44a1a587dcc9",
+        "performers": [
+          "A Woman Is A School",
+          "author Céline Semaan"
+        ]
+      },
+      {
+        "id": "0a48d239-986c-4186-8d3d-68c632835d19",
+        "name": "Rebirth Brass Band",
+        "date": "2025-04-03T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Rebirth Brass Band. Tickets $35/$40",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/rebirth-brass-band/",
+        "lastScraped": "2025-03-15T03:08:18.076Z",
+        "hash": "dce603f1d12fbdf74c1cc620ee01bb23",
+        "performers": [
+          "Rebirth Brass Band"
+        ]
+      },
+      {
+        "id": "dcb0c914-1bd5-4fdf-9741-648a84a70f49",
+        "name": "Greek with BIKING WITH FRANCIS / THE OPEN",
+        "date": "2025-04-04T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Greek with BIKING WITH FRANCIS / THE OPEN. Tickets $20/$25",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/greek/",
+        "lastScraped": "2025-03-15T03:08:18.076Z",
+        "hash": "58e033814b45cb4aebef3b9c9339639e",
+        "performers": [
+          "Greek",
+          "BIKING WITH FRANCIS / THE OPEN"
+        ]
+      },
+      {
+        "id": "7df8a7a4-5502-4460-87b6-94dfac16def1",
+        "name": "Rock Roll Playhouse 4 5 25 with plays THE MUSIC OF TOM PETTY & MORE (FOR KIDS!)",
+        "date": "2025-04-05T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Rock Roll Playhouse 4 5 25 with plays THE MUSIC OF TOM PETTY & MORE (FOR KIDS!). Tickets $17/$20",
+        "startTime": "12:30 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/rock-roll-playhouse-4-5-25/",
+        "lastScraped": "2025-03-15T03:08:18.077Z",
+        "hash": "8cac65b96b00d1c5614251a203fca9de",
+        "performers": [
+          "Rock Roll Playhouse 4 5 25",
+          "plays THE MUSIC OF TOM PETTY",
+          "MORE (FOR KIDS!)"
+        ]
+      },
+      {
+        "id": "d24b4ba7-a127-4ed0-87f3-aa859aa34098",
+        "name": "Debi Tirar Mas Fiestas with THE BAD BUNNY PARTY!",
+        "date": "2025-04-05T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Debi Tirar Mas Fiestas with THE BAD BUNNY PARTY!. Tickets $15/$20",
+        "startTime": "9:30 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/debi-tirar-mas-fiestas/",
+        "lastScraped": "2025-03-15T03:08:18.077Z",
+        "hash": "60dc8d7291e68cc1bab5b2fb426cb9b2",
+        "performers": [
+          "Debi Tirar Mas Fiestas",
+          "THE BAD BUNNY PARTY!"
+        ]
+      },
+      {
+        "id": "1559b72a-f0eb-4276-bab3-5ebe8b5cef4b",
+        "name": "The Weather Station",
+        "date": "2025-04-06T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: The Weather Station. Tickets $20/$23",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/the-weather-station/",
+        "lastScraped": "2025-03-15T03:08:18.077Z",
+        "hash": "3987e5db053f63f1049b8612f8b40893",
+        "performers": [
+          "The Weather Station"
+        ]
+      },
+      {
+        "id": "5e60246d-f410-4aba-9be8-077c58bee5a6",
+        "name": "The Rocket Summer Hello Good Friend 20th Anniversary Tour with MAE",
+        "date": "2025-04-07T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: The Rocket Summer Hello Good Friend 20th Anniversary Tour with MAE. Tickets $25/$30",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/the-rocket-summer-hello-good-friend-20th-anniversary-tour/",
+        "lastScraped": "2025-03-15T03:08:18.077Z",
+        "hash": "4792efd2b7d71691f4ce30c7aca77a5e",
+        "performers": [
+          "The Rocket Summer Hello Good Friend 20th Anniversary Tour",
+          "MAE"
+        ]
+      },
+      {
+        "id": "112b31d3-6ad2-41ba-970a-536359dcc908",
+        "name": "Music Madness 2 with Featuring The Durham Fellows String Quartet",
+        "date": "2025-04-10T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Music Madness 2 with Featuring The Durham Fellows String Quartet. Tickets $20",
+        "startTime": "7:30 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/music-madness-2/",
+        "lastScraped": "2025-03-15T03:08:18.077Z",
+        "hash": "b1c66790a2d952e91c43eaaa0056cfdd",
+        "performers": [
+          "Music Madness 2",
+          "Featuring The Durham Fellows String Quartet"
+        ]
+      },
+      {
+        "id": "980486c9-79a0-4a32-a8f8-5159af477e32",
+        "name": "Broadway Rave 4 11 25",
+        "date": "2025-04-11T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Broadway Rave 4 11 25. Tickets $20/$23",
+        "startTime": "9:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/broadway-rave-4-11-25/",
+        "lastScraped": "2025-03-15T03:08:18.077Z",
+        "hash": "a9bb7457d18dc48d10af228451b308ae",
+        "performers": [
+          "Broadway Rave 4 11 25"
+        ]
+      },
+      {
+        "id": "9184142d-3683-4450-89ab-66381c65d117",
+        "name": "Daft Disko",
+        "date": "2025-04-12T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Daft Disko. Tickets $15/$20",
+        "startTime": "9:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/daft-disko/",
+        "lastScraped": "2025-03-15T03:08:18.078Z",
+        "hash": "800a96b2c56568a18ae00eaa99741e38",
+        "performers": [
+          "Daft Disko"
+        ]
+      },
+      {
+        "id": "b63c7f4b-dbbf-4cfd-be27-84285bc7c236",
+        "name": "2025 Flamenco Vivos Tablao Flamenco Friday Night",
+        "date": "2025-04-18T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: 2025 Flamenco Vivos Tablao Flamenco Friday Night. Tickets $45/$30/$20 Student",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/2025-flamenco-vivos-tablao-flamenco-friday-night/",
+        "lastScraped": "2025-03-15T03:08:18.078Z",
+        "hash": "9932c226b6b85c7174d9dc94e5dd3acd",
+        "performers": [
+          "2025 Flamenco Vivos Tablao Flamenco Friday Night"
+        ]
+      },
+      {
+        "id": "d71be28e-8812-4fa9-8e3a-0d5506e1b093",
+        "name": "2025 Flamenco Vivos Tablao Flamenco Saturday Matinee",
+        "date": "2025-04-19T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: 2025 Flamenco Vivos Tablao Flamenco Saturday Matinee. Tickets $45/$30/$20 Student",
+        "startTime": "2:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/2025-flamenco-vivos-tablao-flamenco-saturday-matinee/",
+        "lastScraped": "2025-03-15T03:08:18.078Z",
+        "hash": "d81995325b1a3cd438e3453e691dbe0c",
+        "performers": [
+          "2025 Flamenco Vivos Tablao Flamenco Saturday Matinee"
+        ]
+      },
+      {
+        "id": "0ede5ae8-b425-4600-80ab-794b83259023",
+        "name": "2025 Flamenco Vivos Tablao Flamenco Saturday Night",
+        "date": "2025-04-19T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: 2025 Flamenco Vivos Tablao Flamenco Saturday Night. Tickets $45/$30/$20 Student",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/2025-flamenco-vivos-tablao-flamenco-saturday-night/",
+        "lastScraped": "2025-03-15T03:08:18.078Z",
+        "hash": "cfe7a98fcaa8f4cf286c03002deeb21a",
+        "performers": [
+          "2025 Flamenco Vivos Tablao Flamenco Saturday Night"
+        ]
+      },
+      {
+        "id": "917876d4-67ca-4259-a4b7-7f361d846201",
+        "name": "Magic Sword with STARBENDERS / MEGA RAN",
+        "date": "2025-04-20T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Magic Sword with STARBENDERS / MEGA RAN. Tickets $26/$30",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/magic-sword/",
+        "lastScraped": "2025-03-15T03:08:18.078Z",
+        "hash": "9d7be2dd7a7d9fa4b055874b04652669",
+        "performers": [
+          "Magic Sword",
+          "STARBENDERS / MEGA RAN"
+        ]
+      },
+      {
+        "id": "7b62c660-08bb-4b45-90c9-b75c834f96fa",
+        "name": "Perfect Person",
+        "date": "2025-04-24T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Perfect Person. SOLD OUT $32/$37",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/perfect-person/",
+        "lastScraped": "2025-03-15T03:08:18.079Z",
+        "hash": "901cda97de6075b80e8a41671cb1ed19",
+        "performers": [
+          "Perfect Person"
+        ]
+      },
+      {
+        "id": "37d8b0e3-2a0d-43df-ba49-3e9bea8e0a84",
+        "name": "Brother Ali 2 with DJ ABILITIES / JABEE",
+        "date": "2025-04-25T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Brother Ali 2 with DJ ABILITIES / JABEE. Tickets $22/$25",
+        "startTime": "9:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/brother-ali-2/",
+        "lastScraped": "2025-03-15T03:08:18.079Z",
+        "hash": "60abeb21bdec954ad715b9b1b72aecca",
+        "performers": [
+          "Brother Ali 2"
+        ]
+      },
+      {
+        "id": "53f19791-0a04-41d8-b891-71054dd1e82e",
+        "name": "Momma with BRENNAN WEDL",
+        "date": "2025-04-26T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Momma with BRENNAN WEDL. Tickets $25/$28",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/momma/",
+        "lastScraped": "2025-03-15T03:08:18.079Z",
+        "hash": "9940aa3be9d96fe17de6cedbe52c563b",
+        "performers": [
+          "Momma",
+          "BRENNAN WEDL"
+        ]
+      },
+      {
+        "id": "c3642aad-eb5b-4be5-8c3d-b6b2b4ab9aee",
+        "name": "Bartees Strange with EKKO ASTRAL",
+        "date": "2025-04-29T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Bartees Strange with EKKO ASTRAL. Tickets $20/$25",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/bartees-strange/",
+        "lastScraped": "2025-03-15T03:08:18.079Z",
+        "hash": "16a853e9911b6458723533cdb8005e29",
+        "performers": [
+          "Bartees Strange",
+          "EKKO ASTRAL"
+        ]
+      },
+      {
+        "id": "fc8bc17e-6864-47f5-b15f-98f1d342fa2d",
+        "name": "Slothrust with WEAKENED FRIENDS",
+        "date": "2025-05-01T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Slothrust with WEAKENED FRIENDS. Tickets $20/$25",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/slothrust/",
+        "lastScraped": "2025-03-15T03:08:18.080Z",
+        "hash": "6a6dd28a44f093f281a85074047f048f",
+        "performers": [
+          "Slothrust",
+          "WEAKENED FRIENDS"
+        ]
+      },
+      {
+        "id": "483277b2-5165-45db-877b-5725fb2923ba",
+        "name": "High Vis with MILITARIE GUN / AGE OF APOCALYPSE",
+        "date": "2025-05-03T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: High Vis with MILITARIE GUN / AGE OF APOCALYPSE. Tickets $25/$28",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/high-vis/",
+        "lastScraped": "2025-03-15T03:08:18.080Z",
+        "hash": "30338da2e8db2507e51344f3c5c01b3f",
+        "performers": [
+          "High Vis",
+          "MILITARIE GUN / AGE OF APOCALYPSE"
+        ]
+      },
+      {
+        "id": "ec765307-2b20-4699-bb1d-63505e50339d",
+        "name": "Smallpools 05 06 2025",
+        "date": "2025-05-06T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Smallpools 05 06 2025. Tickets $27.50/$33",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/smallpools-05-06-2025/",
+        "lastScraped": "2025-03-15T03:08:18.080Z",
+        "hash": "48c71eecfc25fff92f120d3f7171c4de",
+        "performers": [
+          "Smallpools 05 06 2025"
+        ]
+      },
+      {
+        "id": "b0898cad-3b7d-4ac4-93f5-31b56e5dfb3f",
+        "name": "Hot In Herre 5 9 25",
+        "date": "2025-05-09T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Hot In Herre 5 9 25. Tickets $18/$20",
+        "startTime": "9:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/hot-in-herre-5-9-25/",
+        "lastScraped": "2025-03-15T03:08:18.080Z",
+        "hash": "4e24bf332f6ba142d0d21df0f6f28dc4",
+        "performers": [
+          "Hot In Herre 5 9 25"
+        ]
+      },
+      {
+        "id": "25811ac1-6954-4df4-88fc-ad1b0d7c5eea",
+        "name": "Alien Ant Farm",
+        "date": "2025-05-10T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Alien Ant Farm. Tickets $25/$30",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/alien-ant-farm/",
+        "lastScraped": "2025-03-15T03:08:18.080Z",
+        "hash": "ca78acd18e43b7ce9f80419642c8e297",
+        "performers": [
+          "Alien Ant Farm"
+        ]
+      },
+      {
+        "id": "f397ed99-7b10-4f1c-8bd9-fa6a91e82b44",
+        "name": "Boston Manor with SPACED / FARMER'S WIFE / ELLIS",
+        "date": "2025-05-13T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Boston Manor with SPACED / FARMER'S WIFE / ELLIS. Tickets $25/$30",
+        "startTime": "7:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/boston-manor/",
+        "lastScraped": "2025-03-15T03:08:18.081Z",
+        "hash": "49fab6ddfc4a488b1c6f4580a5dad72b",
+        "performers": [
+          "Boston Manor",
+          "SPACED / FARMER'S WIFE / ELLIS"
+        ]
+      },
+      {
+        "id": "9d95dd20-f458-42f6-b66c-b16dc0488e27",
+        "name": "Chloe Moriondo 05 16 25 with SEX WEEK",
+        "date": "2025-05-16T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Chloe Moriondo 05 16 25 with SEX WEEK. Tickets $22/$26/VIP",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/chloe-moriondo-05-16-25/",
+        "lastScraped": "2025-03-15T03:08:18.081Z",
+        "hash": "2e94f25fd430bc7dc643062037cfb6f9",
+        "performers": [
+          "Chloe Moriondo 05 16 25",
+          "SEX WEEK"
+        ]
+      },
+      {
+        "id": "07858310-6bf3-43a1-b6a0-6cd9594b916c",
+        "name": "Brett Dennen River Whyless",
+        "date": "2025-05-17T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Brett Dennen River Whyless. Tickets $25/$30",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/brett-dennen-river-whyless/",
+        "lastScraped": "2025-03-15T03:08:18.081Z",
+        "hash": "449b5efde3633507f81cdad19f0fa3db",
+        "performers": [
+          "Brett Dennen River Whyless"
+        ]
+      },
+      {
+        "id": "08f6de2f-9ba0-420c-8d89-042586694dd1",
+        "name": "The Wedding Present with THE TUBS",
+        "date": "2025-05-21T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: The Wedding Present with THE TUBS. Tickets $25/$28",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/the-wedding-present/",
+        "lastScraped": "2025-03-15T03:08:18.082Z",
+        "hash": "2e6a6adefadbb0898c3abf60f7c3de34",
+        "performers": [
+          "The Wedding Present",
+          "THE TUBS"
+        ]
+      },
+      {
+        "id": "dcdd9cc8-be41-44b2-b36b-8b98fb4bfe6a",
+        "name": "Annie Dirusso with SQUIRREL FLOWER",
+        "date": "2025-05-23T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Annie Dirusso with SQUIRREL FLOWER. Tickets $25.50/$30/$100 VIP",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/annie-dirusso/",
+        "lastScraped": "2025-03-15T03:08:18.082Z",
+        "hash": "6f191ca3bab094743a57ceb51a5de4f0",
+        "performers": [
+          "Annie Dirusso",
+          "SQUIRREL FLOWER"
+        ]
+      },
+      {
+        "id": "693f27ae-f706-4529-8b89-90d16e6ca2cf",
+        "name": "Nothing Nowhere with SACE6",
+        "date": "2025-05-25T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Nothing Nowhere with SACE6. Tickets $25/$28",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/nothing-nowhere/",
+        "lastScraped": "2025-03-15T03:08:18.082Z",
+        "hash": "a2d303b62666a546b7281e3b3ab7ac1d",
+        "performers": [
+          "Nothing Nowhere",
+          "SACE6"
+        ]
+      },
+      {
+        "id": "ee1891c7-6bae-439d-8559-3f0a1424a8a4",
+        "name": "Full Of Hell Harms Way with KRUELTY, JARHEAD FERTILIZER, CLIQUE",
+        "date": "2025-05-28T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Full Of Hell Harms Way with KRUELTY, JARHEAD FERTILIZER, CLIQUE. Tickets $26/$30",
+        "startTime": "6:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/full-of-hell-harms-way/",
+        "lastScraped": "2025-03-15T03:08:18.082Z",
+        "hash": "6648116c98e16706546672b4b8bcf1b4",
+        "performers": [
+          "Full Of Hell Harms Way",
+          "KRUELTY",
+          "JARHEAD FERTILIZER",
+          "CLIQUE"
+        ]
+      },
+      {
+        "id": "c0987438-e5af-40e3-b722-699585047d46",
+        "name": "Lights with KING MALA",
+        "date": "2025-05-31T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Lights with KING MALA. Tickets $28/$33",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/lights/",
+        "lastScraped": "2025-03-15T03:08:18.083Z",
+        "hash": "f6879a6e88b44a2062875d8f28b1579a",
+        "performers": [
+          "Lights",
+          "KING MALA"
+        ]
+      },
+      {
+        "id": "20147f1f-1f1e-4905-bb30-51bd4bc46ded",
+        "name": "Cults 6 11 25 with ZZZAHARA",
+        "date": "2025-06-11T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Cults 6 11 25 with ZZZAHARA. Tickets $25/$30",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/cults-6-11-25/",
+        "lastScraped": "2025-03-15T03:08:18.083Z",
+        "hash": "03dbe462af1eed8c94805b90d52ee4da",
+        "performers": [
+          "Cults 6 11 25",
+          "ZZZAHARA"
+        ]
+      },
+      {
+        "id": "0d8fd748-2c30-4324-98cf-250f8f190639",
+        "name": "Heart Attack Man with THE DIRTY NIL / CARPOOL / DEAR SEATTLE",
+        "date": "2025-06-19T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Heart Attack Man with THE DIRTY NIL / CARPOOL / DEAR SEATTLE. Tickets $27/$30",
+        "startTime": "7:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/heart-attack-man/",
+        "lastScraped": "2025-03-15T03:08:18.083Z",
+        "hash": "e479741d44a9ab38ab67edcc92756acd",
+        "performers": [
+          "Heart Attack Man",
+          "THE DIRTY NIL / CARPOOL / DEAR SEATTLE"
+        ]
+      },
+      {
+        "id": "313aff55-2de0-4a7f-9e14-81bc30f12542",
+        "name": "Julia Wolf with WORRY CLUB / ELLIS",
+        "date": "2025-06-22T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Julia Wolf with WORRY CLUB / ELLIS. Tickets $20/$24",
+        "startTime": "7:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/julia-wolf/",
+        "lastScraped": "2025-03-15T03:08:18.083Z",
+        "hash": "7dd9d6ecb38205a374fc19dae4c1d426",
+        "performers": [
+          "Julia Wolf",
+          "WORRY CLUB / ELLIS"
+        ]
+      },
+      {
+        "id": "6cb3b447-e13f-49b9-ba4c-e62110b189ec",
+        "name": "Bailey Spinn with AUTUMN KINGS / THE REQUIEM",
+        "date": "2025-06-23T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Bailey Spinn with AUTUMN KINGS / THE REQUIEM. Tickets $23/$27",
+        "startTime": "7:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/bailey-spinn/",
+        "lastScraped": "2025-03-15T03:08:18.084Z",
+        "hash": "46c408f20c9ad838f644c45baff63cb4",
+        "performers": [
+          "Bailey Spinn",
+          "AUTUMN KINGS / THE REQUIEM"
+        ]
+      },
+      {
+        "id": "1bf1452d-d208-448e-9f3d-ad3780fa64ed",
+        "name": "Cant Feel My Face",
+        "date": "2025-06-27T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Cant Feel My Face. Tickets $18/$20",
+        "startTime": "9:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/cant-feel-my-face/",
+        "lastScraped": "2025-03-15T03:08:18.084Z",
+        "hash": "fb9abf4e21d5fa69d29ff1040b558e8a",
+        "performers": [
+          "Cant Feel My Face"
+        ]
+      },
+      {
+        "id": "8ba53f77-699a-4dc6-8b17-63829ecc4637",
+        "name": "Rose City Band with POWERS / ROLIN DUO",
+        "date": "2025-07-22T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Rose City Band with POWERS / ROLIN DUO. Tickets $20/$22",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/rose-city-band/",
+        "lastScraped": "2025-03-15T03:08:18.084Z",
+        "hash": "beb1741bdff6b9b383cf66b672c020b3",
+        "performers": [
+          "Rose City Band",
+          "POWERS / ROLIN DUO"
+        ]
+      },
+      {
+        "id": "97d5d67c-df74-4cf1-a685-5e23c581091f",
+        "name": "Cochise 9 12 25",
+        "date": "2025-09-12T04:00:00.000Z",
+        "type": "music",
+        "description": "Event at Motorco Music Hall: Cochise 9 12 25. Tickets $22.50/$25/VIP",
+        "startTime": "8:00 pm",
+        "venueId": "3",
+        "sourceUrl": "https://motorcomusic.com/event/cochise-9-12-25/",
+        "lastScraped": "2025-03-15T03:08:18.084Z",
+        "hash": "6342f300ee165dce1f9ec05cf2b8df50",
+        "performers": [
+          "Cochise 9 12 25"
+        ]
+      }
+    ],
+    "success": true,
+    "scrapedAt": "2025-03-15T03:08:18.084Z"
+  }
+]

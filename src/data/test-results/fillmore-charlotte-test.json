@@ -1,0 +1,587 @@
+{
+  "events": [
+    {
+      "id": "73247f6b-5111-49f4-a07d-67516942773d",
+      "name": "Rare Americans North American Tour 2025",
+      "date": "2025-03-16T21:53:36.391Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Rare Americans North American Tour 2025",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/rare-americans-north-american-tour-2025-charlotte-north-carolina-03-16-2025/event/2D00612BD0DB6BA5",
+      "lastScraped": "2025-03-16T21:53:36.391Z",
+      "hash": "36258912d910bd5be20019b3d5b8c34c",
+      "performers": [
+        "Rare Americans North American Tour 2025"
+      ],
+      "genre": []
+    },
+    {
+      "id": "c69c1023-839f-47e9-9de8-27f01cf1e9dc",
+      "name": "Spencer Sutherland - The Drama North American Tour",
+      "date": "2025-03-16T21:53:36.392Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Spencer Sutherland - The Drama North American Tour",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/spencer-sutherland-the-drama-north-american-charlotte-north-carolina-03-17-2025/event/2D006106C462AAC5",
+      "lastScraped": "2025-03-16T21:53:36.393Z",
+      "hash": "fe4477480ca8223dbf7b294cc244f538",
+      "performers": [
+        "Spencer Sutherland"
+      ],
+      "genre": []
+    },
+    {
+      "id": "64cbe2e3-00c1-45f8-a6ac-6577463ae417",
+      "name": "K.Flay",
+      "date": "2025-03-16T21:53:36.394Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: K.Flay",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/kflay-charlotte-north-carolina-03-18-2025/event/2D00614AA0DF7382",
+      "lastScraped": "2025-03-16T21:53:36.406Z",
+      "hash": "b518ec8067ba21ba3ed1f282047f18f7",
+      "performers": [
+        "K.Flay"
+      ],
+      "genre": []
+    },
+    {
+      "id": "5813852e-61f5-41b5-9515-64e76a9deff7",
+      "name": "Jessica Kirson",
+      "date": "2025-03-16T21:53:36.407Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Jessica Kirson",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/jessica-kirson-charlotte-north-carolina-03-20-2025/event/2D00623B9E102F86",
+      "lastScraped": "2025-03-16T21:53:36.408Z",
+      "hash": "953e6964a1ea1998e78a8432db408efe",
+      "performers": [
+        "Jessica Kirson"
+      ],
+      "genre": []
+    },
+    {
+      "id": "f19f322c-eb0d-4be1-a9f8-9b837d69225f",
+      "name": "SahBabii",
+      "date": "2025-03-16T21:53:36.409Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: SahBabii",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/sahbabii-charlotte-north-carolina-03-21-2025/event/2D00619093B01D03",
+      "lastScraped": "2025-03-16T21:53:36.409Z",
+      "hash": "96b7c436419229f6cff01a8cd6cab597",
+      "performers": [
+        "SahBabii"
+      ],
+      "genre": []
+    },
+    {
+      "id": "816f77ad-92ac-429e-b494-8396c1b5040b",
+      "name": "Grits & Biscuits - 21+ Only",
+      "date": "2025-03-16T21:53:36.410Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Grits & Biscuits - 21+ Only",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/grits-biscuits-21-only-charlotte-north-carolina-03-21-2025/event/2D0062548F28641C",
+      "lastScraped": "2025-03-16T21:53:36.410Z",
+      "hash": "033918913af84a4bbb5cec93407fb73e",
+      "performers": [
+        "Grits & Biscuits"
+      ],
+      "genre": []
+    },
+    {
+      "id": "6f5ee163-d322-43d1-8ff5-50291881332c",
+      "name": "Countess Cabaret - Pre-Show M&G Add-On",
+      "date": "2025-03-16T21:53:36.410Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Countess Cabaret - Pre-Show M&G Add-On",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/countess-cabaret-preshow-mg-addon-charlotte-north-carolina-03-22-2025/event/2D00618D921F3915",
+      "lastScraped": "2025-03-16T21:53:36.411Z",
+      "hash": "cc2874ebcadc869c5c183745604ee0de",
+      "performers": [
+        "Countess Cabaret"
+      ],
+      "genre": []
+    },
+    {
+      "id": "e379c308-f417-47b0-b316-fe35e0c5af8b",
+      "name": "Countess Cabaret with Luann de Lesseps",
+      "date": "2025-03-16T21:53:36.412Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Countess Cabaret with Luann de Lesseps",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/countess-cabaret-with-luann-de-lesseps-charlotte-north-carolina-03-22-2025/event/2D00618D9220391E",
+      "lastScraped": "2025-03-16T21:53:36.413Z",
+      "hash": "d9457c30a0ae9d6897072a8107c32f01",
+      "performers": [
+        "Countess Cabaret",
+        "Luann de Lesseps"
+      ],
+      "genre": []
+    },
+    {
+      "id": "125f7e11-431c-47db-91e8-6d93279efd55",
+      "name": "Gimme Gimme Disco (18+)",
+      "date": "2025-03-16T21:53:36.414Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Gimme Gimme Disco (18+)",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/gimme-gimme-disco-18-charlotte-north-carolina-03-22-2025/event/2D00624ED1086E70",
+      "lastScraped": "2025-03-16T21:53:36.414Z",
+      "hash": "f2139be8c14a98446bb23797eb4a7748",
+      "performers": [
+        "Gimme Gimme Disco"
+      ],
+      "genre": []
+    },
+    {
+      "id": "0d172581-2051-4191-bd45-74b974f5e57e",
+      "name": "Maddie Zahm - The Sad & Sexy Tour",
+      "date": "2025-03-16T21:53:36.415Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Maddie Zahm - The Sad & Sexy Tour",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/maddie-zahm-the-sad-sexy-tour-charlotte-north-carolina-03-25-2025/event/2D006226A4261B7C",
+      "lastScraped": "2025-03-16T21:53:36.416Z",
+      "hash": "97cbdb25974107ca6966c181f720b0c6",
+      "performers": [
+        "Maddie Zahm"
+      ],
+      "genre": []
+    },
+    {
+      "id": "fa703a5c-ab04-4dcf-87a1-f75c0371de1b",
+      "name": "Connor Price",
+      "date": "2025-03-16T21:53:36.417Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Connor Price",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/connor-price-charlotte-north-carolina-03-26-2025/event/2D00617A7B9D1452",
+      "lastScraped": "2025-03-16T21:53:36.417Z",
+      "hash": "ef4e3f8308efbfc184843f701c4f9b64",
+      "performers": [
+        "Connor Price"
+      ],
+      "genre": []
+    },
+    {
+      "id": "79018b54-198c-4047-8e0c-6beb5ee6910c",
+      "name": "Intervals: Memory Palace Tour 2025",
+      "date": "2025-03-16T21:53:36.418Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Intervals: Memory Palace Tour 2025",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/intervals-memory-palace-tour-2025-charlotte-north-carolina-03-28-2025/event/2D006148C4AC3C2D",
+      "lastScraped": "2025-03-16T21:53:36.418Z",
+      "hash": "13b05c2d7fce72fa2193c1a8d555d96d",
+      "performers": [
+        "Intervals: Memory Palace Tour 2025"
+      ],
+      "genre": []
+    },
+    {
+      "id": "48e04607-6f59-4ec6-9ed7-0ab019578c47",
+      "name": "Dom Kennedy",
+      "date": "2025-03-16T21:53:36.418Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Dom Kennedy",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/dom-kennedy-charlotte-north-carolina-03-29-2025/event/2D00623B965B206C",
+      "lastScraped": "2025-03-16T21:53:36.419Z",
+      "hash": "9a600b5a31c896930d8f67ef8ba60546",
+      "performers": [
+        "Dom Kennedy"
+      ],
+      "genre": []
+    },
+    {
+      "id": "e07e5d87-e75a-42d6-ac45-ab14261ccc7a",
+      "name": "IMMINENCE \"THE RETURN OF THE BLACK TOUR - NORTH AMERICA 2025\"",
+      "date": "2025-03-16T21:53:36.420Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: IMMINENCE \"THE RETURN OF THE BLACK TOUR - NORTH AMERICA 2025\"",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/imminence-the-return-of-the-black-charlotte-north-carolina-03-30-2025/event/2D006143A2F340C7",
+      "lastScraped": "2025-03-16T21:53:36.420Z",
+      "hash": "f9e87cfed673900cce78044cd3b0f85a",
+      "performers": [
+        "IMMINENCE \"THE RETURN OF THE BLACK TOUR"
+      ],
+      "genre": []
+    },
+    {
+      "id": "16188ea4-c413-46fe-b6e7-01edba31574c",
+      "name": "SAINt JHN: Festival Season Tour",
+      "date": "2025-03-16T21:53:36.420Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: SAINt JHN: Festival Season Tour",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/saint-jhn-festival-season-tour-charlotte-north-carolina-03-30-2025/event/2D0062458BB82331",
+      "lastScraped": "2025-03-16T21:53:36.421Z",
+      "hash": "28c3e1bcef01e28c1fdf58de31206e09",
+      "performers": [
+        "SAINt JHN: Festival Season Tour"
+      ],
+      "genre": []
+    },
+    {
+      "id": "e93d98ee-91a8-4509-be1e-de86b004af99",
+      "name": "YTB Fatt - NEW YEAR NEW PROBLEMS TOUR",
+      "date": "2025-03-16T21:53:36.421Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: YTB Fatt - NEW YEAR NEW PROBLEMS TOUR",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/ytb-fatt-new-year-new-problems-charlotte-north-carolina-03-31-2025/event/2D0062549A5C6878",
+      "lastScraped": "2025-03-16T21:53:36.421Z",
+      "hash": "3483c219cc0e921dbbd47ef415775bc3",
+      "performers": [
+        "YTB Fatt"
+      ],
+      "genre": []
+    },
+    {
+      "id": "a0e99d99-4904-4264-85eb-0ea477abd0d9",
+      "name": "CHELSEA GRIN w/ SHADOW OF INTENT, SIGNS OF THE SWARM, DISEMBODIED TYRA",
+      "date": "2025-03-16T21:53:36.422Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: CHELSEA GRIN w/ SHADOW OF INTENT, SIGNS OF THE SWARM, DISEMBODIED TYRA",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/chelsea-grin-w-shadow-of-intent-charlotte-north-carolina-04-02-2025/event/2D0061860D83ACD5",
+      "lastScraped": "2025-03-16T21:53:36.422Z",
+      "hash": "d814d512b91358186315d3e4cc84aa4f",
+      "performers": [
+        "CHELSEA GRIN",
+        "SHADOW OF INTENT",
+        "SIGNS OF THE SWARM",
+        "DISEMBODIED TYRA"
+      ],
+      "genre": []
+    },
+    {
+      "id": "567dc532-8aa3-4813-93eb-970ff71bb1ac",
+      "name": "Daniel Donato's Cosmic Country",
+      "date": "2025-03-16T21:53:36.424Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Daniel Donato's Cosmic Country",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/daniel-donatos-cosmic-country-charlotte-north-carolina-04-03-2025/event/2D00623B8C861BFF",
+      "lastScraped": "2025-03-16T21:53:36.424Z",
+      "hash": "4c71e3d48de3be4c825438ad72ec635e",
+      "performers": [
+        "Daniel Donato's Cosmic Country"
+      ],
+      "genre": []
+    },
+    {
+      "id": "a2c343fe-1dbe-4f92-8d9d-8f91c667d1e4",
+      "name": "Josiah Queen - My Promised Land Tour",
+      "date": "2025-03-16T21:53:36.425Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Josiah Queen - My Promised Land Tour",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/josiah-queen-my-promised-land-tour-charlotte-north-carolina-04-04-2025/event/2D00622A96451E3F",
+      "lastScraped": "2025-03-16T21:53:36.425Z",
+      "hash": "bd9688f9c0a5b60f9b6df5746f2d78d0",
+      "performers": [
+        "Josiah Queen"
+      ],
+      "genre": []
+    },
+    {
+      "id": "8c227c89-b189-44d7-8df6-ed40db38f307",
+      "name": "Emo Nite (18+)",
+      "date": "2025-03-16T21:53:36.426Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Emo Nite (18+)",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/emo-nite-18-charlotte-north-carolina-04-04-2025/event/2D006263C6173B10",
+      "lastScraped": "2025-03-16T21:53:36.426Z",
+      "hash": "113b2aa7e61089b5e50f60ca8126c8fe",
+      "performers": [
+        "Emo Nite"
+      ],
+      "genre": []
+    },
+    {
+      "id": "54cc641a-eb8b-463d-a16c-f320a7b535bd",
+      "name": "Dean Lewis",
+      "date": "2025-03-16T21:53:36.427Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Dean Lewis",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/dean-lewis-charlotte-north-carolina-04-05-2025/event/2D0060C61F90A594",
+      "lastScraped": "2025-03-16T21:53:36.427Z",
+      "hash": "c47fa511caae0833f0ad872d0186c23a",
+      "performers": [
+        "Dean Lewis"
+      ],
+      "genre": []
+    },
+    {
+      "id": "4e50effb-f6de-4fac-9c9c-92dcbb066262",
+      "name": "Poppy: They're All Around Us",
+      "date": "2025-03-16T21:53:36.428Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Poppy: They're All Around Us",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/poppy-theyre-all-around-us-charlotte-north-carolina-04-07-2025/event/2D0061728B1517BC",
+      "lastScraped": "2025-03-16T21:53:36.428Z",
+      "hash": "4c0e2746a2dc372ad5ea2b4f6d7f9b9d",
+      "performers": [
+        "Poppy: They're All Around Us"
+      ],
+      "genre": []
+    },
+    {
+      "id": "f206b226-e2d4-4686-9cbd-0d0f39736dfc",
+      "name": "half alive presents: Persona World Tour",
+      "date": "2025-03-16T21:53:36.428Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: half alive presents: Persona World Tour",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/half-alive-presents-persona-world-tour-charlotte-north-carolina-04-08-2025/event/2D00616D87BD173E",
+      "lastScraped": "2025-03-16T21:53:36.428Z",
+      "hash": "77878ff04f0fd1be2f9a10e07e96ce08",
+      "performers": [
+        "half alive presents: Persona World Tour"
+      ],
+      "genre": []
+    },
+    {
+      "id": "a4b20663-604f-4655-84a4-e3565a8bd97e",
+      "name": "AWOLNATION - THE PHANTOM FIVE TOUR",
+      "date": "2025-03-16T21:53:36.430Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: AWOLNATION - THE PHANTOM FIVE TOUR",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/awolnation-the-phantom-five-tour-charlotte-north-carolina-04-09-2025/event/2D00612C9C8795EF",
+      "lastScraped": "2025-03-16T21:53:36.430Z",
+      "hash": "3e6a3c285418e93be7aca6c17d10644c",
+      "performers": [
+        "AWOLNATION"
+      ],
+      "genre": []
+    },
+    {
+      "id": "8eab8243-5917-4721-8fdf-886de93c3cd4",
+      "name": "Nettspend",
+      "date": "2025-03-16T21:53:36.431Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Nettspend",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/nettspend-charlotte-north-carolina-04-09-2025/event/2D00623BAFFD3FD7",
+      "lastScraped": "2025-03-16T21:53:36.431Z",
+      "hash": "31a6e68d69744a707a472894387bb681",
+      "performers": [
+        "Nettspend"
+      ],
+      "genre": []
+    },
+    {
+      "id": "8cf755bf-b812-436d-aead-731f18366161",
+      "name": "Lane 8 - Childish Tour",
+      "date": "2025-03-16T21:53:36.432Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Lane 8 - Childish Tour",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/lane-8-childish-tour-charlotte-north-carolina-04-10-2025/event/2D006150C0CCB8A1",
+      "lastScraped": "2025-03-16T21:53:36.432Z",
+      "hash": "1045cb49cd006260b9667b02999768ed",
+      "performers": [
+        "Lane 8"
+      ],
+      "genre": []
+    },
+    {
+      "id": "02f163b4-c019-4cad-a15e-d89bee8653e8",
+      "name": "Shordie Shordie - Breath of Fresh Air Tour",
+      "date": "2025-03-16T21:53:36.433Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Shordie Shordie - Breath of Fresh Air Tour",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/shordie-shordie-breath-of-fresh-air-charlotte-north-carolina-04-10-2025/event/2D006179BA3B33AE",
+      "lastScraped": "2025-03-16T21:53:36.433Z",
+      "hash": "30319429d99eef91bf0eb1e15cdb2709",
+      "performers": [
+        "Shordie Shordie"
+      ],
+      "genre": []
+    },
+    {
+      "id": "dd4d3926-430b-4ebd-bc72-4e69f21cf203",
+      "name": "Larry Fleet: Hard Work and Holy Water Tour",
+      "date": "2025-03-16T21:53:36.434Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Larry Fleet: Hard Work and Holy Water Tour",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/larry-fleet-hard-work-and-holy-charlotte-north-carolina-04-11-2025/event/2D00611D96D73D15",
+      "lastScraped": "2025-03-16T21:53:36.434Z",
+      "hash": "2afe0c3ea86c27447c3aff40feb5d6b1",
+      "performers": [
+        "Larry Fleet: Hard Work and Holy Water Tour"
+      ],
+      "genre": []
+    },
+    {
+      "id": "6007f174-e723-4709-9f3a-942e989c9220",
+      "name": "STRFKR",
+      "date": "2025-03-16T21:53:36.435Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: STRFKR",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/strfkr-charlotte-north-carolina-04-11-2025/event/2D00615FC9C7408F",
+      "lastScraped": "2025-03-16T21:53:36.435Z",
+      "hash": "37886cb532afd54bf56f2a532ac2a3df",
+      "performers": [
+        "STRFKR"
+      ],
+      "genre": []
+    },
+    {
+      "id": "6776ed41-1189-449a-9b11-a245f6e08873",
+      "name": "NIGHTLY LIVE ON TOUR",
+      "date": "2025-03-16T21:53:36.436Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: NIGHTLY LIVE ON TOUR",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/nightly-live-on-tour-charlotte-north-carolina-04-12-2025/event/2D00616FABE5370A",
+      "lastScraped": "2025-03-16T21:53:36.436Z",
+      "hash": "a4219625cb4447e5ccfd6a1819401cd9",
+      "performers": [
+        "NIGHTLY LIVE ON TOUR"
+      ],
+      "genre": []
+    },
+    {
+      "id": "3da7e51f-d88c-43f8-885f-22befda817ec",
+      "name": "CHIODOS: 20 Years of Alls Well That Ends Well",
+      "date": "2025-03-16T21:53:36.437Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: CHIODOS: 20 Years of Alls Well That Ends Well",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/chiodos-20-years-of-alls-well-charlotte-north-carolina-04-13-2025/event/2D00615DB4A92D55",
+      "lastScraped": "2025-03-16T21:53:36.437Z",
+      "hash": "ec891a3bc2639cc7a60523e51bc7ab78",
+      "performers": [
+        "CHIODOS: 20 Years of Alls Well That Ends Well"
+      ],
+      "genre": []
+    },
+    {
+      "id": "78ac65a5-777c-40ab-a961-577a6317bf39",
+      "name": "Tyga",
+      "date": "2025-03-16T21:53:36.438Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Tyga",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/tyga-charlotte-north-carolina-04-14-2025/event/2D00623D9A8750FB",
+      "lastScraped": "2025-03-16T21:53:36.438Z",
+      "hash": "d0a4ff863a4fddb6c61a7eb76d12e2f2",
+      "performers": [
+        "Tyga"
+      ],
+      "genre": []
+    },
+    {
+      "id": "4f1ef975-079d-4e14-ad50-6667125f38c8",
+      "name": "Marc Scibilia: More To This World Tour",
+      "date": "2025-03-16T21:53:36.439Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Marc Scibilia: More To This World Tour",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/marc-scibilia-more-to-this-world-charlotte-north-carolina-04-15-2025/event/2D00612DAC476F17",
+      "lastScraped": "2025-03-16T21:53:36.439Z",
+      "hash": "88970a714898343100d7e08cc9486a40",
+      "performers": [
+        "Marc Scibilia: More To This World Tour"
+      ],
+      "genre": []
+    },
+    {
+      "id": "b34203b3-316b-4260-9fdb-4a0a0cd285d0",
+      "name": "Magnolia Park - The VAMP Tour",
+      "date": "2025-03-16T21:53:36.441Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Magnolia Park - The VAMP Tour",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/magnolia-park-the-vamp-tour-charlotte-north-carolina-04-16-2025/event/2D0061849EB23A2D",
+      "lastScraped": "2025-03-16T21:53:36.441Z",
+      "hash": "f59fbbfb475153665d864e23306a7a04",
+      "performers": [
+        "Magnolia Park"
+      ],
+      "genre": []
+    },
+    {
+      "id": "1a2d2305-55f9-47d4-86cc-647866978a79",
+      "name": "JOHNNYSWIM: The WHEN THE WAR IS OVER Tour",
+      "date": "2025-03-16T21:53:36.442Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: JOHNNYSWIM: The WHEN THE WAR IS OVER Tour",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/johnnyswim-the-when-the-war-is-charlotte-north-carolina-04-16-2025/event/2D006130A262272B",
+      "lastScraped": "2025-03-16T21:53:36.442Z",
+      "hash": "cdc12d6a4fb7b8a8230144f0d8692386",
+      "performers": [
+        "JOHNNYSWIM: The WHEN THE WAR IS OVER Tour"
+      ],
+      "genre": []
+    },
+    {
+      "id": "bd91ebe9-6c6a-439e-9a6c-c50f08c7a842",
+      "name": "Ole 60 - Outta My Way Tour",
+      "date": "2025-03-16T21:53:36.442Z",
+      "type": "music",
+      "description": "Event at Fillmore Charlotte: Ole 60 - Outta My Way Tour",
+      "startTime": "",
+      "venueId": "7",
+      "sourceUrl": "https://concerts.livenation.com/ole-60-outta-my-way-tour-charlotte-north-carolina-04-17-2025/event/2D00617296B81B7E",
+      "lastScraped": "2025-03-16T21:53:36.443Z",
+      "hash": "52c6c971e3f4748c00a65578f2c5b3a9",
+      "performers": [
+        "Ole 60"
+      ],
+      "genre": []
+    }
+  ],
+  "venue": "Fillmore Charlotte",
+  "success": true,
+  "scrapedAt": "2025-03-16T21:53:36.448Z"
+}

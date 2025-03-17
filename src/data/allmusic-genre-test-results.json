@@ -1,0 +1,184 @@
+[
+  {
+    "eventName": "Castle Rat",
+    "headliner": "Castle Rat",
+    "venue": "Chapel of Bones",
+    "date": "2025-03-15T00:00:00.000Z",
+    "currentGenreInfo": {
+      "primaryGenre": "Rock",
+      "otherGenres": []
+    },
+    "allMusicGenreInfo": {
+      "primaryGenre": "Unknown",
+      "styles": [],
+      "genres": []
+    }
+  },
+  {
+    "eventName": "Missio I Am Cinco Tour with Layto",
+    "headliner": "Missio I Am Cinco Tour",
+    "venue": "Cat's Cradle",
+    "date": "2025-03-15T04:00:00.000Z",
+    "currentGenreInfo": {
+      "primaryGenre": "Rock",
+      "otherGenres": []
+    },
+    "allMusicGenreInfo": {
+      "primaryGenre": "Unknown",
+      "styles": [],
+      "genres": []
+    }
+  },
+  {
+    "eventName": "Take On Me An 80s Affair 3 with THE 80'S DANSE SOCIETY / DJ FIFI HI-FI & PATRICK",
+    "headliner": "Take On Me An 80s Affair 3",
+    "venue": "Motorco Music Hall",
+    "date": "2025-03-15T04:00:00.000Z",
+    "currentGenreInfo": {
+      "primaryGenre": "Electronic",
+      "otherGenres": []
+    },
+    "allMusicGenreInfo": {
+      "primaryGenre": "Punk",
+      "styles": [
+        "Punk/New Wave",
+        "Synth Pop",
+        "Contemporary Pop/Rock",
+        "New Wave",
+        "Euro-Pop",
+        "Adult Alternative Pop/Rock",
+        "Alternative/Indie Rock",
+        "Dance-Rock",
+        "Euro-Rock",
+        "Soundtracks",
+        "Club/Dance",
+        "Euro-Dance"
+      ],
+      "genres": []
+    }
+  },
+  {
+    "eventName": "Paul McDonald & the Mourning Doves",
+    "headliner": "Paul McDonald & the Mourning Doves",
+    "venue": "Cat's Cradle",
+    "date": "2025-03-16T04:00:00.000Z",
+    "currentGenreInfo": {
+      "primaryGenre": "Hip-Hop",
+      "otherGenres": []
+    },
+    "allMusicGenreInfo": {
+      "primaryGenre": "Country",
+      "styles": [],
+      "genres": [
+        "Country"
+      ]
+    }
+  },
+  {
+    "eventName": "Willis with BRAVE BABY",
+    "headliner": "Willis",
+    "venue": "Motorco Music Hall",
+    "date": "2025-03-17T04:00:00.000Z",
+    "currentGenreInfo": {
+      "primaryGenre": "Electronic",
+      "otherGenres": []
+    },
+    "allMusicGenreInfo": {
+      "primaryGenre": "Rock",
+      "styles": [],
+      "genres": [
+        "Pop/Rock"
+      ]
+    }
+  },
+  {
+    "eventName": "Josey Scott - 'Nu Metal Revival' Tour",
+    "headliner": "Josey Scott",
+    "venue": "Hangar 1819",
+    "date": "2025-03-18T04:00:00.000Z",
+    "currentGenreInfo": {
+      "primaryGenre": "Metal",
+      "otherGenres": [
+        "Industrial"
+      ]
+    },
+    "allMusicGenreInfo": {
+      "primaryGenre": "Unknown",
+      "styles": [],
+      "genres": []
+    }
+  },
+  {
+    "eventName": "Sings Like Hell with Peter Case Sid Griffin",
+    "headliner": "Sings Like Hell",
+    "venue": "Cat's Cradle",
+    "date": "2025-03-19T04:00:00.000Z",
+    "currentGenreInfo": {
+      "primaryGenre": "Metal",
+      "otherGenres": []
+    },
+    "allMusicGenreInfo": {
+      "primaryGenre": "Rock",
+      "styles": [
+        "Alternative/Indie Rock",
+        "Contemporary Folk",
+        "Contemporary Singer/Songwriter",
+        "College Rock",
+        "Punk/New Wave",
+        "New Wave"
+      ],
+      "genres": []
+    }
+  },
+  {
+    "eventName": "Sven Jungbeck Gypsy Jazz Guitar Workshop",
+    "headliner": "Sven Jungbeck Gypsy Jazz Guitar Workshop",
+    "venue": "Cat's Cradle",
+    "date": "2025-03-20T04:00:00.000Z",
+    "currentGenreInfo": {
+      "primaryGenre": "Jazz",
+      "otherGenres": []
+    },
+    "allMusicGenreInfo": {
+      "primaryGenre": "Unknown",
+      "styles": [],
+      "genres": []
+    }
+  },
+  {
+    "eventName": "Simba Baumgartner & Adrien Marco Gypsy Jazz Guitar Workshop",
+    "headliner": "Simba Baumgartner & Adrien Marco Gypsy Jazz Guitar Workshop",
+    "venue": "Cat's Cradle",
+    "date": "2025-03-22T04:00:00.000Z",
+    "currentGenreInfo": {
+      "primaryGenre": "Jazz",
+      "otherGenres": []
+    },
+    "allMusicGenreInfo": {
+      "primaryGenre": "Rock",
+      "styles": [
+        "Funk",
+        "Fusion",
+        "Soul Jazz"
+      ],
+      "genres": []
+    }
+  },
+  {
+    "eventName": "Whores with Facet and Scrape",
+    "headliner": "Whores with Facet and Scrape",
+    "venue": "Local 506",
+    "date": "2025-03-22T04:00:00.000Z",
+    "currentGenreInfo": {
+      "primaryGenre": "Hip-Hop",
+      "otherGenres": []
+    },
+    "allMusicGenreInfo": {
+      "primaryGenre": "Rock",
+      "styles": [],
+      "genres": [
+        "Pop/Rock"
+      ]
+    }
+  }
+]

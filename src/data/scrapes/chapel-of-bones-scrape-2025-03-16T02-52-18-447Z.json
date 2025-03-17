@@ -1,0 +1,37 @@
+{
+  "events": [
+    {
+      "id": "734fb5d2-4125-407f-8fa0-d238ffc0adce",
+      "name": "Castle Rat",
+      "date": "2025-03-15T00:00:00.000Z",
+      "type": "music",
+      "description": "Live at Chapel of Bones",
+      "startTime": "8:00 PM",
+      "venueId": "Chapel of Bones",
+      "sourceUrl": "https://www.chapelofbones.com/",
+      "lastScraped": "2025-03-16T02:52:14.993Z",
+      "hash": "cfcd388da40296b1e4d07e76ed75edd8",
+      "performers": [
+        "Castle Rat"
+      ]
+    },
+    {
+      "id": "85134749-7990-4ed8-a086-47ceb835315f",
+      "name": "Wormrot",
+      "date": "2025-04-16T00:00:00.000Z",
+      "type": "music",
+      "description": "Metal show at Chapel of Bones",
+      "startTime": "9:00 PM",
+      "venueId": "Chapel of Bones",
+      "sourceUrl": "https://www.chapelofbones.com/",
+      "lastScraped": "2025-03-16T02:52:14.995Z",
+      "hash": "99d83574ca55f9afb59ead6b201dd80d",
+      "performers": [
+        "Wormrot"
+      ]
+    }
+  ],
+  "venue": "Chapel of Bones",
+  "success": true,
+  "scrapedAt": "2025-03-16T02:52:13.166Z"
+}

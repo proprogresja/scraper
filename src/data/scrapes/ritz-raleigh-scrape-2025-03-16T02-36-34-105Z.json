@@ -1,0 +1,665 @@
+{
+  "events": [
+    {
+      "id": "9c6ee103-2441-4224-8c4c-e0f8e30d9f28",
+      "name": "WHITECHAPEL \"HYMNS IN DISSONANCE\" TOUR",
+      "date": "2025-03-18T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: WHITECHAPEL \"HYMNS IN DISSONANCE\" TOUR",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/whitechapel-hymns-in-dissonance-tour-raleigh-north-carolina-03-18-2025/event/2D006178929317D1",
+      "lastScraped": "2025-03-16T02:36:33.797Z",
+      "hash": "d97bccd6d9621831fa1deae4df40f38c",
+      "performers": [
+        "WHITECHAPEL \"HYMNS IN DISSONANCE\""
+      ]
+    },
+    {
+      "id": "4e161c62-97b5-4d48-8780-80267e7da41a",
+      "name": "Kim Dracula & HANABIE.",
+      "date": "2025-03-20T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Kim Dracula & HANABIE.",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/kim-dracula-hanabie-raleigh-north-carolina-03-20-2025/event/2D00618BBE284A08",
+      "lastScraped": "2025-03-16T02:36:33.798Z",
+      "hash": "059e85f9778cae7090975712cc895268",
+      "performers": [
+        "Kim Dracula",
+        "HANABIE."
+      ]
+    },
+    {
+      "id": "323237a9-e209-4c59-9d89-829057efa630",
+      "name": "Explosions In The Sky - The End Tour",
+      "date": "2025-03-23T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Explosions In The Sky - The End Tour",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/explosions-in-the-sky-the-end-raleigh-north-carolina-03-23-2025/event/2D00613BC8866DD9",
+      "lastScraped": "2025-03-16T02:36:33.799Z",
+      "hash": "a5a15282479795945eb210733f943f6b",
+      "performers": [
+        "Explosions In The Sky",
+        "The End"
+      ]
+    },
+    {
+      "id": "4f4699e6-c745-4080-80cc-33c059041fdc",
+      "name": "WILDER WOODS - THE CURIOSO TOUR",
+      "date": "2025-03-27T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: WILDER WOODS - THE CURIOSO TOUR",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/wilder-woods-the-curioso-tour-raleigh-north-carolina-03-27-2025/event/2D00614A88785578",
+      "lastScraped": "2025-03-16T02:36:33.799Z",
+      "hash": "13668c79d402d311ccdbaa169d19d7b0",
+      "performers": [
+        "WILDER WOODS",
+        "THE CURIOSO"
+      ]
+    },
+    {
+      "id": "b371a6b2-cfc2-462c-ad27-d7a5614aef6c",
+      "name": "Gavin Adcock",
+      "date": "2025-03-29T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Gavin Adcock",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/gavin-adcock-raleigh-north-carolina-03-29-2025/event/2D006110AEC2C0DA",
+      "lastScraped": "2025-03-16T02:36:33.799Z",
+      "hash": "c7f0ed79a54522d1c620636ca4dabcd3",
+      "performers": [
+        "Gavin Adcock"
+      ]
+    },
+    {
+      "id": "15b6d501-4e33-4805-bf7d-61c73784217a",
+      "name": "Gavin Adcock",
+      "date": "2025-03-30T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Gavin Adcock",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/gavin-adcock-raleigh-north-carolina-03-30-2025/event/2D006114C5033B5E",
+      "lastScraped": "2025-03-16T02:36:33.800Z",
+      "hash": "24f59b8b93ccff437e7c2a23b40eca65",
+      "performers": [
+        "Gavin Adcock"
+      ]
+    },
+    {
+      "id": "b4177581-3557-4a38-9d86-78b0c2bfee98",
+      "name": "Trap Bingo - 21+",
+      "date": "2025-04-04T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Trap Bingo - 21+",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/trap-bingo-21-raleigh-north-carolina-04-04-2025/event/2D006268CB226323",
+      "lastScraped": "2025-03-16T02:36:33.800Z",
+      "hash": "47ce7e83f9be1591983ce1b3ce0a1dd0",
+      "performers": [
+        "Trap Bingo"
+      ]
+    },
+    {
+      "id": "dec9ddb6-3255-4750-86b3-0ff6ee67720c",
+      "name": "ALEXANDRA KAY : CUPID'S A COWGIRL TOUR",
+      "date": "2025-04-06T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: ALEXANDRA KAY : CUPID'S A COWGIRL TOUR",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/alexandra-kay-cupids-a-cowgirl-tour-raleigh-north-carolina-04-06-2025/event/2D00616CCE523E97",
+      "lastScraped": "2025-03-16T02:36:33.801Z",
+      "hash": "70c8d51ee541cd509099e58e45ea3c3a",
+      "performers": [
+        "ALEXANDRA KAY",
+        "CUPID'S A COWGIRL"
+      ]
+    },
+    {
+      "id": "28142a01-4f5e-425c-9a86-d89e4726404a",
+      "name": "JoJo",
+      "date": "2025-04-08T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: JoJo",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/jojo-raleigh-north-carolina-04-08-2025/event/2D0062290D075C13",
+      "lastScraped": "2025-03-16T02:36:33.801Z",
+      "hash": "57fe4c4ff58a9915742db3c268909c74",
+      "performers": [
+        "JoJo"
+      ]
+    },
+    {
+      "id": "41e8430b-f9e1-4db3-8ac2-145d854a5bbc",
+      "name": "Denzel Curry - Mischievous South Tour",
+      "date": "2025-04-11T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Denzel Curry - Mischievous South Tour",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/denzel-curry-mischievous-south-tour-raleigh-north-carolina-04-11-2025/event/2D00616FAD27379B",
+      "lastScraped": "2025-03-16T02:36:33.802Z",
+      "hash": "370d9568a5c8647d67db00a85a2514d9",
+      "performers": [
+        "Denzel Curry",
+        "Mischievous South"
+      ]
+    },
+    {
+      "id": "928378d3-8dec-4408-aeed-d6e83505b1c8",
+      "name": "Penny & Sparrow",
+      "date": "2025-04-12T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Penny & Sparrow",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/penny-sparrow-raleigh-north-carolina-04-12-2025/event/2D006144D80F8C59",
+      "lastScraped": "2025-03-16T02:36:33.802Z",
+      "hash": "776e309c0b30758d4513d81cfaf6c99c",
+      "performers": [
+        "Penny",
+        "Sparrow"
+      ]
+    },
+    {
+      "id": "27020609-f319-40c6-ac59-6cb6a3591ea1",
+      "name": "Alessia Cara - Love & Hyperbole Tour",
+      "date": "2025-04-13T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Alessia Cara - Love & Hyperbole Tour",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/alessia-cara-love-hyperbole-tour-raleigh-north-carolina-04-13-2025/event/2D0062471403863A",
+      "lastScraped": "2025-03-16T02:36:33.802Z",
+      "hash": "1d568af2543a9f9eb6c3a0c84ecb6b87",
+      "performers": [
+        "Alessia Cara",
+        "Love & Hyperbole"
+      ]
+    },
+    {
+      "id": "0c9f5a4b-e9d4-498c-b407-ce9202dddc46",
+      "name": "Beach Bunny - The Tunnel Vision Tour",
+      "date": "2025-04-15T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Beach Bunny - The Tunnel Vision Tour",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/beach-bunny-the-tunnel-vision-tour-raleigh-north-carolina-04-15-2025/event/2D00622D237F51DD",
+      "lastScraped": "2025-03-16T02:36:33.802Z",
+      "hash": "bd25ae10ad985eabbcd84904c7fd5611",
+      "performers": [
+        "Beach Bunny",
+        "The Tunnel Vision"
+      ]
+    },
+    {
+      "id": "0bee62f5-b3ae-44b2-b342-1481b36da20c",
+      "name": "CHIODOS: 20 Years of Alls Well That Ends Well",
+      "date": "2025-04-17T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: CHIODOS: 20 Years of Alls Well That Ends Well",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/chiodos-20-years-of-alls-well-raleigh-north-carolina-04-17-2025/event/2D0061610C97ABBF",
+      "lastScraped": "2025-03-16T02:36:33.803Z",
+      "hash": "c122922e22b35c856a65daabe6162c62",
+      "performers": [
+        "CHIODOS",
+        "20 Years of Alls Well That Ends Well"
+      ]
+    },
+    {
+      "id": "4403eb3a-5cde-4304-8e1a-8e3e7da4aa4e",
+      "name": "FLO - Access All Areas North American Tour 2025",
+      "date": "2025-04-18T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: FLO - Access All Areas North American Tour 2025",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/flo-access-all-areas-north-american-raleigh-north-carolina-04-18-2025/event/2D00616F170D6FCE",
+      "lastScraped": "2025-03-16T02:36:33.803Z",
+      "hash": "a705834710ca06e015277dd64992384c",
+      "performers": [
+        "FLO",
+        "Access All Areas North American"
+      ]
+    },
+    {
+      "id": "ca01ce7b-6d3d-4ed2-87ed-7d32f2a70fc3",
+      "name": "Pouya - THEY COULD NEVER MAKE ME TOUR",
+      "date": "2025-04-19T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Pouya - THEY COULD NEVER MAKE ME TOUR",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/pouya-they-could-never-make-me-raleigh-north-carolina-04-19-2025/event/2D006169EC64534F",
+      "lastScraped": "2025-03-16T02:36:33.803Z",
+      "hash": "bd5af283c1f0575a086fae426926b97f",
+      "performers": [
+        "Pouya",
+        "THEY COULD NEVER MAKE ME"
+      ]
+    },
+    {
+      "id": "511751eb-cd11-45f6-b867-b13777248edd",
+      "name": "Machine Head & In Flames with special guests Lacuna Coil and Unearth",
+      "date": "2025-04-21T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Machine Head & In Flames with special guests Lacuna Coil and Unearth",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/machine-head-in-flames-with-special-raleigh-north-carolina-04-21-2025/event/2D006169C48F3A0B",
+      "lastScraped": "2025-03-16T02:36:33.803Z",
+      "hash": "14e611a11cc2ef4f270f187e2f93e645",
+      "performers": [
+        "Machine Head & In Flames",
+        "special guests Lacuna Coil and Unearth"
+      ]
+    },
+    {
+      "id": "4122dc89-74a7-46df-ab93-893fa5a0b522",
+      "name": "The Fray- The Fray Is Back 2025",
+      "date": "2025-04-24T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: The Fray- The Fray Is Back 2025",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/the-fray-the-fray-is-back-raleigh-north-carolina-04-24-2025/event/2D006230E6345A83",
+      "lastScraped": "2025-03-16T02:36:33.804Z",
+      "hash": "df12e953d5f720036ae95d5a62082b41",
+      "performers": [
+        "The Fray- The Fray Is Back"
+      ]
+    },
+    {
+      "id": "a30c00c3-e11e-40e4-ab43-c0481870e1d3",
+      "name": "Shrek Rave",
+      "date": "2025-04-25T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Shrek Rave",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/shrek-rave-raleigh-north-carolina-04-25-2025/event/2D0062519CFE2A2A",
+      "lastScraped": "2025-03-16T02:36:33.804Z",
+      "hash": "90d281e87872ffc80ec410ced5f1322e",
+      "performers": [
+        "Shrek Rave"
+      ]
+    },
+    {
+      "id": "0e359b45-e73c-4fe0-b270-42437bc22688",
+      "name": "Ice Nine Kills: Silver Scream-A-Thon - 2-Day Ticket",
+      "date": "2025-04-30T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Ice Nine Kills: Silver Scream-A-Thon - 2-Day Ticket",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/ice-nine-kills-silver-screamathon-2day-raleigh-north-carolina-04-30-2025/event/2D00618D262CAA98",
+      "lastScraped": "2025-03-16T02:36:33.804Z",
+      "hash": "704dc12d6d7e42f014ea0b9d47cff5db",
+      "performers": [
+        "Ice Nine Kills: Silver Scream-A-Thon"
+      ]
+    },
+    {
+      "id": "88013a67-b91f-4312-8ce1-4893f6ad3741",
+      "name": "Ice Nine Kills: Silver Scream-A-Thon",
+      "date": "2025-04-30T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Ice Nine Kills: Silver Scream-A-Thon",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/ice-nine-kills-silver-screamathon-raleigh-north-carolina-04-30-2025/event/2D00618C01EA7EA8",
+      "lastScraped": "2025-03-16T02:36:33.804Z",
+      "hash": "92894f95b3209c46b3e0f09611620e29",
+      "performers": [
+        "Ice Nine Kills",
+        "Silver Scream-A-Thon"
+      ]
+    },
+    {
+      "id": "66bad2ce-7f8c-4919-8b73-8b2e93c1134e",
+      "name": "Ice Nine Kills: Silver Scream-A-Thon",
+      "date": "2025-05-01T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Ice Nine Kills: Silver Scream-A-Thon",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/ice-nine-kills-silver-screamathon-raleigh-north-carolina-05-01-2025/event/2D00618C01EC7EAB",
+      "lastScraped": "2025-03-16T02:36:33.805Z",
+      "hash": "81baf47b9a69feb82bc56238fbb0820f",
+      "performers": [
+        "Ice Nine Kills",
+        "Silver Scream-A-Thon"
+      ]
+    },
+    {
+      "id": "07e71ed7-272c-44ac-b040-b1be546e141b",
+      "name": "Fontaines D.C. USA TOUR 2025",
+      "date": "2025-05-03T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Fontaines D.C. USA TOUR 2025",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/fontaines-dc-usa-tour-2025-raleigh-north-carolina-05-03-2025/event/2D006159B7EF4ACF",
+      "lastScraped": "2025-03-16T02:36:33.805Z",
+      "hash": "f5e0233b83d58ed318a10e64203136c3",
+      "performers": [
+        "Fontaines D.C. USA"
+      ]
+    },
+    {
+      "id": "02b2ddf3-5af9-439f-b5f2-f51bbe6ea02a",
+      "name": "Hippie Sabotage: Echoes of Time Tour",
+      "date": "2025-05-04T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Hippie Sabotage: Echoes of Time Tour",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/hippie-sabotage-echoes-of-time-tour-raleigh-north-carolina-05-04-2025/event/2D00623FAFEC64A8",
+      "lastScraped": "2025-03-16T02:36:33.805Z",
+      "hash": "c071c3abc7ea3aaf4b8b496e222212aa",
+      "performers": [
+        "Hippie Sabotage",
+        "Echoes of Time"
+      ]
+    },
+    {
+      "id": "c2e2a4fc-fa38-409b-bfb4-0cf8722f2ea3",
+      "name": "Devin Townsend: Powernerd Tour!",
+      "date": "2025-05-07T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Devin Townsend: Powernerd Tour!",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/devin-townsend-powernerd-tour-raleigh-north-carolina-05-07-2025/event/2D00616FF5705C53",
+      "lastScraped": "2025-03-16T02:36:33.805Z",
+      "hash": "7463012699462ce1a1dcbddeeed9558a",
+      "performers": [
+        "Devin Townsend",
+        "Powernerd Tour!"
+      ]
+    },
+    {
+      "id": "8bffa5f7-e64b-4741-af2e-e30405ae1bf2",
+      "name": "BOYWITHUKE - BURNOUT WORLD TOUR",
+      "date": "2025-05-11T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: BOYWITHUKE - BURNOUT WORLD TOUR",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/boywithuke-burnout-world-tour-raleigh-north-carolina-05-11-2025/event/2D00616E307E7946",
+      "lastScraped": "2025-03-16T02:36:33.805Z",
+      "hash": "11f131b91a172176bf1fe76ccafb6678",
+      "performers": [
+        "BOYWITHUKE",
+        "BURNOUT WORLD"
+      ]
+    },
+    {
+      "id": "ee79de4d-6a40-47bd-a857-3155944d4d1f",
+      "name": "The Crane Wives - Beyond Beyond Beyond Tour",
+      "date": "2025-05-13T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: The Crane Wives - Beyond Beyond Beyond Tour",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/the-crane-wives-beyond-beyond-beyond-raleigh-north-carolina-05-13-2025/event/2D0061650F8F45DF",
+      "lastScraped": "2025-03-16T02:36:33.805Z",
+      "hash": "470425243a17beccd1e865e60be30211",
+      "performers": [
+        "The Crane Wives",
+        "Beyond Beyond Beyond"
+      ]
+    },
+    {
+      "id": "ee2fd8f6-343a-467b-aa99-e4485e79c386",
+      "name": "Hollywood Undead",
+      "date": "2025-05-14T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Hollywood Undead",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/hollywood-undead-raleigh-north-carolina-05-14-2025/event/2D00624FB9436390",
+      "lastScraped": "2025-03-16T02:36:33.806Z",
+      "hash": "b13c87cbee954a407cb1fd02444fa35f",
+      "performers": [
+        "Hollywood Undead"
+      ]
+    },
+    {
+      "id": "d758cd99-a18c-418c-a3ed-e0ae3bc3a167",
+      "name": "Durand Bernarr Presents: You Gon' Grow, Too! Tour",
+      "date": "2025-05-17T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Durand Bernarr Presents: You Gon' Grow, Too! Tour",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/durand-bernarr-presents-you-gon-grow-raleigh-north-carolina-05-17-2025/event/2D00624F9DA34C25",
+      "lastScraped": "2025-03-16T02:36:33.806Z",
+      "hash": "4380256ab85dc5c4894ef768684b6be8",
+      "performers": [
+        "Durand Bernarr Presents",
+        "You Gon' Grow, Too!"
+      ]
+    },
+    {
+      "id": "baf6fdd3-835b-4a33-b932-110d6dc42c26",
+      "name": "Amyl and The Sniffers: Cartoon Darkness Tour",
+      "date": "2025-05-21T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Amyl and The Sniffers: Cartoon Darkness Tour",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/amyl-and-the-sniffers-cartoon-darkness-raleigh-north-carolina-05-21-2025/event/2D00615709237835",
+      "lastScraped": "2025-03-16T02:36:33.806Z",
+      "hash": "1641c7c1875fc6812af684a55ff05a7c",
+      "performers": [
+        "Amyl and The Sniffers",
+        "Cartoon Darkness"
+      ]
+    },
+    {
+      "id": "7946bb3c-18d7-43f3-b124-91874ab9b88b",
+      "name": "SiR: The Step Into The Light Tour",
+      "date": "2025-05-29T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: SiR: The Step Into The Light Tour",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/sir-the-step-into-the-light-raleigh-north-carolina-05-29-2025/event/2D0060810FF78073",
+      "lastScraped": "2025-03-16T02:36:33.806Z",
+      "hash": "94d626babc3a3112346a1e8dbb534012",
+      "performers": [
+        "SiR",
+        "The Step Into The Light"
+      ]
+    },
+    {
+      "id": "01e5f3a7-5748-442e-8f78-5abeb5c3a097",
+      "name": "Thee Sacred Souls",
+      "date": "2025-05-30T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Thee Sacred Souls",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/thee-sacred-souls-raleigh-north-carolina-05-30-2025/event/2D006258652C0C67",
+      "lastScraped": "2025-03-16T02:36:33.806Z",
+      "hash": "5d5a7977ab88e0ce02886f237fd2abd6",
+      "performers": [
+        "Thee Sacred Souls"
+      ]
+    },
+    {
+      "id": "d6dc1dd5-dc7a-4a62-a294-752c7ee4c7d9",
+      "name": "Panchiko",
+      "date": "2025-05-31T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Panchiko",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/panchiko-raleigh-north-carolina-05-31-2025/event/2D006183C1634108",
+      "lastScraped": "2025-03-16T02:36:33.806Z",
+      "hash": "b5ebc5f6a1f07c578477e34187a6ef75",
+      "performers": [
+        "Panchiko"
+      ]
+    },
+    {
+      "id": "093c2119-4e4e-44ec-970b-ea6c3d3c01dd",
+      "name": "Ninja Sex Party & TWRP - Pure Elegance Tour",
+      "date": "2025-06-03T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Ninja Sex Party & TWRP - Pure Elegance Tour",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/ninja-sex-party-twrp-pure-elegance-raleigh-north-carolina-06-03-2025/event/2D00614BAF944FB7",
+      "lastScraped": "2025-03-16T02:36:33.806Z",
+      "hash": "ddea9af9b3950b49ad2e93d816079127",
+      "performers": [
+        "Ninja Sex Party & TWRP",
+        "Pure Elegance"
+      ]
+    },
+    {
+      "id": "79262ef1-8162-4173-98e8-9de1d5bad54c",
+      "name": "Mayday Parade",
+      "date": "2025-06-04T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Mayday Parade",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/mayday-parade-raleigh-north-carolina-06-04-2025/event/2D00622AAC142715",
+      "lastScraped": "2025-03-16T02:36:33.807Z",
+      "hash": "6678ea386b7d1628863bf03ef77d9ec6",
+      "performers": [
+        "Mayday Parade"
+      ]
+    },
+    {
+      "id": "e41f55e6-b246-4edb-ac5d-c681196d508c",
+      "name": "Tennis",
+      "date": "2025-06-05T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Tennis",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/tennis-raleigh-north-carolina-06-05-2025/event/2D006247D0CC6CBB",
+      "lastScraped": "2025-03-16T02:36:33.807Z",
+      "hash": "4763c104328e25a75158064e7b39d1b5",
+      "performers": [
+        "Tennis"
+      ]
+    },
+    {
+      "id": "d27e75b2-ed92-46ad-9b9d-724b5fc24490",
+      "name": "The Kooks - All Over The World Tour",
+      "date": "2025-06-06T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: The Kooks - All Over The World Tour",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/the-kooks-all-over-the-world-raleigh-north-carolina-06-06-2025/event/2D006237CC4C4FD2",
+      "lastScraped": "2025-03-16T02:36:33.807Z",
+      "hash": "bf0d5005ccd0d20a1a1f6dfd92f81d12",
+      "performers": [
+        "The Kooks",
+        "All Over The World"
+      ]
+    },
+    {
+      "id": "dcdfb429-138d-438e-8820-074c700f6baf",
+      "name": "Less Than Jake - Summer Circus",
+      "date": "2025-06-11T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Less Than Jake - Summer Circus",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/less-than-jake-summer-circus-raleigh-north-carolina-06-11-2025/event/2D006247A29D5E6A",
+      "lastScraped": "2025-03-16T02:36:33.807Z",
+      "hash": "0e34d8fb74dabaabb42f0bf34ede8126",
+      "performers": [
+        "Less Than Jake",
+        "Summer Circus"
+      ]
+    },
+    {
+      "id": "068d9f79-5eb4-4de0-a996-05a18ebba592",
+      "name": "Static-X - Machines VS Monsters Tour 2025 With Gwar & Dope",
+      "date": "2025-06-15T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Static-X - Machines VS Monsters Tour 2025 With Gwar & Dope",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/staticx-machines-vs-monsters-tour-2025-raleigh-north-carolina-06-15-2025/event/2D00618BB4E04157",
+      "lastScraped": "2025-03-16T02:36:33.808Z",
+      "hash": "960e2caa8defbed7693c7bcc46f37c73",
+      "performers": [
+        "Static-X",
+        "Machines VS Monsters Tour 2025 With Gwar & Dope"
+      ]
+    },
+    {
+      "id": "db0187f4-d182-4d9e-979a-65a6b1174447",
+      "name": "Magdalena Bay: Imaginal Mystery Tour",
+      "date": "2025-10-21T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Magdalena Bay: Imaginal Mystery Tour",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/magdalena-bay-imaginal-mystery-tour-raleigh-north-carolina-10-21-2025/event/2D006247F6167795",
+      "lastScraped": "2025-03-16T02:36:33.808Z",
+      "hash": "265cc0a015432f01f063ce173107e04a",
+      "performers": [
+        "Magdalena Bay",
+        "Imaginal Mystery"
+      ]
+    },
+    {
+      "id": "b3bdccec-50de-4343-bff4-53f1cfcde689",
+      "name": "Lawrence - The Family Business Tour",
+      "date": "2025-10-25T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Lawrence - The Family Business Tour",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/lawrence-the-family-business-tour-raleigh-north-carolina-10-25-2025/event/2D006174C4774DE1",
+      "lastScraped": "2025-03-16T02:36:33.808Z",
+      "hash": "cc03d76336b299db19f9b510bca6f10b",
+      "performers": [
+        "Lawrence",
+        "The Family Business"
+      ]
+    },
+    {
+      "id": "bcc58a3e-e960-4004-94ce-a3e81fde6059",
+      "name": "Viagra Boys - The Infinite Anxiety Tour of 2025 - 16+",
+      "date": "2025-11-03T05:00:00.000Z",
+      "type": "music",
+      "description": "Event at The Ritz: Viagra Boys - The Infinite Anxiety Tour of 2025 - 16+",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://concerts.livenation.com/viagra-boys-the-infinite-anxiety-tour-raleigh-north-carolina-11-03-2025/event/2D006186E3AC71D5",
+      "lastScraped": "2025-03-16T02:36:33.808Z",
+      "hash": "9ea2dd3f5135e4853285e4c5406060f5",
+      "performers": [
+        "Viagra Boys",
+        "The Infinite Anxiety Tour of"
+      ]
+    }
+  ],
+  "venue": "The Ritz",
+  "success": true,
+  "scrapedAt": "2025-03-16T02:36:33.811Z"
+}

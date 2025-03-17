@@ -1,0 +1,770 @@
+body {
+  font-family: 'Fira Code', monospace;
+  background-color: #000;
+  color: #bbb;
+}
+
+.container-fluid {
+  padding: 20px;
+}
+
+/* Table styles */
+.table {
+  background-color: #000 !important;
+  color: #bbb;
+  border: none;
+  margin-bottom: 0;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.table thead {
+  background-color: #000 !important;
+}
+
+.table th {
+  border-bottom: 1px solid #333;
+  color: #ccc;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  background-color: #000 !important;
+  overflow: visible;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  text-align: center;
+}
+
+.table td {
+  border: none;
+  border-bottom: 1px solid #222;
+  padding: 12px 8px;
+  background-color: #000 !important;
+  color: #bbb;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: center;
+}
+
+/* Artist and venue columns should be left-aligned */
+.table th:nth-child(3), .table td:nth-child(3),
+.table th:nth-child(4), .table td:nth-child(4),
+.table th:nth-child(5), .table td:nth-child(5) {
+  text-align: left;
+}
+
+/* Skull button and ticket icon columns should be centered */
+.table th:nth-child(2), .table td:nth-child(2),
+.table th:nth-child(6), .table td:nth-child(6) {
+  text-align: center;
+}
+
+.event-row {
+  transition: background-color 0.2s;
+  background-color: #000 !important;
+}
+
+.event-row:hover {
+  background-color: #111 !important;
+}
+
+.going-row {
+  color: #ff0000 !important;
+}
+
+.going-row .event-openers {
+  color: #ff6666 !important;
+}
+
+/* Genre filter styles */
+.genre-checkboxes-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+  gap: 40px;
+}
+
+.genre-left-container, .genre-right-container {
+  display: flex;
+  flex-direction: column;
+  min-width: 150px;
+}
+
+.genre-header {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  color: #aaa;
+  margin-bottom: 10px;
+  text-align: center;
+  font-weight: 500;
+}
+
+.genre-items-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.genre-checkbox-label {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 5px 10px;
+  border-radius: 4px;
+  transition: all 0.2s;
+  color: #ccc;
+  background-color: transparent;
+}
+
+.genre-checkbox-label:hover {
+  background-color: rgba(204, 204, 204, 0.1);
+}
+
+.genre-checkbox-label.active {
+  background-color: #ccc;
+  color: #000;
+}
+
+.genre-checkbox {
+  display: none;
+}
+
+/* Button styles */
+.btn {
+  background-color: transparent;
+  color: #bbb;
+  border: none;
+  border-radius: 0;
+  padding: 8px 12px;
+  transition: all 0.2s;
+}
+
+.btn:hover {
+  background-color: rgba(204, 204, 204, 0.1);
+  color: #ccc;
+}
+
+.dropdown-menu {
+  background-color: #111;
+  border-radius: 0;
+  border: 1px solid #333;
+  padding: 10px 0;
+}
+
+.dropdown-item {
+  color: #bbb;
+  padding: 8px 20px;
+}
+
+.dropdown-item:hover {
+  background-color: #222;
+  color: #ccc;
+}
+
+.dropdown-header {
+  color: #aaa;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
+
+.dropdown-divider {
+  border-color: #333;
+}
+
+/* Event details */
+.event-date {
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.event-artist {
+  font-weight: 500;
+  color: #ccc;
+}
+
+.event-openers {
+  font-size: 0.85rem;
+  color: #aaa;
+  margin-top: 4px;
+}
+
+.event-venue {
+  color: #aaa;
+}
+
+.event-genre {
+  color: #aaa;
+  font-size: 0.85rem;
+}
+
+.skull-button {
+  background: none;
+  border: none;
+  color: #aaa;
+  cursor: pointer;
+  font-size: 1.2rem;
+  transition: color 0.2s;
+}
+
+.skull-button:hover {
+  color: #ccc;
+}
+
+.skull-button.active {
+  color: #ff0000;
+}
+
+/* Loading and no events */
+#loading, #no-events {
+  color: #aaa;
+}
+
+.spinner-border {
+  color: #aaa;
+}
+
+/* Table responsive container */
+.table-responsive {
+  background-color: #000 !important;
+  margin-bottom: 30px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  position: relative;
+  margin-bottom: 40px;
+}
+
+#logo {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+header h1 {
+  font-weight: 900;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  font-family: 'Metal Mania', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 4rem;
+  margin-bottom: 0.5rem;
+  text-align: center;
+  /* Black metal style text with jagged, symmetrical appearance */
+  filter: drop-shadow(0 0 1px rgba(255, 255, 255, 0.5));
+  transform: scaleY(1.5);
+  line-height: 0.8;
+}
+
+#last-updated {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 0.8rem;
+  color: #666;
+}
+
+header p {
+  color: #aaa;
+  margin-top: 20px;
+}
+
+.month-header {
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 700;
+  padding: 15px 0;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #333;
+  font-size: 1.2rem;
+  width: 100%;
+}
+
+.table th:nth-child(1), .table td:nth-child(1) {
+  width: 6%;
+  min-width: 40px;
+}
+
+.table th:nth-child(2), .table td:nth-child(2) {
+  width: 6%;
+  min-width: 40px;
+  text-align: center;
+}
+
+.table th:nth-child(3), .table td:nth-child(3) {
+  width: 32%;
+  min-width: 150px;
+}
+
+.table th:nth-child(4), .table td:nth-child(4) {
+  width: 25%;
+  min-width: 120px;
+}
+
+.table th:nth-child(5), .table td:nth-child(5) {
+  width: 13%;
+  min-width: 100px;
+}
+
+.table th:nth-child(6), .table td:nth-child(6) {
+  width: 8%;
+  min-width: 80px;
+}
+
+.table th:nth-child(7), .table td:nth-child(7) {
+  width: 10%;
+  min-width: 80px;
+  text-align: center;
+}
+
+.text-muted {
+  color: #aaa !important;
+}
+
+.spinner-border {
+  color: #ddd !important;
+}
+
+.genre-filter-container {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.filter-heading {
+  font-weight: 600;
+  margin-bottom: 15px;
+  color: #ddd;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.genre-checkbox-container {
+  display: grid;
+  grid-template-rows: repeat(2, auto);
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(120px, 1fr);
+  gap: 10px 20px;
+  max-width: 100%;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+
+.genre-checkbox-label {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 8px;
+  margin: 0;
+  cursor: pointer;
+  user-select: none;
+  color: #ddd;
+}
+
+.genre-checkbox-label:hover {
+  color: #fff;
+}
+
+.genre-checkbox-label input {
+  margin-right: 8px;
+}
+
+.genre-checkbox-label.active {
+  color: #fff;
+}
+
+.form-select, .form-control {
+  background-color: #111;
+  border: 1px solid #333;
+  color: #ddd;
+}
+
+.form-select:focus, .form-control:focus {
+  background-color: #111;
+  border-color: #555;
+  color: #fff;
+  box-shadow: none;
+}
+
+@media (max-width: 768px) {
+  .table th, .table td {
+    padding: 8px 12px;
+  }
+  
+  .event-artist {
+    max-width: 120px;
+  }
+  
+  .event-openers {
+    max-width: 120px;
+  }
+  
+  header h1 {
+    font-size: 2.5rem;
+  }
+  
+  #last-updated {
+    position: static;
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  #logo {
+    max-width: 400px;
+  }
+  
+  .genre-checkbox-container {
+    grid-template-rows: auto;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-flow: row;
+  }
+  
+  .genre-checkbox-label {
+    font-size: 0.9rem;
+  }
+}
+
+/* Header styles */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+  letter-spacing: 3px;
+  text-align: center;
+  flex-grow: 1;
+  transform: scaleY(1.5);
+  filter: drop-shadow(0 0 1px rgba(255, 255, 255, 0.5));
+}
+
+#venues-dropdown {
+  position: static;
+}
+
+#venues-dropdown .btn,
+#venues-dropdown .dropdown-menu,
+#venues-dropdown .dropdown-item,
+#venues-dropdown .dropdown-item:hover {
+  /* These styles are now handled by the .header-controls selectors */
+}
+
+/* Venue badge styles */
+.venue-badge {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  margin-right: 8px;
+}
+
+.venue-included {
+  background-color: #28a745;
+}
+
+.venue-excluded {
+  background-color: #dc3545;
+}
+
+/* Venue status styles */
+.venue-status {
+  display: flex;
+  align-items: center;
+  padding: 8px 16px;
+}
+
+.venue-status-icon {
+  margin-right: 8px;
+}
+
+.venue-status-success {
+  color: #28a745;
+}
+
+.venue-status-error {
+  color: #dc3545;
+}
+
+/* New event skull icon */
+.new-event-icon {
+  color: #dc3545;
+  font-size: 1.2rem;
+}
+
+/* Tables container for consistent layout */
+.tables-container {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+/* Responsive adjustments */
+@media (max-width: 992px) {
+  .table th:nth-child(1), .table td:nth-child(1) { /* Date column */
+    width: 8%;
+    min-width: 40px;
+  }
+  
+  .table th:nth-child(2), .table td:nth-child(2) { /* New column */
+    width: 7%; /* Increased to prevent header cutoff */
+    min-width: 40px;
+  }
+  
+  .table th:nth-child(3), .table td:nth-child(3) { /* Artist column */
+    width: 28%;
+    min-width: 120px;
+  }
+  
+  .table th:nth-child(4), .table td:nth-child(4) { /* Openers column */
+    width: 22%;
+    min-width: 120px;
+  }
+  
+  .table th:nth-child(5), .table td:nth-child(5) { /* Venue column */
+    width: 15%;
+    min-width: 80px;
+  }
+  
+  .table th:nth-child(6), .table td:nth-child(6) { /* Genre column */
+    width: 10%;
+    min-width: 60px;
+  }
+  
+  .table th:nth-child(7), .table td:nth-child(7) { /* Link column */
+    width: 10%;
+    min-width: 70px;
+  }
+}
+
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    padding-bottom: 60px;
+  }
+  
+  .header h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  #last-updated {
+    position: static;
+    margin-top: 5px;
+    text-align: center;
+    font-size: 0.7rem;
+  }
+  
+  .header-controls {
+    position: static;
+    justify-content: center;
+    margin-top: 15px;
+    width: 100%;
+  }
+  
+  .header-controls .dropdown {
+    flex: 1;
+    max-width: 150px;
+  }
+  
+  .header-controls .dropdown .btn {
+    width: 100%;
+    font-size: 0.8rem;
+    padding: 5px 8px;
+  }
+  
+  /* Adjust table for mobile */
+  .table {
+    table-layout: auto; /* Allow table to adjust on small screens */
+  }
+  
+  .table th, .table td {
+    padding: 8px 6px; /* Reduce padding on mobile */
+    font-size: 0.85rem;
+  }
+  
+  .event-openers, .event-venue, .event-genre-cell {
+    font-size: 0.8rem;
+  }
+  
+  /* Adjust column widths for mobile */
+  .table th:nth-child(1), .table td:nth-child(1) { /* Date column */
+    width: 10%;
+    min-width: 30px;
+  }
+  
+  .table th:nth-child(2), .table td:nth-child(2) { /* New column */
+    width: 7%;
+    min-width: 30px;
+  }
+  
+  .table th:nth-child(3), .table td:nth-child(3) { /* Artist column */
+    width: 33%;
+    min-width: 100px;
+  }
+  
+  .table th:nth-child(4), .table td:nth-child(4) { /* Openers column */
+    width: 25%;
+    min-width: 100px;
+  }
+  
+  .table th:nth-child(5), .table td:nth-child(5) { /* Venue column */
+    width: 15%;
+    min-width: 60px;
+  }
+  
+  /* Hide genre on very small screens */
+  @media (max-width: 576px) {
+    .table th:nth-child(6), .table td:nth-child(6) { /* Genre column */
+      display: none;
+    }
+  }
+  
+  .genre-checkbox-container {
+    grid-template-rows: auto;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-flow: row;
+  }
+  
+  .genre-checkbox-label {
+    font-size: 0.9rem;
+  }
+}
+
+/* Venue item styles */
+.venue-item {
+  display: flex;
+  align-items: center;
+}
+
+.header-controls {
+  position: absolute;
+  top: 40px;
+  right: 10px;
+  display: flex;
+  gap: 10px;
+}
+
+/* Dropdown button styles */
+.header-controls .dropdown .btn {
+  background-color: #000;
+  color: #fff;
+  border: 1px solid #333;
+  font-size: 0.9rem;
+  padding: 6px 12px;
+  transition: all 0.2s ease;
+}
+
+.header-controls .dropdown .btn:hover {
+  background-color: #111;
+  border-color: #444;
+  color: #fff;
+}
+
+.header-controls .dropdown .btn:focus {
+  box-shadow: none;
+  outline: none;
+}
+
+/* Dropdown menu styles */
+.header-controls .dropdown-menu {
+  background-color: #000;
+  border: 1px solid #333;
+  max-height: 300px;
+  overflow-y: auto;
+  padding: 8px 0;
+  margin-top: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.header-controls .dropdown-item {
+  color: #fff;
+  padding: 8px 16px;
+  font-size: 0.9rem;
+  transition: background-color 0.2s ease;
+}
+
+.header-controls .dropdown-item:hover {
+  background-color: #333;
+}
+
+.header-controls .dropdown-header {
+  color: #999;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 8px 16px;
+}
+
+.header-controls .dropdown-divider {
+  border-color: #333;
+  margin: 4px 0;
+}
+
+/* Ensure table headers are properly displayed */
+.table thead th {
+  position: relative;
+  padding-right: 20px; /* Add some padding to prevent text from being cut off */
+  overflow: visible !important; /* Force visible overflow for headers */
+}
+
+/* Adjust the table header font size for better fit */
+@media (max-width: 992px) {
+  .table th {
+    font-size: 0.85rem; /* Slightly smaller font for medium screens */
+    padding: 10px 12px; /* Slightly reduced padding */
+  }
+}
+
+@media (max-width: 768px) {
+  .table th {
+    font-size: 0.8rem; /* Even smaller font for small screens */
+    padding: 8px 8px; /* Further reduced padding */
+  }
+}
+
+.going-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #666;
+  transition: color 0.2s ease;
+  padding: 5px;
+  outline: none;
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+}
+
+.going-btn:hover {
+  color: #fff;
+}
+
+.going-btn.active-skull {
+  color: #ff3333;
+}
+
+.tickets-link {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  color: #666;
+  transition: color 0.2s ease;
+}
+
+.tickets-link:hover {
+  color: #fff;
+  text-decoration: none;
+}

@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>scraper</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    body {
+      font-family: 'Fira Code', monospace;
+      background-color: #000;
+      color: #ddd;
+    }
+    .app-title {
+      font-family: 'Fira Code', monospace;
+      font-weight: 300;
+      text-transform: lowercase !important;
+      letter-spacing: -1px;
+      font-size: 2.5rem;
+      text-align: center;
+      display: block;
+      width: 100%;
+      margin: 0 auto;
+    }
+    .app-title sup {
+      font-size: 1rem;
+      top: -1em;
+      font-weight: 300;
+    }
+    .header {
+      margin-bottom: 20px;
+      position: relative;
+    }
+    .header-row {
+      display: flex;
+      align-items: center;
+      padding: 15px 0;
+    }
+    .header-col {
+      flex: 1;
+    }
+    .header-col.center {
+      text-align: center;
+      display: flex;
+      justify-content: center;
+    }
+    .header-col.right {
+      text-align: right;
+    }
+    .header-border {
+      border-bottom: 1px solid #333;
+      margin-bottom: 20px;
+    }
+    .header-controls {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      justify-content: flex-end;
+      margin-top: 10px;
+    }
+    #last-updated {
+      font-size: 0.8rem;
+      color: #666;
+      text-align: right;
+    }
+    #last-updated:before {
+      content: "last scraped: ";
+    }
+  </style>
+</head>
+<body>
+  <div class="container-fluid">
+    <header class="header">
+      <div class="header-row">
+        <div class="header-col left">
+          <!-- Empty left column for balance -->
+        </div>
+        <div class="header-col center">
+          <span class="app-title">scrap<sup>er</sup></span>
+        </div>
+        <div class="header-col right">
+          <div id="last-updated"></div>
+          <div class="header-controls">
+            <div id="about-button" class="dropdown">
+              <button class="btn dropdown-toggle" type="button" data-bs-toggle="modal" data-bs-target="#aboutModal">
+                <i class="fas fa-info-circle"></i> About
+              </button>
+            </div>
+            <div id="scraper-button" class="dropdown">
+              <button class="btn dropdown-toggle" type="button" id="scraperDropdownButton" data-bs-toggle="dropdown" aria-expanded="false">
+                <i class="fas fa-sync-alt"></i> Update
+              </button>
+              <ul class="dropdown-menu dropdown-menu-end" id="scraper-options" aria-labelledby="scraperDropdownButton">
+                <li><h6 class="dropdown-header">Run Scrapers</h6></li>
+                <li><button class="dropdown-item" id="run-all-scrapers">Run All Scrapers</button></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><h6 class="dropdown-header">Venue Status</h6></li>
+                <!-- Venue statuses will be populated here -->
+              </ul>
+            </div>
+            <div id="venues-dropdown" class="dropdown">
+              <button class="btn dropdown-toggle" type="button" id="venuesDropdownButton" data-bs-toggle="dropdown" aria-expanded="false">
+                <i class="fas fa-map-marker-alt"></i> Venues
+              </button>
+              <ul class="dropdown-menu dropdown-menu-end" id="venues-list" aria-labelledby="venuesDropdownButton">
+                <!-- Venues will be populated here -->
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="header-border"></div>
+    </header>
+    
+    <div id="genre-checkboxes" class="genre-checkboxes-container">
+      <!-- Genre checkboxes will be populated here -->
+    </div>
+    
+    <div id="loading" class="text-center mt-5">
+      <div class="spinner-border" role="status">
+        <span class="visually-hidden">Loading...</span>
+      </div>
+    </div>
+    
+    <div id="no-events" class="text-center mt-5 d-none">
+      <p>No events found matching your criteria.</p>
+    </div>
+    
+    <div id="events-container">
+      <!-- Events will be populated here -->
+    </div>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script>
+    // Simple test script to check if JavaScript is working
+    console.log('index2.html loaded');
+    
+    // Check if elements exist
+    console.log('Events container exists:', !!document.getElementById('events-container'));
+    console.log('Loading element exists:', !!document.getElementById('loading'));
+    console.log('Last updated element exists:', !!document.getElementById('last-updated'));
+    
+    // Update last updated text
+    const lastUpdatedElement = document.getElementById('last-updated');
+    if (lastUpdatedElement) {
+      lastUpdatedElement.textContent = new Date().toLocaleString();
+    }
+    
+    // Hide loading spinner
+    const loadingElement = document.getElementById('loading');
+    if (loadingElement) {
+      loadingElement.style.display = 'none';
+    }
+    
+    // Display a message
+    const eventsContainer = document.getElementById('events-container');
+    if (eventsContainer) {
+      eventsContainer.innerHTML = `
+        <div class="alert alert-info">
+          <h4>Testing JavaScript</h4>
+          <p>This confirms that basic JavaScript functionality is working.</p>
+          <button id="load-app" class="btn btn-primary">Load Main App</button>
+        </div>
+      `;
+      
+      // Add event listener to load the main app
+      document.getElementById('load-app').addEventListener('click', function() {
+        const script = document.createElement('script');
+        script.src = 'app.js';
+        script.onerror = function() {
+          console.error('Error loading app.js');
+          eventsContainer.innerHTML += `
+            <div class="alert alert-danger">
+              <h4>Error Loading App</h4>
+              <p>There was an error loading the main app.js file.</p>
+            </div>
+          `;
+        };
+        document.body.appendChild(script);
+      });
+    }
+  </script>
+</body>
+</html> 

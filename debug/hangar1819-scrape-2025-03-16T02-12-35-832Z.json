@@ -1,0 +1,1029 @@
+{
+  "events": [
+    {
+      "id": "19305de6-3271-4911-b9fa-59a42de64bd4",
+      "name": "",
+      "date": "2025-03-16T02:12:35.763Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/325",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.763Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "93e0d637-ebc1-47bc-9e10-a8db0087730c",
+      "name": "CAVALERA",
+      "date": "2026-03-15T04:00:00.000Z",
+      "startTime": "6:00pm",
+      "description": "CAVALERAw/ Necrot, Dead Heat, Bloodritual, Deceptor  Saturday, Mar 15 at 6:00pm  $39.25  1819 Spring Garden Street, Greensboro, NC 27403More info    Saturday, Mar 15 at 6:00pm  $39.25  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/325",
+      "venueId": "5",
+      "performers": [
+        "CAVALERA"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.774Z",
+      "hash": "7399c1f33d321719031a7b829e9830c4"
+    },
+    {
+      "id": "6d66017a-dd2f-48e8-b4e0-8224d4162803",
+      "name": "",
+      "date": "2025-03-16T02:12:35.775Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/327",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.775Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "335a41b9-d7de-4897-b4a8-80dcc2343347",
+      "name": "Josey Scott - 'Nu Metal Revival' Tour",
+      "date": "2025-03-18T04:00:00.000Z",
+      "startTime": "5:30pm",
+      "description": "Josey Scott - 'Nu Metal Revival' Tour  Tuesday, Mar 18 at 5:30pm  $42.50  1819 Spring Garden Street, Greensboro, NC 27403More info    Tuesday, Mar 18 at 5:30pm  $42.50  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/327",
+      "venueId": "5",
+      "performers": [
+        "Josey Scott - 'Nu Metal Revival' Tour"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.777Z",
+      "hash": "cb6cca9eb850848e2252d1827e44b11b"
+    },
+    {
+      "id": "2578c34d-4618-4085-bc59-0a9ff265bbab",
+      "name": "",
+      "date": "2025-03-16T02:12:35.778Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/336",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.778Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "a6317782-6581-4b6f-9a21-06e91bee4772",
+      "name": "Belphegor - 'The Devils North American Tour 2025'",
+      "date": "2025-03-16T02:12:35.779Z",
+      "startTime": "6:00pm",
+      "description": "Belphegor - 'The Devils North American Tour 2025'   Friday, Mar 21 at 6:00pm  $33.75  1819 Spring Garden Street, Greensboro, NC 27403More info    Friday, Mar 21 at 6:00pm  $33.75  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/336",
+      "venueId": "5",
+      "performers": [
+        "Belphegor - 'The Devils North American Tour 2025'"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.779Z",
+      "hash": "ed031688d034dd108ad2bdbb2b66b7a2"
+    },
+    {
+      "id": "04726801-754d-432f-88e6-293ca31e9fdc",
+      "name": "",
+      "date": "2025-03-16T02:12:35.779Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/343",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.779Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "f41ab984-99a9-466c-b766-bd058e148e6c",
+      "name": "Nookie: Nu-Metal Night",
+      "date": "2025-03-22T04:00:00.000Z",
+      "startTime": "8:00pm",
+      "description": "Nookie: Nu-Metal Night  Saturday, Mar 22 at 8:00pm  $0  1819 Spring Garden Street, Greensboro, NC 27403More info    Saturday, Mar 22 at 8:00pm  $0  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/343",
+      "venueId": "5",
+      "performers": [
+        "Nookie: Nu-Metal Night"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.780Z",
+      "hash": "7e9030df9e541d65aa0889ad9a84f2b0"
+    },
+    {
+      "id": "f851057e-4ebb-4a52-b2d9-913fdfa4e871",
+      "name": "",
+      "date": "2025-03-16T02:12:35.781Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/300",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.781Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "d45f69fa-70fa-47e0-8dd0-72f2e2735aee",
+      "name": "Korpiklaani",
+      "date": "2025-03-27T04:00:00.000Z",
+      "startTime": "5:30pm",
+      "description": "Korpiklaani  Thursday, Mar 27 at 5:30pm  $39.25  1819 Spring Garden Street, Greensboro, NC 27403More info    Thursday, Mar 27 at 5:30pm  $39.25  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/300",
+      "venueId": "5",
+      "performers": [
+        "Korpiklaani"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.783Z",
+      "hash": "3ab4bcbc145fad18a6bf8677cc02c6f0"
+    },
+    {
+      "id": "4029e9d5-1340-4c9d-9366-60b7f8d4bae4",
+      "name": "",
+      "date": "2025-03-16T02:12:35.784Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/344",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.784Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "52bfc036-63de-454d-b725-f7a7f36c2e26",
+      "name": "Set For Tomorrow",
+      "date": "2025-03-28T04:00:00.000Z",
+      "startTime": "7:00pm",
+      "description": "Set For TomorrowWhat Lies Below, Enemies & Allies, Distant Fires  Friday, Mar 28 at 7:00pm  $15  1819 Spring Garden Street, Greensboro, NC 27403More info    Friday, Mar 28 at 7:00pm  $15  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/344",
+      "venueId": "5",
+      "performers": [
+        "Set For Tomorrow"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.786Z",
+      "hash": "d492646b12ee21cea317933e7da303e3"
+    },
+    {
+      "id": "02fb5409-e055-4976-a199-9f16bb0cbf21",
+      "name": "",
+      "date": "2025-03-16T02:12:35.787Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/274",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.787Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "806d62c2-62da-4025-b4dd-6ee9edbab2b5",
+      "name": "Paleface Swiss",
+      "date": "2025-03-29T04:00:00.000Z",
+      "startTime": "6:00pm",
+      "description": "Paleface Swissw/ Stick To Your Guns, Nasty  Saturday, Mar 29 at 6:00pm  $34  1819 Spring Garden Street, Greensboro, NC 27403More info    Saturday, Mar 29 at 6:00pm  $34  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/274",
+      "venueId": "5",
+      "performers": [
+        "Paleface Swiss"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.788Z",
+      "hash": "f606b19fdbc2e8600206d3bf8cbec242"
+    },
+    {
+      "id": "abcb8d0b-e5ac-48d3-8b65-4941a1c05adb",
+      "name": "",
+      "date": "2025-03-16T02:12:35.789Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/313",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.789Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "7a1630ad-eb23-4e84-9800-e08b418df312",
+      "name": "Armor For Sleep",
+      "date": "2025-04-03T04:00:00.000Z",
+      "startTime": "6:30pm",
+      "description": "Armor For Sleep  Thursday, Apr 3 at 6:30pm  $39.25  1819 Spring Garden Street, Greensboro, NC 27403More info    Thursday, Apr 3 at 6:30pm  $39.25  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/313",
+      "venueId": "5",
+      "performers": [
+        "Armor For Sleep"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.791Z",
+      "hash": "9353476440c9fc26cddce3e24d974060"
+    },
+    {
+      "id": "736eccb6-67d1-42cb-ab50-171d4fd3a294",
+      "name": "Just AnnouncedJust Announced",
+      "date": "2025-03-16T02:12:35.792Z",
+      "startTime": "",
+      "description": "Just AnnouncedJust Announced",
+      "sourceUrl": "http://hangar1819.com/event/357",
+      "venueId": "5",
+      "performers": [
+        "Just AnnouncedJust Announced"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.793Z",
+      "hash": "e452dbbfc44833185ea00d85347f47b4"
+    },
+    {
+      "id": "17270070-529a-48d3-bbde-b9c5904481e0",
+      "name": "Pageant",
+      "date": "2025-04-11T04:00:00.000Z",
+      "startTime": "7:00pm",
+      "description": "Pageant  Friday, Apr 11 at 7:00pm  $12.89  1819 Spring Garden Street, Greensboro, NC 27403More info    Friday, Apr 11 at 7:00pm  $12.89  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/357",
+      "venueId": "5",
+      "performers": [
+        "Pageant"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.794Z",
+      "hash": "5cb0514605dd3575b026cdeb21cb0805"
+    },
+    {
+      "id": "0dbc1284-4053-4ceb-8732-c2adef36add3",
+      "name": "Buy tickets",
+      "date": "2025-03-16T02:12:35.794Z",
+      "startTime": "",
+      "description": "Buy tickets",
+      "sourceUrl": "https://tickpick.com/organizer/event/pageant-611664245366135155",
+      "venueId": "5",
+      "performers": [
+        "Buy tickets"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.795Z",
+      "hash": "17e1b4fe443575453fc032a7f5750ad3"
+    },
+    {
+      "id": "9b9a037c-7f4a-4912-9d7c-9e324ae10080",
+      "name": "",
+      "date": "2025-03-16T02:12:35.795Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/351",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.795Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "fcb3abdc-55d9-4d5c-a5c1-6394d44d7be9",
+      "name": "The Dirty Secrets & 30 Is Dead",
+      "date": "2025-04-12T04:00:00.000Z",
+      "startTime": "7:00pm",
+      "description": "The Dirty Secrets & 30 Is Dead  Saturday, Apr 12 at 7:00pm  $10.64  1819 Spring Garden Street, Greensboro, NC 27403More info    Saturday, Apr 12 at 7:00pm  $10.64  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/351",
+      "venueId": "5",
+      "performers": [
+        "The Dirty Secrets & 30 Is Dead"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.797Z",
+      "hash": "7074b44d9a0980f10270b3d33e0b7a27"
+    },
+    {
+      "id": "5b043966-835c-475c-bbce-3259e7ac5ceb",
+      "name": "Buy tickets",
+      "date": "2025-03-16T02:12:35.798Z",
+      "startTime": "",
+      "description": "Buy tickets",
+      "sourceUrl": "https://tickpick.com/organizer/event/the-dirty-secrets-30-is-dead-203665688011713204",
+      "venueId": "5",
+      "performers": [
+        "Buy tickets"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.798Z",
+      "hash": "17e1b4fe443575453fc032a7f5750ad3"
+    },
+    {
+      "id": "6c49f38c-e80a-4f27-a931-f0e4a689d472",
+      "name": "",
+      "date": "2025-03-16T02:12:35.799Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/352",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.799Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "69a5b247-e6a1-4261-862f-98cd65291115",
+      "name": "Fake Happy: Paramore Tribute",
+      "date": "2025-04-18T04:00:00.000Z",
+      "startTime": "6:30pm",
+      "description": "Fake Happy: Paramore Tribute   Friday, Apr 18 at 6:30pm  $15  1819 Spring Garden Street, Greensboro, NC 27403More info    Friday, Apr 18 at 6:30pm  $15  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/352",
+      "venueId": "5",
+      "performers": [
+        "Fake Happy: Paramore Tribute"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.800Z",
+      "hash": "50eb48de10bc9233fd835d485b6ab1ad"
+    },
+    {
+      "id": "5dad7a52-7212-4d1a-a4b5-e9da0db1954c",
+      "name": "Buy tickets",
+      "date": "2025-03-16T02:12:35.800Z",
+      "startTime": "",
+      "description": "Buy tickets",
+      "sourceUrl": "https://tickpick.com/organizer/event/fake-happy-paramore-tribute--352741655040311609",
+      "venueId": "5",
+      "performers": [
+        "Buy tickets"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.800Z",
+      "hash": "17e1b4fe443575453fc032a7f5750ad3"
+    },
+    {
+      "id": "517729fd-209d-4723-a20e-b1c7e8544997",
+      "name": "",
+      "date": "2025-03-16T02:12:35.801Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/353",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.801Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "5ecae6d0-df4e-4a87-a28b-cbe27712e793",
+      "name": "It's A 2000s Party: Greensboro",
+      "date": "2026-03-16T02:12:35.801Z",
+      "startTime": "8:00pm",
+      "description": "It's A 2000s Party: Greensboro  Saturday, Apr 19 at 8:00pm  $15  1819 Spring Garden Street, Greensboro, NC 27403More info    Saturday, Apr 19 at 8:00pm  $15  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/353",
+      "venueId": "5",
+      "performers": [
+        "It's A 2000s Party: Greensboro"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.802Z",
+      "hash": "a9cd7b4f6515f1f2ec2f812c81954ea4"
+    },
+    {
+      "id": "897647c7-bbbc-404e-a45a-318c12a52b8e",
+      "name": "Buy tickets",
+      "date": "2025-03-16T02:12:35.802Z",
+      "startTime": "",
+      "description": "Buy tickets",
+      "sourceUrl": "https://tickpick.com/organizer/event/its-a-2000s-party-greensboro-589786033876171443",
+      "venueId": "5",
+      "performers": [
+        "Buy tickets"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.802Z",
+      "hash": "17e1b4fe443575453fc032a7f5750ad3"
+    },
+    {
+      "id": "cba6abfb-9e47-42de-9912-c56ddb4140dd",
+      "name": "",
+      "date": "2025-03-16T02:12:35.803Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/337",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.803Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "3253fb58-b457-4f7c-87f1-a4ede976255a",
+      "name": "Thornhill – North American Tour 2025",
+      "date": "2025-03-16T02:12:35.803Z",
+      "startTime": "6:00pm",
+      "description": "Thornhill – North American Tour 2025w/ Avoid, Banks Arcade, Oceans Grove  Wednesday, Apr 23 at 6:00pm  $28.25  1819 Spring Garden Street, Greensboro, NC 27403More info    Wednesday, Apr 23 at 6:00pm  $28.25  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/337",
+      "venueId": "5",
+      "performers": [
+        "Thornhill – North American Tour 2025"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.804Z",
+      "hash": "b2edcac405048c8330d370d1581a813d"
+    },
+    {
+      "id": "0793a7ae-ff34-4fce-8438-ef3f4990c868",
+      "name": "",
+      "date": "2025-03-16T02:12:35.805Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/316",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.805Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "c2ad0bcd-9e4d-45f5-942f-117b4bf0bb97",
+      "name": "Capstan - 'The Cult Tour'",
+      "date": "2025-04-24T04:00:00.000Z",
+      "startTime": "6:30pm",
+      "description": "Capstan - 'The Cult Tour'  Thursday, Apr 24 at 6:30pm  $28.25  1819 Spring Garden Street, Greensboro, NC 27403More info    Thursday, Apr 24 at 6:30pm  $28.25  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/316",
+      "venueId": "5",
+      "performers": [
+        "Capstan - 'The Cult Tour'"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.806Z",
+      "hash": "d802c91efbb406f58adceb5592924822"
+    },
+    {
+      "id": "1f7ca3fd-f8e5-4aa6-8e4b-375d8e23ea7a",
+      "name": "",
+      "date": "2025-03-16T02:12:35.806Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/322",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.806Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "d2283464-6e28-4a01-a872-f51605ffd735",
+      "name": "Liam St. John",
+      "date": "2025-04-25T04:00:00.000Z",
+      "startTime": "7:00pm",
+      "description": "Liam St. John  Friday, Apr 25 at 7:00pm  $22.75  1819 Spring Garden Street, Greensboro, NC 27403More info    Friday, Apr 25 at 7:00pm  $22.75  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/322",
+      "venueId": "5",
+      "performers": [
+        "Liam St. John"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.808Z",
+      "hash": "ef41e1f772a340834a7de8c8ae5d7f1e"
+    },
+    {
+      "id": "1fbaff41-da4a-4ab2-8bc7-4d07973124ee",
+      "name": "",
+      "date": "2025-03-16T02:12:35.808Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/346",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.808Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "d37877a4-df53-4f3b-86a2-8cbeb8e36ef9",
+      "name": "Emo Kids",
+      "date": "2025-04-26T04:00:00.000Z",
+      "startTime": "7:00pm",
+      "description": "Emo Kids Emo nights are better live!  Saturday, Apr 26 at 7:00pm  $15  1819 Spring Garden Street, Greensboro, NC 27403More info    Saturday, Apr 26 at 7:00pm  $15  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/346",
+      "venueId": "5",
+      "performers": [
+        "Emo Kids"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.809Z",
+      "hash": "f7080eee0c95ae835e49fe4061056f2a"
+    },
+    {
+      "id": "aebf3c66-02ef-4bd4-9523-34adf6b6bf1c",
+      "name": "",
+      "date": "2025-03-16T02:12:35.810Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/334",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.810Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "511338c5-397f-45af-88ce-8cff223d453f",
+      "name": "OsamaSon - 'Jumpout Tour'",
+      "date": "2025-04-27T04:00:00.000Z",
+      "startTime": "7:00pm",
+      "description": "OsamaSon - 'Jumpout Tour'  Sunday, Apr 27 at 7:00pm  $0  1819 Spring Garden Street, Greensboro, NC 27403More info    Sunday, Apr 27 at 7:00pm  $0  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/334",
+      "venueId": "5",
+      "performers": [
+        "OsamaSon - 'Jumpout Tour'"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.810Z",
+      "hash": "1aed03e850d7ef9d5286d8daaa775067"
+    },
+    {
+      "id": "1a17eaf6-e475-41a0-8899-9349c97ff639",
+      "name": "Buy tickets",
+      "date": "2025-03-16T02:12:35.811Z",
+      "startTime": "",
+      "description": "Buy tickets",
+      "sourceUrl": "https://tickpick.com/organizer/event/osamason-jumpout-tour-735006095996652133",
+      "venueId": "5",
+      "performers": [
+        "Buy tickets"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.811Z",
+      "hash": "17e1b4fe443575453fc032a7f5750ad3"
+    },
+    {
+      "id": "46d98f82-7f86-475d-b3db-95731f0499f5",
+      "name": "",
+      "date": "2025-03-16T02:12:35.811Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/342",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.811Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "9b4d3ec3-1b28-49e9-bc98-4b37f233ac54",
+      "name": "Shred Fest 2025: Obscura",
+      "date": "2025-03-16T02:12:35.812Z",
+      "startTime": "5:30pm",
+      "description": "Shred Fest 2025: Obscura  Tuesday, Apr 29 at 5:30pm  $33.75  1819 Spring Garden Street, Greensboro, NC 27403More info    Tuesday, Apr 29 at 5:30pm  $33.75  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/342",
+      "venueId": "5",
+      "performers": [
+        "Shred Fest 2025: Obscura"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.812Z",
+      "hash": "3efd30a9609c1d19733584314e5e1c07"
+    },
+    {
+      "id": "c2d2b345-7093-42cf-94cc-bc550dae8877",
+      "name": "",
+      "date": "2025-03-16T02:12:35.812Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/340",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.812Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "1d23a6c1-3773-4341-8859-75f825ea69f3",
+      "name": "Soulja Boy - 'The Swag Tour' 2025",
+      "date": "2025-05-04T04:00:00.000Z",
+      "startTime": "8:00pm",
+      "description": "Soulja Boy - 'The Swag Tour' 2025  Sunday, May 4 at 8:00pm  $44.75  1819 Spring Garden Street, Greensboro, NC 27403More info    Sunday, May 4 at 8:00pm  $44.75  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/340",
+      "venueId": "5",
+      "performers": [
+        "Soulja Boy - 'The Swag Tour' 2025"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.813Z",
+      "hash": "5ed51bb1b89ca73c924662bfb21ff51c"
+    },
+    {
+      "id": "9a491cf3-9156-49e0-84a1-56eb0dee156e",
+      "name": "",
+      "date": "2025-03-16T02:12:35.814Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/335",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.814Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "e831ac64-21fb-4573-8d02-e606be90cebc",
+      "name": "The Acacia Strain",
+      "date": "2025-05-06T04:00:00.000Z",
+      "startTime": "6:00pm",
+      "description": "The Acacia Strainw/ Frozen Soul, Snuffed On Sight, Gates To Hell, Maul  Tuesday, May 6 at 6:00pm  $33.75  1819 Spring Garden Street, Greensboro, NC 27403More info    Tuesday, May 6 at 6:00pm  $33.75  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/335",
+      "venueId": "5",
+      "performers": [
+        "The Acacia Strain"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.816Z",
+      "hash": "4d0708c42619215861c6d07b9564df18"
+    },
+    {
+      "id": "7050d744-8e65-4bde-b647-70aa91a2a6f4",
+      "name": "",
+      "date": "2025-03-16T02:12:35.818Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/354",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.818Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "dac81c79-eab4-48f4-bd5a-bf197db3452f",
+      "name": "Sond",
+      "date": "2025-05-10T04:00:00.000Z",
+      "startTime": "7:00pm",
+      "description": "Sondw/ Dying To Live, Saving Darkness, Leaving Echoes  Saturday, May 10 at 7:00pm  $10  1819 Spring Garden Street, Greensboro, NC 27403More info    Saturday, May 10 at 7:00pm  $10  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/354",
+      "venueId": "5",
+      "performers": [
+        "Sond"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.818Z",
+      "hash": "608b77e8aad7f32ee3834cde18189c37"
+    },
+    {
+      "id": "922437fb-48dc-4be2-b4e5-b7679e797284",
+      "name": "Buy tickets",
+      "date": "2025-03-16T02:12:35.819Z",
+      "startTime": "",
+      "description": "Buy tickets",
+      "sourceUrl": "https://tickpick.com/organizer/event/sond-494068767918948749",
+      "venueId": "5",
+      "performers": [
+        "Buy tickets"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.819Z",
+      "hash": "17e1b4fe443575453fc032a7f5750ad3"
+    },
+    {
+      "id": "0d46331f-0831-41d1-9ee8-214bdcb88aa0",
+      "name": "",
+      "date": "2025-03-16T02:12:35.820Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/348",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.820Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "375eac70-9a25-414d-9d02-7ef83c6e4291",
+      "name": "Silverstein - '25 Years Of Noise' Tour",
+      "date": "2025-05-14T04:00:00.000Z",
+      "startTime": "6:00pm",
+      "description": "Silverstein - '25 Years Of Noise' Tourw/ Real Friends, Broadside, greyhaven  Wednesday, May 14 at 6:00pm  $46.75  1819 Spring Garden Street, Greensboro, NC 27403More info    Wednesday, May 14 at 6:00pm  $46.75  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/348",
+      "venueId": "5",
+      "performers": [
+        "Silverstein - '25 Years Of Noise' Tour"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.820Z",
+      "hash": "ed9e77f145734e3df133ad00779ddda9"
+    },
+    {
+      "id": "599a738f-78dc-4feb-bc09-6db4f3657fc5",
+      "name": "",
+      "date": "2025-03-16T02:12:35.821Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/345",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.821Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "1292d35d-e00c-4c2f-8eb2-04bf101c18bc",
+      "name": "Attack Attack - 'The Roadside Rumble Tour'",
+      "date": "2025-05-15T04:00:00.000Z",
+      "startTime": "5:30pm",
+      "description": "Attack Attack - 'The Roadside Rumble Tour'  Thursday, May 15 at 5:30pm  $39.25  1819 Spring Garden Street, Greensboro, NC 27403More info    Thursday, May 15 at 5:30pm  $39.25  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/345",
+      "venueId": "5",
+      "performers": [
+        "Attack Attack - 'The Roadside Rumble Tour'"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.822Z",
+      "hash": "5c38ca5a58c40f92ce47e05c970ee4e7"
+    },
+    {
+      "id": "89222d4e-7990-4894-9e0b-298de36efb5a",
+      "name": "Buy tickets",
+      "date": "2025-03-16T02:12:35.822Z",
+      "startTime": "",
+      "description": "Buy tickets",
+      "sourceUrl": "https://tickpick.com/organizer/event/attack-attack-the-roadside-rumble-tour-838867713663330597",
+      "venueId": "5",
+      "performers": [
+        "Buy tickets"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.822Z",
+      "hash": "17e1b4fe443575453fc032a7f5750ad3"
+    },
+    {
+      "id": "6ab0a168-96e8-4444-9391-c72fe0012cc1",
+      "name": "",
+      "date": "2025-03-16T02:12:35.823Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/333",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.823Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "50a33a69-1d98-4972-a777-1383dbc1fc8f",
+      "name": "ANGELMAKER",
+      "date": "2025-05-16T04:00:00.000Z",
+      "startTime": "6:00pm",
+      "description": "ANGELMAKER  Friday, May 16 at 6:00pm  $33.75  1819 Spring Garden Street, Greensboro, NC 27403More info    Friday, May 16 at 6:00pm  $33.75  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/333",
+      "venueId": "5",
+      "performers": [
+        "ANGELMAKER"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.824Z",
+      "hash": "884fc3bdb854313b1ab2fd64a0a13891"
+    },
+    {
+      "id": "bfb3e899-7b3a-48d1-9c18-370b8c6b0f08",
+      "name": "Buy tickets",
+      "date": "2025-03-16T02:12:35.824Z",
+      "startTime": "",
+      "description": "Buy tickets",
+      "sourceUrl": "https://tickpick.com/organizer/event/angelmaker-794469704729912275",
+      "venueId": "5",
+      "performers": [
+        "Buy tickets"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.824Z",
+      "hash": "17e1b4fe443575453fc032a7f5750ad3"
+    },
+    {
+      "id": "45910c43-7a68-4096-aab4-e6875ea722cc",
+      "name": "",
+      "date": "2025-03-16T02:12:35.825Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/356",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.825Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "17cbbbcb-07f9-4841-b6f1-ca19eb2e6c44",
+      "name": "Speed",
+      "date": "2025-05-24T04:00:00.000Z",
+      "startTime": "7:00pm",
+      "description": "Speed  Saturday, May 24 at 7:00pm  $33.75  1819 Spring Garden Street, Greensboro, NC 27403More info    Saturday, May 24 at 7:00pm  $33.75  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/356",
+      "venueId": "5",
+      "performers": [
+        "Speed"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.825Z",
+      "hash": "7ced366dc9eaecc32ea58576dd4b902b"
+    },
+    {
+      "id": "114d0531-3b16-4c44-8cdf-e100848b8059",
+      "name": "Buy tickets",
+      "date": "2025-03-16T02:12:35.826Z",
+      "startTime": "",
+      "description": "Buy tickets",
+      "sourceUrl": "https://tickpick.com/organizer/event/speed-80728164953357550",
+      "venueId": "5",
+      "performers": [
+        "Buy tickets"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.826Z",
+      "hash": "17e1b4fe443575453fc032a7f5750ad3"
+    },
+    {
+      "id": "6400d21b-d718-44c8-98b1-c2eaa60a085c",
+      "name": "",
+      "date": "2025-03-16T02:12:35.826Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/341",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.826Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "e6e2766f-9a00-4d6a-b596-cd02bc9d9f2d",
+      "name": "Nekrogoblikon",
+      "date": "2025-05-27T04:00:00.000Z",
+      "startTime": "6:00pm",
+      "description": "Nekrogoblikonw/ Revocation, Ov Sulfur, BRAT  Tuesday, May 27 at 6:00pm  $38.50  1819 Spring Garden Street, Greensboro, NC 27403More info    Tuesday, May 27 at 6:00pm  $38.50  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/341",
+      "venueId": "5",
+      "performers": [
+        "Nekrogoblikon"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.826Z",
+      "hash": "f22a66655f57c35e10ff576c00d80e8b"
+    },
+    {
+      "id": "fb653e56-9f80-4744-9ab6-2060d6ed031d",
+      "name": "",
+      "date": "2025-03-16T02:12:35.827Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/350",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.827Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "461fb441-c16c-4a3b-a295-34d97d18a0fc",
+      "name": "Merkules - 'The Survivor's Guilt' Tour",
+      "date": "2025-06-04T04:00:00.000Z",
+      "startTime": "6:00pm",
+      "description": "Merkules - 'The Survivor's Guilt' Tour  Wednesday, Jun 4 at 6:00pm  $33.75  1819 Spring Garden Street, Greensboro, NC 27403More info    Wednesday, Jun 4 at 6:00pm  $33.75  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/350",
+      "venueId": "5",
+      "performers": [
+        "Merkules - 'The Survivor's Guilt' Tour"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.827Z",
+      "hash": "a4448e8c0aabe43c5a7b25b3ea217a37"
+    },
+    {
+      "id": "64349133-5931-473f-aba5-eb90e3932113",
+      "name": "Buy tickets",
+      "date": "2025-03-16T02:12:35.827Z",
+      "startTime": "",
+      "description": "Buy tickets",
+      "sourceUrl": "https://tickpick.com/organizer/event/merkules-the-survivors-guilt-tour-641361925869027050",
+      "venueId": "5",
+      "performers": [
+        "Buy tickets"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.827Z",
+      "hash": "17e1b4fe443575453fc032a7f5750ad3"
+    },
+    {
+      "id": "bd88df6e-75fd-4951-ad2c-1b475b167b4e",
+      "name": "",
+      "date": "2025-03-16T02:12:35.828Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/355",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.828Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "b6e582eb-5ae9-416e-bfbc-d54f2cbadf66",
+      "name": "The Native Howl",
+      "date": "2025-06-18T04:00:00.000Z",
+      "startTime": "6:00pm",
+      "description": "The Native Howlw/ Tejon Street Corner Thieves  Wednesday, Jun 18 at 6:00pm  $26  1819 Spring Garden Street, Greensboro, NC 27403More info    Wednesday, Jun 18 at 6:00pm  $26  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/355",
+      "venueId": "5",
+      "performers": [
+        "The Native Howl"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.828Z",
+      "hash": "2d12be97ef99777b71282c7cd0743ad8"
+    },
+    {
+      "id": "661ba8ef-8cbb-49d3-a060-f1f5fd8824c9",
+      "name": "Buy tickets",
+      "date": "2025-03-16T02:12:35.829Z",
+      "startTime": "",
+      "description": "Buy tickets",
+      "sourceUrl": "https://tickpick.com/organizer/event/the-native-howl-921605601432914023",
+      "venueId": "5",
+      "performers": [
+        "Buy tickets"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.829Z",
+      "hash": "17e1b4fe443575453fc032a7f5750ad3"
+    },
+    {
+      "id": "1a04dbc2-1075-45d3-bbea-1f2368b5b5a2",
+      "name": "",
+      "date": "2025-03-16T02:12:35.829Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/347",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.829Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "6b52062b-e80b-424a-90da-f9ea915baba3",
+      "name": "One Step Closer - 'All You Embrace' Tour",
+      "date": "2025-06-21T04:00:00.000Z",
+      "startTime": "6:00pm",
+      "description": "One Step Closer - 'All You Embrace' Tour  Saturday, Jun 21 at 6:00pm  $27.25  1819 Spring Garden Street, Greensboro, NC 27403More info    Saturday, Jun 21 at 6:00pm  $27.25  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/347",
+      "venueId": "5",
+      "performers": [
+        "One Step Closer - 'All You Embrace' Tour"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.829Z",
+      "hash": "a71a8cb99119d260a53449928bb1300c"
+    },
+    {
+      "id": "7750f9b4-81f6-4e1d-b62a-903e5b55028b",
+      "name": "Buy tickets",
+      "date": "2025-03-16T02:12:35.830Z",
+      "startTime": "",
+      "description": "Buy tickets",
+      "sourceUrl": "https://tickpick.com/organizer/event/one-step-closer-all-you-embrace-tour-492131032969576249",
+      "venueId": "5",
+      "performers": [
+        "Buy tickets"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.830Z",
+      "hash": "17e1b4fe443575453fc032a7f5750ad3"
+    },
+    {
+      "id": "ea755720-3a4a-49de-8481-4fe8cd5d48bf",
+      "name": "",
+      "date": "2025-03-16T02:12:35.830Z",
+      "startTime": "",
+      "description": "Event at Hangar 1819: ",
+      "sourceUrl": "http://hangar1819.com/event/328",
+      "venueId": "5",
+      "performers": [
+        ""
+      ],
+      "lastScraped": "2025-03-16T02:12:35.830Z",
+      "hash": "e759e787b1cdb1e704fc0db0c44baafe"
+    },
+    {
+      "id": "0f5db54d-b691-40bf-937b-33171c564eff",
+      "name": "Rio Da Yung OG",
+      "date": "2025-09-16T04:00:00.000Z",
+      "startTime": "7:00pm",
+      "description": "Rio Da Yung OG  Tuesday, Sep 16 at 7:00pm  $39.25  1819 Spring Garden Street, Greensboro, NC 27403More info    Tuesday, Sep 16 at 7:00pm  $39.25  1819 Spring Garden Street, Greensboro, NC 27403More info",
+      "sourceUrl": "http://hangar1819.com/event/328",
+      "venueId": "5",
+      "performers": [
+        "Rio Da Yung OG"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.831Z",
+      "hash": "a4bf5221afb32441d539840bc0fb9d13"
+    },
+    {
+      "id": "a374f1af-20e1-4151-9d40-f4411f97a169",
+      "name": "Buy tickets",
+      "date": "2025-03-16T02:12:35.832Z",
+      "startTime": "",
+      "description": "Buy tickets",
+      "sourceUrl": "https://tickpick.com/organizer/event/rio-da-yung-og-711706181907161038",
+      "venueId": "5",
+      "performers": [
+        "Buy tickets"
+      ],
+      "lastScraped": "2025-03-16T02:12:35.832Z",
+      "hash": "17e1b4fe443575453fc032a7f5750ad3"
+    }
+  ],
+  "venue": "Hangar 1819",
+  "success": true,
+  "scrapedAt": "2025-03-16T02:12:35.832Z"
+}

@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "id": "17ad32e1-df19-4016-b9f6-880ae36b755b",
+      "name": "Castle Rat",
+      "date": "2025-03-15T00:00:00.000Z",
+      "type": "music",
+      "description": "Live at Chapel of Bones",
+      "startTime": "8:00 PM",
+      "venueId": "Chapel of Bones",
+      "sourceUrl": "https://www.chapelofbones.com/",
+      "lastScraped": "2025-03-16T02:43:44.832Z",
+      "hash": "cfcd388da40296b1e4d07e76ed75edd8",
+      "performers": [
+        "Castle Rat"
+      ]
+    }
+  ],
+  "venue": "Chapel of Bones",
+  "success": true,
+  "scrapedAt": "2025-03-16T02:43:43.807Z"
+}

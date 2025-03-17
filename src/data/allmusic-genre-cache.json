@@ -1,0 +1,5359 @@
+{
+  "metallica": {
+    "artist": "Metallica",
+    "styles": [
+      "Heavy Metal",
+      "Speed/Thrash Metal",
+      "Hard Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "taylor swift": {
+    "artist": "Taylor Swift",
+    "styles": [
+      "Pop",
+      "Country-Pop",
+      "Contemporary Country",
+      "Contemporary Singer/Songwriter"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Country"
+    ],
+    "source": "allmusic.com"
+  },
+  "kendrick lamar": {
+    "artist": "Kendrick Lamar",
+    "styles": [
+      "Contemporary Rap",
+      "West Coast Rap"
+    ],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "beyoncé": {
+    "artist": "Beyoncé",
+    "styles": [
+      "Contemporary R&B",
+      "Pop",
+      "Dance-Pop",
+      "Teen Pop",
+      "Contemporary Country"
+    ],
+    "genres": [
+      "R&B",
+      "Country"
+    ],
+    "source": "allmusic.com"
+  },
+  "radiohead": {
+    "artist": "Radiohead",
+    "styles": [
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Experimental Rock",
+      "Britpop",
+      "Indie Electronic"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Electronic"
+    ],
+    "source": "allmusic.com"
+  },
+  "nirvana": {
+    "artist": "Nirvana",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Grunge",
+      "Alternative Pop/Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "miles davis": {
+    "artist": "Miles Davis",
+    "styles": [
+      "Bop",
+      "Cool",
+      "Fusion",
+      "Hard Bop",
+      "Jazz-Funk",
+      "Jazz-Rock",
+      "Modal Music",
+      "Post-Bop",
+      "Jazz Instrument",
+      "Trumpet Jazz"
+    ],
+    "genres": [
+      "Jazz"
+    ],
+    "source": "allmusic.com"
+  },
+  "johnny cash": {
+    "artist": "Johnny Cash",
+    "styles": [
+      "Country Gospel",
+      "Country-Pop",
+      "Cowboy",
+      "Gospel",
+      "Rockabilly",
+      "Traditional Country",
+      "Rock & Roll",
+      "Country-Folk"
+    ],
+    "genres": [
+      "Country"
+    ],
+    "source": "allmusic.com"
+  },
+  "daft punk": {
+    "artist": "Daft Punk",
+    "styles": [
+      "Electronica",
+      "French House",
+      "House",
+      "Club/Dance",
+      "Left-Field House"
+    ],
+    "genres": [
+      "Electronic"
+    ],
+    "source": "allmusic.com"
+  },
+  "bob marley": {
+    "artist": "Bob Marley",
+    "styles": [
+      "Political Reggae",
+      "Roots Reggae",
+      "Rocksteady",
+      "Ska"
+    ],
+    "genres": [
+      "Reggae"
+    ],
+    "source": "allmusic.com"
+  },
+  "castle rat": {
+    "artist": "Castle Rat",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "missio i am cinco tour": {
+    "artist": "Missio I Am Cinco Tour",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "take on me an 80s affair 3": {
+    "artist": "Take On Me An 80s Affair 3",
+    "styles": [
+      "Punk/New Wave",
+      "Synth Pop",
+      "Contemporary Pop/Rock",
+      "New Wave",
+      "Euro-Pop",
+      "Adult Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Dance-Rock",
+      "Euro-Rock",
+      "Soundtracks",
+      "Club/Dance",
+      "Euro-Dance"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Electronic",
+      "Stage & Screen"
+    ],
+    "source": "allmusic.com"
+  },
+  "paul mcdonald & the mourning doves": {
+    "artist": "Paul McDonald & the Mourning Doves",
+    "styles": [],
+    "genres": [
+      "Country"
+    ],
+    "source": "allmusic.com"
+  },
+  "willis": {
+    "artist": "Willis",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "josey scott": {
+    "artist": "Josey Scott",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "sings like hell": {
+    "artist": "Sings Like Hell",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Contemporary Folk",
+      "Contemporary Singer/Songwriter",
+      "College Rock",
+      "Punk/New Wave",
+      "New Wave"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Folk"
+    ],
+    "source": "allmusic.com"
+  },
+  "sven jungbeck gypsy jazz guitar workshop": {
+    "artist": "Sven Jungbeck Gypsy Jazz Guitar Workshop",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "simba baumgartner & adrien marco gypsy jazz guitar workshop": {
+    "artist": "Simba Baumgartner & Adrien Marco Gypsy Jazz Guitar Workshop",
+    "styles": [
+      "Funk",
+      "Fusion",
+      "Soul Jazz"
+    ],
+    "genres": [
+      "Jazz",
+      "R&B"
+    ],
+    "source": "allmusic.com"
+  },
+  "whores with facet and scrape": {
+    "artist": "Whores with Facet and Scrape",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "wyatt easterling": {
+    "artist": "Wyatt Easterling",
+    "styles": [
+      "Art Rock",
+      "Canterbury Scene",
+      "Experimental Rock",
+      "Prog-Rock",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "the spectacles, the unsustainables, and hex files": {
+    "artist": "The Spectacles, The Unsustainables, and Hex Files",
+    "styles": [],
+    "genres": [],
+    "source": "allmusic.com"
+  },
+  "donovan woods": {
+    "artist": "Donovan Woods",
+    "styles": [
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Indie Rock",
+      "Riot Grrrl"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "low cut connie": {
+    "artist": "Low Cut Connie",
+    "styles": [
+      "Retro-Rock",
+      "Rock & Roll",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "the monti storyslam lucky break": {
+    "artist": "The Monti Storyslam Lucky Break",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "whitechapel \"hymns in dissonance\"": {
+    "artist": "WHITECHAPEL \"HYMNS IN DISSONANCE\"",
+    "styles": [
+      "Deathcore",
+      "Death Metal",
+      "Grindcore",
+      "Heavy Metal"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "ashes to amber with current blue": {
+    "artist": "Ashes to Amber with Current Blue",
+    "styles": [],
+    "genres": [
+      "Country"
+    ],
+    "source": "allmusic.com"
+  },
+  "reggie watts": {
+    "artist": "Reggie Watts",
+    "styles": [
+      "Alternative Pop/Rock",
+      "Post-Punk",
+      "Alternative Dance",
+      "Dance-Rock",
+      "College Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "superintendo with oort patrol and ruler!": {
+    "artist": "Superintendo with Oort Patrol and Ruler!",
+    "styles": [
+      "Chamber Music",
+      "Choral"
+    ],
+    "genres": [
+      "Classical"
+    ],
+    "source": "allmusic.com"
+  },
+  "periodic tables 03 20 2025": {
+    "artist": "Periodic Tables 03 20 2025",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "kim dracula": {
+    "artist": "Kim Dracula",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "joscho stephan & sven jungbeck": {
+    "artist": "Joscho Stephan & Sven Jungbeck",
+    "styles": [],
+    "genres": [
+      "Jazz"
+    ],
+    "source": "allmusic.com"
+  },
+  "of montreal": {
+    "artist": "Of Montreal",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "ray bull": {
+    "artist": "Ray Bull",
+    "styles": [
+      "Blues-Rock",
+      "Electric Texas Blues",
+      "Modern Electric Blues",
+      "Modern Electric Texas Blues",
+      "Regional Blues",
+      "Texas Blues",
+      "Album Rock"
+    ],
+    "genres": [
+      "Blues",
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "mentally im here": {
+    "artist": "Mentally Im Here",
+    "styles": [
+      "Adult Contemporary",
+      "Singer/Songwriter",
+      "Soft Rock",
+      "Contemporary Pop/Rock",
+      "AM Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "belphegor": {
+    "artist": "Belphegor",
+    "styles": [],
+    "genres": [
+      "Electronic"
+    ],
+    "source": "allmusic.com"
+  },
+  "last dinosaurs": {
+    "artist": "Last Dinosaurs",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "simba baumgartner & adrien marco + onyx club boys": {
+    "artist": "Simba Baumgartner & Adrien Marco + Onyx Club Boys",
+    "styles": [
+      "Funk",
+      "Fusion",
+      "Soul Jazz"
+    ],
+    "genres": [
+      "Jazz",
+      "R&B"
+    ],
+    "source": "allmusic.com"
+  },
+  "motorco annual shrimp boil": {
+    "artist": "Motorco Annual Shrimp Boil",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "gimme gimme disco 3 22 25": {
+    "artist": "Gimme Gimme Disco 3 22 25",
+    "styles": [
+      "Alternative Dance",
+      "Alternative/Indie Rock",
+      "House",
+      "Synth Pop",
+      "Dance-Pop",
+      "Dance-Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "nookie: nu-metal night": {
+    "artist": "Nookie: Nu-Metal Night",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "be loud! sophie high school music showcase": {
+    "artist": "Be Loud! Sophie High School Music Showcase",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "the hard quartet": {
+    "artist": "The Hard Quartet",
+    "styles": [
+      "Alternative Singer/Songwriter",
+      "Alternative/Indie Rock",
+      "Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "lawn enforcement with negative feedback and mush, puppy!": {
+    "artist": "Lawn Enforcement with Negative Feedback and Mush, Puppy!",
+    "styles": [
+      "American Trad Rock",
+      "Jam Bands",
+      "Alternative/Indie Rock",
+      "Neo-Psychedelia",
+      "Alternative Pop/Rock",
+      "Fusion",
+      "Jazz-Rock"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Jazz"
+    ],
+    "source": "allmusic.com"
+  },
+  "will mcbride group matinee show": {
+    "artist": "Will Mcbride Group Matinee Show",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "explosions in the sky": {
+    "artist": "Explosions In The Sky",
+    "styles": [
+      "Album Rock",
+      "Contemporary Pop/Rock",
+      "Prog-Rock",
+      "Soft Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "heart to gold with rosary, weymouth, and buck swope": {
+    "artist": "Heart to Gold with Rosary, Weymouth, and Buck Swope",
+    "styles": [],
+    "genres": [
+      "Folk"
+    ],
+    "source": "allmusic.com"
+  },
+  "alexsucks": {
+    "artist": "Alexsucks",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Dance-Rock",
+      "Garage Rock Revival",
+      "Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "patterson hood": {
+    "artist": "Patterson Hood",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Alternative Singer/Songwriter",
+      "Alternative Country-Rock",
+      "Americana"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Country"
+    ],
+    "source": "allmusic.com"
+  },
+  "your neighbors": {
+    "artist": "Your Neighbors",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "the monti storyslam fish out of water": {
+    "artist": "The Monti Storyslam Fish Out Of Water",
+    "styles": [
+      "Prog-Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "cassandra jenkins": {
+    "artist": "Cassandra Jenkins",
+    "styles": [
+      "Alternative Singer/Songwriter",
+      "Alternative/Indie Rock",
+      "Indie Folk"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "cancerslug with good good grief and cigarettesmokingman": {
+    "artist": "Cancerslug with Good Good Grief and Cigarettesmokingman",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "tricky dick 2025": {
+    "artist": "Tricky Dick 2025",
+    "styles": [
+      "Art Rock",
+      "Neo-Prog",
+      "Prog-Rock",
+      "Album Rock",
+      "Contemporary Pop/Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "korpiklaani": {
+    "artist": "Korpiklaani",
+    "styles": [
+      "Nordic Traditions",
+      "Scandinavian Metal",
+      "Finnish Folk",
+      "Heavy Metal",
+      "Black Metal"
+    ],
+    "genres": [
+      "International",
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "wilder woods": {
+    "artist": "WILDER WOODS",
+    "styles": [
+      "Adult Alternative Pop/Rock",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "tumbao": {
+    "artist": "Tumbao",
+    "styles": [],
+    "genres": [
+      "Electronic"
+    ],
+    "source": "allmusic.com"
+  },
+  "dogwood tales with owen fitzgerald and brian mcgee": {
+    "artist": "Dogwood Tales with Owen FitzGerald and Brian McGee",
+    "styles": [],
+    "genres": [
+      "Country"
+    ],
+    "source": "allmusic.com"
+  },
+  "maggie antone": {
+    "artist": "Maggie Antone",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Rock",
+      "Noise Pop",
+      "Noise-Rock",
+      "Post-Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "set for tomorrowwhat lies belo": {
+    "artist": "Set For TomorrowWhat Lies Belo",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "palmyra": {
+    "artist": "Palmyra",
+    "styles": [],
+    "genres": [
+      "International"
+    ],
+    "source": "allmusic.com"
+  },
+  "the bleu ball: jean-belle’s punk rock b-day bash": {
+    "artist": "The Bleu Ball: Jean-Belle’s Punk Rock B-Day Bash",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "paleface swiss": {
+    "artist": "Paleface Swiss",
+    "styles": [
+      "Hard Bop",
+      "Soul Jazz",
+      "Jazz Instrument",
+      "Piano Jazz",
+      "Post-Bop",
+      "Jazz-Funk"
+    ],
+    "genres": [
+      "Jazz"
+    ],
+    "source": "allmusic.com"
+  },
+  "gavin adcock": {
+    "artist": "Gavin Adcock",
+    "styles": [
+      "Contemporary Pop/Rock",
+      "Contemporary Singer/Songwriter",
+      "Pop",
+      "Adult Alternative Pop/Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "cloakroom with napalm cruiser and applefield": {
+    "artist": "Cloakroom with Napalm Cruiser and Applefield",
+    "styles": [
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Post-Hardcore",
+      "Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "motorco rock n shop 3": {
+    "artist": "Motorco Rock N Shop 3",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "alan sparhawk of low": {
+    "artist": "Alan Sparhawk Of Low",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "clap your hands say yeah performing the debut album": {
+    "artist": "Clap Your Hands Say Yeah Performing The Debut Album",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "pom pom squad": {
+    "artist": "Pom Pom Squad",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Rock",
+      "Indie Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "willi carlisle": {
+    "artist": "Willi Carlisle",
+    "styles": [],
+    "genres": [
+      "Folk"
+    ],
+    "source": "allmusic.com"
+  },
+  "a woman is a school": {
+    "artist": "A Woman Is A School",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Rock",
+      "Alternative Country-Rock",
+      "Alternative Singer/Songwriter",
+      "Chamber Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "wim tapley": {
+    "artist": "Wim Tapley",
+    "styles": [
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "temptress and thunderchief with the magpie": {
+    "artist": "Temptress and Thunderchief with The Magpie",
+    "styles": [
+      "Pop Punk",
+      "Punk Revival",
+      "Emo-Pop",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "rebirth brass band": {
+    "artist": "Rebirth Brass Band",
+    "styles": [
+      "Neo-Bop",
+      "New Orleans Brass Bands",
+      "New Orleans R&B",
+      "Jazz Instrument"
+    ],
+    "genres": [
+      "R&B",
+      "Jazz"
+    ],
+    "source": "allmusic.com"
+  },
+  "armor for sleep": {
+    "artist": "Armor For Sleep",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Emo",
+      "Post-Hardcore",
+      "Indie Rock",
+      "Dream Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "john vincent iii": {
+    "artist": "John Vincent Iii",
+    "styles": [
+      "Folk-Pop",
+      "Americana",
+      "Alternative Singer/Songwriter",
+      "Indie Folk"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "liz longley": {
+    "artist": "Liz Longley",
+    "styles": [
+      "Contemporary Singer/Songwriter",
+      "Contemporary Country"
+    ],
+    "genres": [
+      "Country",
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "senses with negative 25, mvssie": {
+    "artist": "senses with Negative 25, Mvssie",
+    "styles": [],
+    "genres": [
+      "Jazz"
+    ],
+    "source": "allmusic.com"
+  },
+  "greek": {
+    "artist": "Greek",
+    "styles": [
+      "Vocal Pop",
+      "Classical Crossover",
+      "Euro-Pop",
+      "French Pop",
+      "Greek",
+      "Mediterranean Traditions",
+      "Vocal Music"
+    ],
+    "genres": [
+      "International",
+      "Vocal",
+      "Pop/Rock",
+      "Classical"
+    ],
+    "source": "allmusic.com"
+  },
+  "trap bingo": {
+    "artist": "Trap Bingo",
+    "styles": [
+      "Southern Rap",
+      "Contemporary Rap",
+      "Gangsta Rap",
+      "Trap (Rap)"
+    ],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "the tallest man on earth": {
+    "artist": "The Tallest Man On Earth",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Alternative Singer/Songwriter",
+      "Indie Folk",
+      "Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "manic third planet ep release show with narsick": {
+    "artist": "Manic Third Planet EP Release Show with Narsick",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "rock roll playhouse 4 5 25": {
+    "artist": "Rock Roll Playhouse 4 5 25",
+    "styles": [
+      "Album Rock",
+      "Contemporary Pop/Rock",
+      "Rock & Roll",
+      "Singer/Songwriter",
+      "AM Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "debi tirar mas fiestas": {
+    "artist": "Debi Tirar Mas Fiestas",
+    "styles": [
+      "Latin Rap",
+      "Urbano",
+      "Latin Pop",
+      "Reggaeton"
+    ],
+    "genres": [
+      "Latin"
+    ],
+    "source": "allmusic.com"
+  },
+  "chase petra": {
+    "artist": "Chase Petra",
+    "styles": [
+      "Country-Pop",
+      "New Traditionalist",
+      "Contemporary Country"
+    ],
+    "genres": [
+      "Country"
+    ],
+    "source": "allmusic.com"
+  },
+  "the weather station: humanhood tour": {
+    "artist": "The Weather Station: Humanhood Tour",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "transviolet": {
+    "artist": "Transviolet",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Adult Alternative Pop/Rock",
+      "Indie Electronic",
+      "Club/Dance"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Electronic"
+    ],
+    "source": "allmusic.com"
+  },
+  "transviolet with annabel lee, mixie": {
+    "artist": "Transviolet with Annabel Lee, Mixie",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Adult Alternative Pop/Rock",
+      "Indie Electronic",
+      "Club/Dance"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Electronic"
+    ],
+    "source": "allmusic.com"
+  },
+  "the weather station": {
+    "artist": "The Weather Station",
+    "styles": [
+      "Indie Folk",
+      "Alternative Singer/Songwriter",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "alexandra kay": {
+    "artist": "ALEXANDRA KAY",
+    "styles": [
+      "Alternative Pop/Rock",
+      "Post-Punk",
+      "Alternative Singer/Songwriter",
+      "Alternative/Indie Rock",
+      "Film Music",
+      "Film Score",
+      "Original Score",
+      "Soundtracks",
+      "Spoken Word"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Comedy/Spoken"
+    ],
+    "source": "allmusic.com"
+  },
+  "the rocket summer hello good friend 20th anniversary tour": {
+    "artist": "The Rocket Summer Hello Good Friend 20th Anniversary Tour",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "slow joy with flycatcher and goddamn wolves": {
+    "artist": "Slow Joy with Flycatcher and Goddamn Wolves",
+    "styles": [
+      "Indie Rock",
+      "Art Rock",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "jojo": {
+    "artist": "JoJo",
+    "styles": [
+      "Contemporary R&B",
+      "Pop",
+      "Teen Pop"
+    ],
+    "genres": [
+      "R&B",
+      "Pop/Rock",
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "teen mortgage": {
+    "artist": "Teen Mortgage",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "stephen wilson jrs%c3%b8n of dad tour 2025": {
+    "artist": "Stephen Wilson Jrs%C3%B8n Of Dad Tour 2025",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "the crystal casino band": {
+    "artist": "The Crystal Casino Band",
+    "styles": [
+      "Psychedelic/Garage"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "new translations – vacation tour 2025": {
+    "artist": "New Translations – Vacation Tour 2025",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "music madness 2": {
+    "artist": "Music Madness 2",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "tan & sober gentlemen": {
+    "artist": "Tan & Sober Gentlemen",
+    "styles": [
+      "Alternative/Indie Rock",
+      "New Wave",
+      "Post-Punk",
+      "Punk/New Wave"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "the wellermen": {
+    "artist": "The Wellermen",
+    "styles": [
+      "Sea Shanties"
+    ],
+    "genres": [
+      "Folk",
+      "Vocal"
+    ],
+    "source": "allmusic.com"
+  },
+  "excercise, blous3, quinine, faeryring": {
+    "artist": "Excercise, Blous3, Quinine, Faeryring",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "broadway rave 4 11 25": {
+    "artist": "Broadway Rave 4 11 25",
+    "styles": [
+      "Album Rock",
+      "Arena Rock",
+      "Contemporary Pop/Rock",
+      "Hard Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "pageant": {
+    "artist": "Pageant",
+    "styles": [
+      "Punk Revival",
+      "Alternative/Indie Rock",
+      "Queercore",
+      "Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "denzel curry": {
+    "artist": "Denzel Curry",
+    "styles": [
+      "Contemporary Rap",
+      "Hardcore Rap",
+      "Southern Rap"
+    ],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "husbands": {
+    "artist": "Husbands",
+    "styles": [
+      "Garage Punk",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "the war and treaty": {
+    "artist": "The War And Treaty",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Emo",
+      "Indie Rock",
+      "New Wave/Post-Punk Revival",
+      "Rock & Roll"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "first to eleven – ‘full steam ahead’ tour": {
+    "artist": "First To Eleven – ‘Full Steam Ahead’ Tour",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "daft disko": {
+    "artist": "Daft Disko",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "the dirty secrets & 30 is dead": {
+    "artist": "The Dirty Secrets & 30 Is Dead",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "penny": {
+    "artist": "Penny",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "pity party (girls club) with foxtide": {
+    "artist": "Pity Party (Girls Club) with Foxtide",
+    "styles": [
+      "Alternative Singer/Songwriter",
+      "Alternative/Indie Rock",
+      "Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "alessia cara": {
+    "artist": "Alessia Cara",
+    "styles": [
+      "Contemporary Singer/Songwriter",
+      "Pop",
+      "Contemporary R&B"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "R&B"
+    ],
+    "source": "allmusic.com"
+  },
+  "shayfer james with sparkbird": {
+    "artist": "Shayfer James with Sparkbird",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "beach bunny": {
+    "artist": "Beach Bunny",
+    "styles": [
+      "Noise-Rock",
+      "Alternative/Indie Rock",
+      "Experimental Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "mercury rev": {
+    "artist": "Mercury Rev",
+    "styles": [
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Dream Pop",
+      "Indie Rock",
+      "Neo-Psychedelia",
+      "Noise Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "the punk rap tour: kool keith and mc homeless with dj halo, marc live, j stylez, and geeked": {
+    "artist": "The Punk Rap Tour: Kool Keith and MC Homeless with DJ Halo, Marc Live, J Stylez, and Geeked",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "rubblebucket": {
+    "artist": "Rubblebucket",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Rock",
+      "Indie Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "back to back to black: the amy winehouse celebration": {
+    "artist": "Back to Back to Black: the Amy Winehouse Celebration",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "the wildmans": {
+    "artist": "The Wildmans",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "the ivy with lyncs and waking april": {
+    "artist": "The Ivy with Lyncs and Waking April",
+    "styles": [
+      "Italian Pop",
+      "Adult Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Dance-Pop",
+      "Soundtracks"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Folk",
+      "Stage & Screen"
+    ],
+    "source": "allmusic.com"
+  },
+  "chiodos": {
+    "artist": "CHIODOS",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Electronic",
+      "IDM"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Electronic"
+    ],
+    "source": "allmusic.com"
+  },
+  "john howie jr and the rosewood bluff album release show": {
+    "artist": "John Howie Jr And The Rosewood Bluff Album Release Show",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "mike": {
+    "artist": "Mike",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "the dip: love direction tour part ii": {
+    "artist": "The Dip: Love Direction Tour Part II",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "daisy the great – ballerina tour with benét": {
+    "artist": "Daisy The Great – Ballerina Tour with Benét",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "2025 flamenco vivos tablao flamenco friday night": {
+    "artist": "2025 Flamenco Vivos Tablao Flamenco Friday Night",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "fake happy: paramore tribute": {
+    "artist": "Fake Happy: Paramore Tribute",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "flo": {
+    "artist": "FLO",
+    "styles": [
+      "Contemporary R&B",
+      "Urban"
+    ],
+    "genres": [
+      "R&B"
+    ],
+    "source": "allmusic.com"
+  },
+  "fust": {
+    "artist": "Fust",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "tank and the bangas": {
+    "artist": "Tank And The Bangas",
+    "styles": [
+      "Alternative R&B",
+      "Alternative Rap",
+      "Poetry",
+      "Retro-Soul",
+      "Spoken Word"
+    ],
+    "genres": [
+      "R&B",
+      "Comedy/Spoken"
+    ],
+    "source": "allmusic.com"
+  },
+  "cold with september mourning, university drive, thrower": {
+    "artist": "Cold with September Mourning, University Drive, Thrower",
+    "styles": [
+      "Heavy Metal",
+      "Alternative/Indie Rock",
+      "Post-Grunge"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "2025 flamenco vivos tablao flamenco saturday matinee": {
+    "artist": "2025 Flamenco Vivos Tablao Flamenco Saturday Matinee",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "2025 flamenco vivos tablao flamenco saturday night": {
+    "artist": "2025 Flamenco Vivos Tablao Flamenco Saturday Night",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "it's a 2000s party: greensboro": {
+    "artist": "It's A 2000s Party: Greensboro",
+    "styles": [
+      "Neo-Soul",
+      "Soul",
+      "Retro-Soul",
+      "Deep Funk Revival",
+      "Funk"
+    ],
+    "genres": [
+      "R&B"
+    ],
+    "source": "allmusic.com"
+  },
+  "pouya": {
+    "artist": "Pouya",
+    "styles": [
+      "Southern Rap",
+      "Contemporary Rap",
+      "Underground Rap",
+      "Alternative Rap"
+    ],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "cheekface": {
+    "artist": "Cheekface",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "youth lagoon: rarely do i dream tour with valley james": {
+    "artist": "Youth Lagoon: Rarely Do I Dream Tour with Valley James",
+    "styles": [
+      "Neo-Psychedelia",
+      "Dream Pop",
+      "Noise Pop",
+      "Indie Rock",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "magic sword": {
+    "artist": "Magic Sword",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "free throwthose days are gone 10 year anniversary tour": {
+    "artist": "Free Throwthose Days Are Gone 10 Year Anniversary Tour",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "the mystery lights": {
+    "artist": "The Mystery Lights",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Garage Rock Revival",
+      "Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "machine head & in flames": {
+    "artist": "Machine Head & In Flames",
+    "styles": [
+      "Heavy Metal",
+      "Speed/Thrash Metal",
+      "Hard Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "lowertown": {
+    "artist": "Lowertown",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Garage",
+      "Garage Punk"
+    ],
+    "genres": [
+      "Electronic",
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "general purpose with sweet dream and monadi": {
+    "artist": "General Purpose with Sweet Dream and Monadi",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Garage Punk",
+      "Indie Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "jennifer curtisviolin": {
+    "artist": "Jennifer Curtisviolin",
+    "styles": [
+      "New Wave/Post-Punk Revival",
+      "Noise-Rock",
+      "Alternative/Indie Rock",
+      "Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "thornhill – north american tour 2025": {
+    "artist": "Thornhill – North American Tour 2025",
+    "styles": [
+      "Big Band",
+      "Dixieland",
+      "Bop",
+      "Swing",
+      "Concerto"
+    ],
+    "genres": [
+      "Jazz",
+      "Classical"
+    ],
+    "source": "allmusic.com"
+  },
+  "an evening": {
+    "artist": "An Evening",
+    "styles": [],
+    "genres": [
+      "R&B"
+    ],
+    "source": "allmusic.com"
+  },
+  "perfect person": {
+    "artist": "Perfect Person",
+    "styles": [],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "capstan": {
+    "artist": "Capstan",
+    "styles": [
+      "Keyboard",
+      "Concerto"
+    ],
+    "genres": [
+      "Classical"
+    ],
+    "source": "allmusic.com"
+  },
+  "the fray- the fray is back": {
+    "artist": "The Fray- The Fray Is Back",
+    "styles": [
+      "Adult Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "American Trad Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "darren kiely": {
+    "artist": "Darren Kiely",
+    "styles": [
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Britpop",
+      "Contemporary Pop/Rock",
+      "Dance-Rock",
+      "Alternative Dance"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "julien baker & torres – send a prayer my way tour": {
+    "artist": "Julien Baker & TORRES – Send A Prayer My Way Tour",
+    "styles": [
+      "Alternative Singer/Songwriter",
+      "Alternative/Indie Rock",
+      "Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "peter holsapple album release show": {
+    "artist": "Peter Holsapple Album Release Show",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "oceanic with pageant": {
+    "artist": "Oceanic with Pageant",
+    "styles": [
+      "Film Music",
+      "Neo-Classical",
+      "Original Score",
+      "Progressive Electronic",
+      "Experimental Electronic",
+      "Film Score",
+      "Ambient"
+    ],
+    "genres": [
+      "Electronic",
+      "New Age",
+      "Avant-Garde",
+      "Classical",
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "brother ali 2": {
+    "artist": "Brother Ali 2",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "liam st. john": {
+    "artist": "Liam St. John",
+    "styles": [
+      "Alternative/Indie Rock",
+      "British Trad Rock",
+      "Britpop",
+      "Alternative Pop/Rock",
+      "Contemporary Pop/Rock",
+      "Hard Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "shrek rave": {
+    "artist": "Shrek Rave",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Experimental Rock",
+      "Indie Rock",
+      "Post-Rock",
+      "Space Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "momma": {
+    "artist": "Momma",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "emo kids emo nights are better live!": {
+    "artist": "Emo Kids Emo nights are better live!",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "gang of four": {
+    "artist": "Gang of Four",
+    "styles": [
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "New Wave",
+      "Post-Punk",
+      "Punk/New Wave",
+      "College Rock",
+      "Dance-Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "osamason": {
+    "artist": "OsamaSon",
+    "styles": [
+      "Contemporary Rap",
+      "Trap (Rap)",
+      "Southern Rap"
+    ],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "sawyer hill": {
+    "artist": "Sawyer Hill",
+    "styles": [
+      "Alternative Rap",
+      "Adult Contemporary R&B",
+      "Contemporary R&B",
+      "Neo-Soul"
+    ],
+    "genres": [
+      "R&B"
+    ],
+    "source": "allmusic.com"
+  },
+  "r.a.p. ferreira with blax": {
+    "artist": "R.A.P. Ferreira with BLAX",
+    "styles": [],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "bartees strange": {
+    "artist": "Bartees Strange",
+    "styles": [
+      "Alternative Dance",
+      "Alternative/Indie Rock",
+      "Dance-Rock",
+      "Alternative Pop/Rock",
+      "Adult Alternative Pop/Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "shred fest 2025: obscura": {
+    "artist": "Shred Fest 2025: Obscura",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "ice nine kills: silver scream-a-thon": {
+    "artist": "Ice Nine Kills: Silver Scream-A-Thon",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "ice nine kills": {
+    "artist": "Ice Nine Kills",
+    "styles": [
+      "Metalcore",
+      "Alternative/Indie Rock",
+      "Heavy Metal",
+      "Post-Hardcore"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "trousdale growing pains tour": {
+    "artist": "Trousdale Growing Pains Tour",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "evan honer": {
+    "artist": "Evan Honer",
+    "styles": [
+      "Cast Recordings",
+      "Soundtracks",
+      "Musical Theater",
+      "Musicals"
+    ],
+    "genres": [
+      "Stage & Screen",
+      "Classical",
+      "Jazz"
+    ],
+    "source": "allmusic.com"
+  },
+  "portico": {
+    "artist": "Portico",
+    "styles": [
+      "Alternative/Indie Rock",
+      "New Wave/Post-Punk Revival",
+      "Indie Pop",
+      "Swedish Pop/Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "slothrust": {
+    "artist": "Slothrust",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Rock",
+      "Grunge Revival"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "evening elephants": {
+    "artist": "Evening Elephants",
+    "styles": [
+      "Experimental"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "napalm death and melvins": {
+    "artist": "Napalm Death And Melvins",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "blue cactus album release show": {
+    "artist": "Blue Cactus Album Release Show",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "john moreland": {
+    "artist": "John Moreland",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "after midnight chappell roan dance party: a night of bubblegum pop disco": {
+    "artist": "After Midnight Chappell Roan Dance Party: A Night of Bubblegum Pop Disco",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "high vis": {
+    "artist": "High Vis",
+    "styles": [
+      "Left-Field Rap",
+      "Instrumental Hip-Hop",
+      "West Coast Rap",
+      "Underground Rap"
+    ],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "fontaines d.c. usa": {
+    "artist": "Fontaines D.C. USA",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "phoneboy": {
+    "artist": "Phoneboy",
+    "styles": [],
+    "genres": [
+      "Jazz"
+    ],
+    "source": "allmusic.com"
+  },
+  "deathbyromy with heffy": {
+    "artist": "DeathByRomy with heffy",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Electronic"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "soulja boy": {
+    "artist": "Soulja Boy",
+    "styles": [
+      "Gangsta Rap",
+      "Hardcore Rap",
+      "Pop-Rap"
+    ],
+    "genres": [
+      "Rap",
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "hippie sabotage": {
+    "artist": "Hippie Sabotage",
+    "styles": [
+      "Downtempo"
+    ],
+    "genres": [
+      "Electronic"
+    ],
+    "source": "allmusic.com"
+  },
+  "smallpools 05 06 2025": {
+    "artist": "Smallpools 05 06 2025",
+    "styles": [
+      "West Coast Rap",
+      "Alternative Rap",
+      "Contemporary Rap"
+    ],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "the acacia strain": {
+    "artist": "The Acacia Strain",
+    "styles": [
+      "Metalcore",
+      "Death Metal",
+      "Heavy Metal"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "brigitte calls me baby": {
+    "artist": "Brigitte Calls Me Baby",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Pop",
+      "New Wave/Post-Punk Revival",
+      "Contemporary Pop/Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "devin townsend": {
+    "artist": "Devin Townsend",
+    "styles": [
+      "Guitar/New Age",
+      "Heavy Metal",
+      "Progressive Metal"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "nicotine dolls": {
+    "artist": "Nicotine Dolls",
+    "styles": [
+      "Club/Dance",
+      "Electronica",
+      "Hi-NRG"
+    ],
+    "genres": [
+      "Electronic"
+    ],
+    "source": "allmusic.com"
+  },
+  "them coulee boys": {
+    "artist": "Them Coulee Boys",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "hackensaw boys “love what you do” 20 year anniversary tour": {
+    "artist": "Hackensaw Boys “Love What You Do” 20 Year Anniversary Tour",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "hot in herre 5 9 25": {
+    "artist": "Hot In Herre 5 9 25",
+    "styles": [
+      "Arena Rock",
+      "Hard Rock",
+      "Heavy Metal",
+      "Pop-Metal",
+      "Contemporary Pop/Rock",
+      "Album Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "christopher owens": {
+    "artist": "Christopher Owens",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Rock",
+      "Alternative Singer/Songwriter",
+      "Indie Folk",
+      "Indie Pop",
+      "Lo-Fi"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "electric six": {
+    "artist": "Electric Six",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "suicidal-idol and rouri404 with vaeo": {
+    "artist": "SUICIDAL-IDOL and rouri404 with Vaeo",
+    "styles": [],
+    "genres": [
+      "Electronic"
+    ],
+    "source": "allmusic.com"
+  },
+  "alien ant farm": {
+    "artist": "Alien Ant Farm",
+    "styles": [
+      "Alternative Metal",
+      "Nü Metal",
+      "Pop Punk",
+      "Alternative/Indie Rock",
+      "Post-Grunge",
+      "Heavy Metal"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "sond": {
+    "artist": "Sond",
+    "styles": [
+      "Schlager",
+      "Euro-Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "hamilton leithauser – this side of the island tour": {
+    "artist": "Hamilton Leithauser – This Side of the Island Tour",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Rock",
+      "Alternative Singer/Songwriter"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "jimmy eat world": {
+    "artist": "Jimmy Eat World",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Emo-Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "boywithuke": {
+    "artist": "BOYWITHUKE",
+    "styles": [
+      "Alternative Singer/Songwriter",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "leprousmelodies of atonement 2025": {
+    "artist": "Leprousmelodies Of Atonement 2025",
+    "styles": [
+      "Scandinavian Metal",
+      "Heavy Metal",
+      "Progressive Metal"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "lawitch": {
+    "artist": "Lawitch",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Garage Rock Revival",
+      "Noise Pop",
+      "Alternative Pop/Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "the crane wives – beyond beyond beyond tour": {
+    "artist": "The Crane Wives – Beyond Beyond Beyond Tour",
+    "styles": [],
+    "genres": [
+      "Electronic"
+    ],
+    "source": "allmusic.com"
+  },
+  "boston manor": {
+    "artist": "Boston Manor",
+    "styles": [],
+    "genres": [
+      "Jazz"
+    ],
+    "source": "allmusic.com"
+  },
+  "the crane wives": {
+    "artist": "The Crane Wives",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Chamber Pop",
+      "Indie Pop",
+      "Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "waxahatchee": {
+    "artist": "Waxahatchee",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Rock",
+      "Alternative Singer/Songwriter",
+      "Lo-Fi"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "the bones of j.r. jones": {
+    "artist": "The Bones of J.R. Jones",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Acoustic Blues",
+      "Punk Blues",
+      "Modern Acoustic Blues",
+      "Indie Folk"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Blues"
+    ],
+    "source": "allmusic.com"
+  },
+  "silverstein": {
+    "artist": "Silverstein",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "hollywood undead": {
+    "artist": "Hollywood Undead",
+    "styles": [
+      "Rap-Rock",
+      "Rap-Metal",
+      "Heavy Metal",
+      "Alternative/Indie Rock",
+      "Alternative Pop/Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "bodie murder my ego tour": {
+    "artist": "Bodie Murder My Ego Tour",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "trsh with doan, summerbruise, dear maryanne": {
+    "artist": "TRSH with doan, Summerbruise, Dear Maryanne",
+    "styles": [
+      "Hard Rock",
+      "Heavy Metal",
+      "Contemporary Pop/Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "attack attack": {
+    "artist": "Attack Attack",
+    "styles": [
+      "Electronicore",
+      "Emo",
+      "Alternative/Indie Rock",
+      "Heavy Metal",
+      "Alternative CCM"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Religious"
+    ],
+    "source": "allmusic.com"
+  },
+  "arms length": {
+    "artist": "Arms Length",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "andrew duhon": {
+    "artist": "Andrew Duhon",
+    "styles": [
+      "Adult Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Indie Folk",
+      "Indie Rock",
+      "Retro Swing",
+      "Symphony"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "chloe moriondo": {
+    "artist": "Chloe Moriondo",
+    "styles": [
+      "Dance-Pop",
+      "Indie Pop",
+      "Alternative Singer/Songwriter",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "chloe moriondo 05 16 25": {
+    "artist": "Chloe Moriondo 05 16 25",
+    "styles": [
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Neo-Psychedelia",
+      "College Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "angelmaker": {
+    "artist": "ANGELMAKER",
+    "styles": [
+      "Deathcore",
+      "Heavy Metal",
+      "Death Metal",
+      "Metalcore"
+    ],
+    "genres": [],
+    "source": "allmusic.com"
+  },
+  "lucius": {
+    "artist": "Lucius",
+    "styles": [
+      "Indie Pop",
+      "Adult Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Dance-Pop",
+      "Contemporary Pop/Rock",
+      "Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "brett dennen river whyless": {
+    "artist": "Brett Dennen River Whyless",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "durand bernarr presents": {
+    "artist": "Durand Bernarr Presents",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "pinko with night! night!, treasure pains, and covenant eye": {
+    "artist": "Pinko with Night! Night!, Treasure Pains, and Covenant Eye",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "melissa carper": {
+    "artist": "Melissa Carper",
+    "styles": [
+      "Americana",
+      "Country-Folk",
+      "Contemporary Country"
+    ],
+    "genres": [
+      "Country",
+      "Folk"
+    ],
+    "source": "allmusic.com"
+  },
+  "anubis the dog tour: klokwork e with gavyn gun, the hooliganz, krackle kapone, crashout artist, and lo": {
+    "artist": "Anubis The Dog Tour: Klokwork E with Gavyn Gun, The Hooliganz, Krackle Kapone, Crashout Artist, and Lo",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "holy fawn": {
+    "artist": "Holy Fawn",
+    "styles": [
+      "Gospel"
+    ],
+    "genres": [
+      "Religious"
+    ],
+    "source": "allmusic.com"
+  },
+  "young medicine": {
+    "artist": "Young Medicine",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "the wedding present": {
+    "artist": "The Wedding Present",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Rock",
+      "C-86"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "amyl and the sniffers": {
+    "artist": "Amyl and The Sniffers",
+    "styles": [
+      "Garage Punk",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "pet symmetry": {
+    "artist": "Pet Symmetry",
+    "styles": [
+      "American Punk",
+      "New York Punk",
+      "Punk",
+      "Alternative/Indie Rock",
+      "Punk/New Wave",
+      "College Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "slackjaw with parris bridge": {
+    "artist": "Slackjaw with Parris Bridge",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "annie dirusso": {
+    "artist": "Annie Dirusso",
+    "styles": [
+      "Contemporary Country",
+      "Country-Pop"
+    ],
+    "genres": [
+      "Country"
+    ],
+    "source": "allmusic.com"
+  },
+  "carrboro bluegrass festival": {
+    "artist": "Carrboro Bluegrass Festival",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "sunflower bean – mortal primetime tour": {
+    "artist": "Sunflower Bean – Mortal Primetime Tour",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "max diaz": {
+    "artist": "Max Diaz",
+    "styles": [
+      "Afro-Cuban Jazz",
+      "Bop",
+      "Global Jazz",
+      "Vocal Jazz",
+      "Big Band",
+      "Jazz Instrument",
+      "Trumpet Jazz"
+    ],
+    "genres": [
+      "Jazz"
+    ],
+    "source": "allmusic.com"
+  },
+  "speed": {
+    "artist": "Speed",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Math Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "nothing nowhere": {
+    "artist": "Nothing Nowhere",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Goth Rock",
+      "New Wave/Post-Punk Revival",
+      "Alternative Pop/Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "nekrogoblikon": {
+    "artist": "Nekrogoblikon",
+    "styles": [
+      "Comedy Rock",
+      "Heavy Metal"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "full of hell harms way": {
+    "artist": "Full Of Hell Harms Way",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "the last revel": {
+    "artist": "The Last Revel",
+    "styles": [],
+    "genres": [
+      "Folk"
+    ],
+    "source": "allmusic.com"
+  },
+  "sir": {
+    "artist": "SiR",
+    "styles": [
+      "Neo-Electro",
+      "Alternative Dance",
+      "Alternative/Indie Rock",
+      "Club/Dance"
+    ],
+    "genres": [
+      "Electronic",
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "heathen sun with laniidae, feverhill, and mourning lotus": {
+    "artist": "Heathen Sun with Laniidae, Feverhill, and Mourning Lotus",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "thee sacred souls": {
+    "artist": "Thee Sacred Souls",
+    "styles": [
+      "Retro-Soul",
+      "Soul",
+      "Alternative R&B"
+    ],
+    "genres": [
+      "R&B"
+    ],
+    "source": "allmusic.com"
+  },
+  "lights": {
+    "artist": "Lights",
+    "styles": [
+      "Pop",
+      "Left-Field Pop",
+      "Indie Electronic",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "mei semones": {
+    "artist": "Mei Semones",
+    "styles": [
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Grunge",
+      "Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "the pink stones": {
+    "artist": "The Pink Stones",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "panchiko": {
+    "artist": "Panchiko",
+    "styles": [
+      "Alt-Country",
+      "Contemporary Country",
+      "Contemporary Singer/Songwriter",
+      "Alternative Country-Rock",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Country",
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "peter hook & the light": {
+    "artist": "Peter Hook & The Light",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "ninja sex party & twrp": {
+    "artist": "Ninja Sex Party & TWRP",
+    "styles": [
+      "Comedy",
+      "Comedy Rock",
+      "Hard Rock",
+      "Music Comedy"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Comedy/Spoken"
+    ],
+    "source": "allmusic.com"
+  },
+  "merkules": {
+    "artist": "Merkules",
+    "styles": [
+      "Album Rock",
+      "Art Rock",
+      "Contemporary Pop/Rock",
+      "Hard Rock",
+      "Glam Rock",
+      "Arena Rock",
+      "Dance-Rock",
+      "British Metal",
+      "Heavy Metal"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "mayday parade": {
+    "artist": "Mayday Parade",
+    "styles": [
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Emo-Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "tennis": {
+    "artist": "Tennis",
+    "styles": [
+      "Album Rock",
+      "Rock & Roll",
+      "Adult Contemporary"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "perfume genius ‘glory’ tour": {
+    "artist": "Perfume Genius ‘Glory’ Tour",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "the kooks": {
+    "artist": "The Kooks",
+    "styles": [
+      "Adult Alternative Pop/Rock",
+      "Dance-Rock",
+      "Contemporary Pop/Rock",
+      "Pop",
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Britpop",
+      "Dance-Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "reverend horton heat": {
+    "artist": "Reverend Horton Heat",
+    "styles": [
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Psychobilly",
+      "Rockabilly Revival"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "cults 6 11 25": {
+    "artist": "Cults 6 11 25",
+    "styles": [
+      "Indie Pop",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "less than jake": {
+    "artist": "Less Than Jake",
+    "styles": [
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Ska-Punk",
+      "Third Wave Ska Revival",
+      "Pop Punk",
+      "Punk Revival",
+      "Post-Grunge"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "the arcadian wild": {
+    "artist": "The Arcadian Wild",
+    "styles": [],
+    "genres": [
+      "Folk"
+    ],
+    "source": "allmusic.com"
+  },
+  "the lemon twigs": {
+    "artist": "The Lemon Twigs",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Pop",
+      "Neo-Psychedelia",
+      "Alternative Singer/Songwriter"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "static-x": {
+    "artist": "Static-X",
+    "styles": [
+      "Alternative Metal",
+      "Heavy Metal",
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Industrial Metal",
+      "Nü Metal"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "the native howl": {
+    "artist": "The Native Howl",
+    "styles": [
+      "Choral"
+    ],
+    "genres": [
+      "Classical"
+    ],
+    "source": "allmusic.com"
+  },
+  "heart attack man": {
+    "artist": "Heart Attack Man",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Emo",
+      "Indie Rock",
+      "Pop Punk"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "lauren sanderson": {
+    "artist": "Lauren Sanderson",
+    "styles": [
+      "Adult Contemporary",
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "strictly 4 the underground: kev-o with justen best, camz, wuuudidit, jon lamar, till oj": {
+    "artist": "Strictly 4 The Underground: Kev-O with Justen Best, Camz, Wuuudidit, Jon Lamar, Till OJ",
+    "styles": [],
+    "genres": [
+      "Electronic"
+    ],
+    "source": "allmusic.com"
+  },
+  "one step closer": {
+    "artist": "One Step Closer",
+    "styles": [
+      "Album Rock",
+      "Boogie Rock",
+      "Contemporary Pop/Rock",
+      "Soft Rock",
+      "Blue-Eyed Soul",
+      "Soul"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "godspeed you! black emperor – liberation summer of ’25": {
+    "artist": "Godspeed You! Black Emperor – Liberation Summer of ’25",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "julia wolf": {
+    "artist": "Julia Wolf",
+    "styles": [
+      "Choral"
+    ],
+    "genres": [
+      "Classical"
+    ],
+    "source": "allmusic.com"
+  },
+  "bailey spinn": {
+    "artist": "Bailey Spinn",
+    "styles": [
+      "Adult Contemporary R&B",
+      "Adult Alternative Pop/Rock"
+    ],
+    "genres": [
+      "R&B"
+    ],
+    "source": "allmusic.com"
+  },
+  "cant feel my face": {
+    "artist": "Cant Feel My Face",
+    "styles": [
+      "Alternative R&B",
+      "Contemporary R&B",
+      "Pop"
+    ],
+    "genres": [
+      "R&B"
+    ],
+    "source": "allmusic.com"
+  },
+  "mc chris": {
+    "artist": "Mc Chris",
+    "styles": [
+      "Comedy Rap",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Rap",
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "samantha crain": {
+    "artist": "Samantha Crain",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Folk",
+      "Alternative Singer/Songwriter",
+      "Contemporary Singer/Songwriter",
+      "Indie Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "rose city band": {
+    "artist": "Rose City Band",
+    "styles": [
+      "Indie Rock",
+      "Alternative/Indie Rock",
+      "Neo-Psychedelia"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "broncho": {
+    "artist": "Broncho",
+    "styles": [
+      "Indie Rock",
+      "Garage Punk",
+      "Alternative/Indie Rock",
+      "Noise Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "mj lenderman & the wind: 2025 tour": {
+    "artist": "MJ Lenderman & The Wind: 2025 Tour",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Folk",
+      "Indie Rock",
+      "Alternative Singer/Songwriter",
+      "Noise-Rock",
+      "Roots Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "beth stelling": {
+    "artist": "Beth Stelling",
+    "styles": [
+      "Comedy"
+    ],
+    "genres": [
+      "Comedy/Spoken"
+    ],
+    "source": "allmusic.com"
+  },
+  "mountain grass unit": {
+    "artist": "Mountain Grass Unit",
+    "styles": [
+      "Bluegrass",
+      "Jam Bands"
+    ],
+    "genres": [
+      "Country",
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "the brian jonestown massacre": {
+    "artist": "The Brian Jonestown Massacre",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Garage Rock Revival",
+      "Indie Rock",
+      "Neo-Psychedelia",
+      "Lo-Fi"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "cochise 9 12 25": {
+    "artist": "Cochise 9 12 25",
+    "styles": [
+      "Album Rock",
+      "British Invasion",
+      "Contemporary Pop/Rock",
+      "Hard Rock",
+      "Regional Blues",
+      "Rock & Roll",
+      "British Psychedelia",
+      "Psychedelic/Garage",
+      "Blues-Rock",
+      "British Blues",
+      "Dance-Rock",
+      "Early Pop/Rock",
+      "AM Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "rio da yung og": {
+    "artist": "Rio Da Yung OG",
+    "styles": [
+      "Midwest Rap",
+      "Contemporary Rap",
+      "Gangsta Rap"
+    ],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "bambara": {
+    "artist": "Bambara",
+    "styles": [
+      "Alternative/Indie Rock",
+      "New Wave/Post-Punk Revival",
+      "Noise-Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "stereolab": {
+    "artist": "Stereolab",
+    "styles": [
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Experimental Rock",
+      "Indie Pop",
+      "Indie Rock",
+      "Post-Rock",
+      "Indie Electronic",
+      "Ambient Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "mt. joy": {
+    "artist": "Mt. Joy",
+    "styles": [
+      "Indie Rock",
+      "Alternative/Indie Rock",
+      "Indie Folk"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "destroyer: dan’s boogie tour": {
+    "artist": "Destroyer: Dan’s Boogie Tour",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "sam burchfield & the scoundrels": {
+    "artist": "Sam Burchfield & The Scoundrels",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "magdalena bay": {
+    "artist": "Magdalena Bay",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Rock",
+      "Alternative Singer/Songwriter"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "lawrence": {
+    "artist": "Lawrence",
+    "styles": [
+      "House",
+      "Microhouse",
+      "Club/Dance",
+      "Experimental Techno",
+      "Techno",
+      "Ambient Techno"
+    ],
+    "genres": [
+      "Electronic"
+    ],
+    "source": "allmusic.com"
+  },
+  "viagra boys – the infinite anxiety tour of 2025": {
+    "artist": "Viagra Boys – The Infinite Anxiety Tour of 2025",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "viagra boys": {
+    "artist": "Viagra Boys",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Rock",
+      "Noise-Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "manifest 7": {
+    "artist": "Manifest 7",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "cavalera": {
+    "artist": "CAVALERA",
+    "styles": [
+      "Alternative Metal",
+      "Death Metal",
+      "Heavy Metal",
+      "Progressive Metal",
+      "Speed/Thrash Metal"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "wormrot": {
+    "artist": "Wormrot",
+    "styles": [
+      "Grindcore",
+      "Heavy Metal"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "paul mcdonald": {
+    "artist": "Paul McDonald",
+    "styles": [],
+    "genres": [
+      "Country"
+    ],
+    "source": "allmusic.com"
+  },
+  "ashes to amber": {
+    "artist": "Ashes to Amber",
+    "styles": [],
+    "genres": [
+      "Country"
+    ],
+    "source": "allmusic.com"
+  },
+  "superintendo": {
+    "artist": "Superintendo",
+    "styles": [
+      "Chamber Music",
+      "Choral"
+    ],
+    "genres": [
+      "Classical"
+    ],
+    "source": "allmusic.com"
+  },
+  "joscho stephan": {
+    "artist": "Joscho Stephan",
+    "styles": [],
+    "genres": [
+      "Jazz"
+    ],
+    "source": "allmusic.com"
+  },
+  "simba baumgartner": {
+    "artist": "Simba Baumgartner",
+    "styles": [
+      "Funk",
+      "Fusion",
+      "Soul Jazz"
+    ],
+    "genres": [
+      "Jazz",
+      "R&B"
+    ],
+    "source": "allmusic.com"
+  },
+  "whores": {
+    "artist": "Whores",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "lawn enforcement": {
+    "artist": "Lawn Enforcement",
+    "styles": [
+      "American Trad Rock",
+      "Jam Bands",
+      "Alternative/Indie Rock",
+      "Neo-Psychedelia",
+      "Alternative Pop/Rock",
+      "Fusion",
+      "Jazz-Rock"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Jazz"
+    ],
+    "source": "allmusic.com"
+  },
+  "heart to gold": {
+    "artist": "Heart to Gold",
+    "styles": [],
+    "genres": [
+      "Folk"
+    ],
+    "source": "allmusic.com"
+  },
+  "cancerslug": {
+    "artist": "Cancerslug",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "dogwood tales": {
+    "artist": "Dogwood Tales",
+    "styles": [],
+    "genres": [
+      "Country"
+    ],
+    "source": "allmusic.com"
+  },
+  "cloakroom": {
+    "artist": "Cloakroom",
+    "styles": [
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Post-Hardcore",
+      "Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "temptress": {
+    "artist": "Temptress",
+    "styles": [
+      "Pop Punk",
+      "Punk Revival",
+      "Emo-Pop",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "senses": {
+    "artist": "senses",
+    "styles": [],
+    "genres": [
+      "Jazz"
+    ],
+    "source": "allmusic.com"
+  },
+  "manic third planet ep release show": {
+    "artist": "Manic Third Planet EP Release Show",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "the weather station:": {
+    "artist": "The Weather Station:",
+    "styles": [
+      "Indie Folk",
+      "Alternative Singer/Songwriter",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "the rocket summer hello good friend 20th": {
+    "artist": "The Rocket Summer Hello Good Friend 20th",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Emo-Pop",
+      "Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "slow joy": {
+    "artist": "Slow Joy",
+    "styles": [
+      "Indie Rock",
+      "Art Rock",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "stephen wilson jrs%c3%b8n of": {
+    "artist": "Stephen Wilson Jrs%C3%B8n Of",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "new translations –": {
+    "artist": "New Translations –",
+    "styles": [
+      "Ambient Techno",
+      "Electronica",
+      "IDM",
+      "Techno",
+      "Ambient House",
+      "Trip-Hop",
+      "Club/Dance"
+    ],
+    "genres": [
+      "Electronic"
+    ],
+    "source": "allmusic.com"
+  },
+  "tan": {
+    "artist": "Tan",
+    "styles": [
+      "Alternative/Indie Rock",
+      "New Wave",
+      "Post-Punk",
+      "Punk/New Wave"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "first to eleven – ‘full steam": {
+    "artist": "First To Eleven – ‘Full Steam",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "the dirty secrets": {
+    "artist": "The Dirty Secrets",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "pity party": {
+    "artist": "Pity Party",
+    "styles": [
+      "Alternative Singer/Songwriter",
+      "Alternative/Indie Rock",
+      "Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "shayfer james": {
+    "artist": "Shayfer James",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "the punk": {
+    "artist": "The Punk",
+    "styles": [
+      "Alternative/Indie Rock",
+      "New Wave/Post-Punk Revival",
+      "Indie Pop",
+      "Alternative Dance",
+      "Left-Field Pop",
+      "Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "the ivy": {
+    "artist": "The Ivy",
+    "styles": [
+      "Italian Pop",
+      "Adult Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Dance-Pop",
+      "Soundtracks"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Folk",
+      "Stage & Screen"
+    ],
+    "source": "allmusic.com"
+  },
+  "the dip: love": {
+    "artist": "The Dip: Love",
+    "styles": [
+      "Alternative Rap",
+      "Left-Field Rap"
+    ],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "daisy the great –": {
+    "artist": "Daisy The Great –",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Pop",
+      "Indie Folk"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "cold": {
+    "artist": "Cold",
+    "styles": [
+      "Heavy Metal",
+      "Alternative/Indie Rock",
+      "Post-Grunge"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "youth lagoon: rarely do i": {
+    "artist": "Youth Lagoon: Rarely Do I",
+    "styles": [
+      "Neo-Psychedelia",
+      "Dream Pop",
+      "Noise Pop",
+      "Indie Rock",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "free throwthose days are gone 10 year": {
+    "artist": "Free Throwthose Days Are Gone 10 Year",
+    "styles": [
+      "Adult Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Pop",
+      "Left-Field Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "machine head": {
+    "artist": "Machine Head",
+    "styles": [
+      "Heavy Metal",
+      "Speed/Thrash Metal",
+      "Hard Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "general purpose": {
+    "artist": "General Purpose",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Garage Punk",
+      "Indie Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "thornhill – north": {
+    "artist": "Thornhill – North",
+    "styles": [
+      "Alternative/Indie Rock",
+      "American Trad Rock",
+      "Alternative Country-Rock",
+      "Contemporary Pop/Rock",
+      "Roots Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "julien baker": {
+    "artist": "Julien Baker",
+    "styles": [
+      "Alternative Singer/Songwriter",
+      "Alternative/Indie Rock",
+      "Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "oceanic": {
+    "artist": "Oceanic",
+    "styles": [
+      "Film Music",
+      "Neo-Classical",
+      "Original Score",
+      "Progressive Electronic",
+      "Experimental Electronic",
+      "Film Score",
+      "Ambient"
+    ],
+    "genres": [
+      "Electronic",
+      "New Age",
+      "Avant-Garde",
+      "Classical",
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "r.a.p. ferreira": {
+    "artist": "R.A.P. Ferreira",
+    "styles": [],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "trousdale growing": {
+    "artist": "Trousdale Growing",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Pop",
+      "Country-Pop",
+      "Indie Folk"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Country"
+    ],
+    "source": "allmusic.com"
+  },
+  "deathbyromy": {
+    "artist": "DeathByRomy",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Electronic"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "hackensaw boys “love what you do” 20 year": {
+    "artist": "Hackensaw Boys “Love What You Do” 20 Year",
+    "styles": [
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Chamber Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "suicidal-idol": {
+    "artist": "SUICIDAL-IDOL",
+    "styles": [],
+    "genres": [
+      "Electronic"
+    ],
+    "source": "allmusic.com"
+  },
+  "hamilton leithauser – this side of the": {
+    "artist": "Hamilton Leithauser – This Side of the",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Rock",
+      "Alternative Singer/Songwriter"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "the crane wives – beyond beyond": {
+    "artist": "The Crane Wives – Beyond Beyond",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "bodie murder my": {
+    "artist": "Bodie Murder My",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "trsh": {
+    "artist": "TRSH",
+    "styles": [
+      "Hard Rock",
+      "Heavy Metal",
+      "Contemporary Pop/Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "pinko": {
+    "artist": "Pinko",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "anubis the": {
+    "artist": "Anubis The",
+    "styles": [
+      "Political Rap",
+      "Underground Rap"
+    ],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "amyl": {
+    "artist": "Amyl",
+    "styles": [
+      "Garage Punk",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "slackjaw": {
+    "artist": "Slackjaw",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "sunflower bean – mortal": {
+    "artist": "Sunflower Bean – Mortal",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Pop",
+      "Indie Rock",
+      "Neo-Psychedelia"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "heathen sun": {
+    "artist": "Heathen Sun",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "peter hook": {
+    "artist": "Peter Hook",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "ninja sex party": {
+    "artist": "Ninja Sex Party",
+    "styles": [
+      "Comedy",
+      "Comedy Rock",
+      "Hard Rock",
+      "Music Comedy"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Comedy/Spoken"
+    ],
+    "source": "allmusic.com"
+  },
+  "perfume genius": {
+    "artist": "Perfume Genius",
+    "styles": [
+      "Alternative Singer/Songwriter",
+      "Alternative/Indie Rock",
+      "Indie Rock",
+      "Left-Field Pop",
+      "Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "strictly 4 the underground: kev-o": {
+    "artist": "Strictly 4 The Underground: Kev-O",
+    "styles": [],
+    "genres": [
+      "Electronic"
+    ],
+    "source": "allmusic.com"
+  },
+  "mj lenderman": {
+    "artist": "MJ Lenderman",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Folk",
+      "Indie Rock",
+      "Alternative Singer/Songwriter",
+      "Noise-Rock",
+      "Roots Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "destroyer: dan’s": {
+    "artist": "Destroyer: Dan’s",
+    "styles": [],
+    "genres": [
+      "Children's"
+    ],
+    "source": "allmusic.com"
+  },
+  "sam burchfield": {
+    "artist": "Sam Burchfield",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "viagra boys – the infinite": {
+    "artist": "Viagra Boys – The Infinite",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "the spectacles, the unsustainables,": {
+    "artist": "The Spectacles, The Unsustainables,",
+    "styles": [],
+    "genres": [],
+    "source": "allmusic.com"
+  },
+  "periodic tables 03 20": {
+    "artist": "Periodic Tables 03 20",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "tricky dick": {
+    "artist": "Tricky Dick",
+    "styles": [
+      "Art Rock",
+      "Neo-Prog",
+      "Prog-Rock",
+      "Album Rock",
+      "Contemporary Pop/Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "smallpools 05 06": {
+    "artist": "Smallpools 05 06",
+    "styles": [
+      "West Coast Rap",
+      "Alternative Rap",
+      "Contemporary Rap"
+    ],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "leprousmelodies of atonement": {
+    "artist": "Leprousmelodies Of Atonement",
+    "styles": [
+      "Scandinavian Metal",
+      "Heavy Metal",
+      "Progressive Metal"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "stephen wilson jrs%c3%b8n": {
+    "artist": "Stephen Wilson Jrs%C3%B8n",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "new translations": {
+    "artist": "New Translations",
+    "styles": [
+      "Ambient Techno",
+      "Electronica",
+      "IDM",
+      "Techno",
+      "Ambient House",
+      "Trip-Hop",
+      "Club/Dance"
+    ],
+    "genres": [
+      "Electronic"
+    ],
+    "source": "allmusic.com"
+  },
+  "first to eleven": {
+    "artist": "First To Eleven",
+    "styles": [
+      "Bakersfield Sound",
+      "Honky Tonk",
+      "Traditional Country",
+      "Western Swing Revival"
+    ],
+    "genres": [
+      "Country"
+    ],
+    "source": "allmusic.com"
+  },
+  "the dip:": {
+    "artist": "The Dip:",
+    "styles": [
+      "Retro-Soul",
+      "Deep Funk Revival",
+      "Blues Revival"
+    ],
+    "genres": [
+      "R&B",
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "daisy the great": {
+    "artist": "Daisy The Great",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Pop",
+      "Indie Folk"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "thornhill": {
+    "artist": "Thornhill",
+    "styles": [
+      "Acappella",
+      "Comedy Rock",
+      "Contemporary Folk",
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Comedy",
+      "Satire"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Folk",
+      "Vocal",
+      "Comedy/Spoken"
+    ],
+    "source": "allmusic.com"
+  },
+  "hamilton leithauser": {
+    "artist": "Hamilton Leithauser",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Rock",
+      "Alternative Singer/Songwriter"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "bodie": {
+    "artist": "Bodie",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "sunflower bean": {
+    "artist": "Sunflower Bean",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Pop",
+      "Indie Rock",
+      "Neo-Psychedelia"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "godspeed you! black emperor": {
+    "artist": "Godspeed You! Black Emperor",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Experimental Rock",
+      "Post-Rock",
+      "Indie Rock",
+      "Space Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "rare": {
+    "artist": "Rare",
+    "styles": [
+      "Pop",
+      "Club/Dance",
+      "Teen Pop",
+      "Dance-Pop",
+      "Latin Pop"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Latin"
+    ],
+    "source": "allmusic.com"
+  },
+  "spencer sutherland": {
+    "artist": "Spencer Sutherland",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Rock",
+      "Punk Blues",
+      "Noise-Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "k.flay": {
+    "artist": "K.Flay",
+    "styles": [
+      "Alternative Rap",
+      "Alternative/Indie Rock",
+      "Underground Rap",
+      "Pop",
+      "Left-Field Pop"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "jessica kirson": {
+    "artist": "Jessica Kirson",
+    "styles": [
+      "Alternative Singer/Songwriter",
+      "Indie Folk",
+      "Alternative/Indie Rock",
+      "Experimental Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "sahbabii": {
+    "artist": "SahBabii",
+    "styles": [
+      "Contemporary Rap",
+      "Southern Rap",
+      "Trap (Rap)",
+      "Drill"
+    ],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "grits": {
+    "artist": "Grits",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "countess cabaret": {
+    "artist": "Countess Cabaret",
+    "styles": [
+      "New Romantic",
+      "New Wave",
+      "Punk/New Wave",
+      "Synth Pop",
+      "Dance-Pop",
+      "Contemporary Pop/Rock",
+      "Alternative/Indie Rock",
+      "Post-Punk"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "gimme gimme disco": {
+    "artist": "Gimme Gimme Disco",
+    "styles": [],
+    "genres": [
+      "Electronic"
+    ],
+    "source": "allmusic.com"
+  },
+  "maddie zahm": {
+    "artist": "Maddie Zahm",
+    "styles": [
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "British Trad Rock",
+      "Britpop",
+      "Contemporary Pop/Rock",
+      "Hard Rock",
+      "Rock & Roll"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "connor price": {
+    "artist": "Connor Price",
+    "styles": [
+      "Cool",
+      "Torch Songs",
+      "Traditional Pop",
+      "Vocal Jazz"
+    ],
+    "genres": [
+      "Jazz",
+      "Vocal"
+    ],
+    "source": "allmusic.com"
+  },
+  "intervals:": {
+    "artist": "Intervals:",
+    "styles": [
+      "Cool",
+      "Post-Bop",
+      "Straight-Ahead Jazz",
+      "Piano Jazz",
+      "Chamber Jazz",
+      "Jazz Instrument",
+      "Soul Jazz"
+    ],
+    "genres": [
+      "Jazz"
+    ],
+    "source": "allmusic.com"
+  },
+  "dom kennedy": {
+    "artist": "Dom Kennedy",
+    "styles": [
+      "Underground Rap",
+      "West Coast Rap"
+    ],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "imminence \"the return of": {
+    "artist": "IMMINENCE \"THE RETURN OF",
+    "styles": [
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Indie Rock",
+      "Alternative Singer/Songwriter"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "saint jhn: festival": {
+    "artist": "SAINt JHN: Festival",
+    "styles": [
+      "Contemporary Rap",
+      "Trap (Rap)",
+      "Contemporary R&B"
+    ],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "ytb fatt": {
+    "artist": "YTB Fatt",
+    "styles": [
+      "Contemporary Rap",
+      "Southern Rap",
+      "Trap (Rap)"
+    ],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "chelsea grin": {
+    "artist": "CHELSEA GRIN",
+    "styles": [
+      "Alternative Metal",
+      "Deathcore",
+      "Heavy Metal",
+      "Death Metal"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "daniel donato's cosmic country": {
+    "artist": "Daniel Donato's Cosmic Country",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "josiah queen": {
+    "artist": "Josiah Queen",
+    "styles": [
+      "Album Rock",
+      "Art Rock",
+      "Contemporary Pop/Rock",
+      "Hard Rock",
+      "Glam Rock",
+      "Arena Rock",
+      "Dance-Rock",
+      "British Metal",
+      "Heavy Metal"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "emo nite": {
+    "artist": "Emo Nite",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Emo-Pop",
+      "Alternative Pop/Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "dean lewis": {
+    "artist": "Dean Lewis",
+    "styles": [
+      "Traditional Pop",
+      "Vocal Pop",
+      "AM Pop"
+    ],
+    "genres": [
+      "Vocal",
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "poppy: they're all around us": {
+    "artist": "Poppy: They're All Around Us",
+    "styles": [
+      "Ambient Pop",
+      "Experimental Rock",
+      "Indie Rock",
+      "Alternative/Indie Rock",
+      "Indie Electronic",
+      "Indie Folk"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Avant-Garde"
+    ],
+    "source": "allmusic.com"
+  },
+  "half alive presents: persona": {
+    "artist": "half alive presents: Persona",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "awolnation": {
+    "artist": "AWOLNATION",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Dance-Rock",
+      "Indie Rock",
+      "Alternative Singer/Songwriter",
+      "Experimental Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "nettspend": {
+    "artist": "Nettspend",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "lane 8": {
+    "artist": "Lane 8",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "shordie shordie": {
+    "artist": "Shordie Shordie",
+    "styles": [],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "larry fleet: hard work": {
+    "artist": "Larry Fleet: Hard Work",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "strfkr": {
+    "artist": "STRFKR",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Electronic",
+      "Indie Rock",
+      "Alternative Dance",
+      "Neo-Psychedelia",
+      "New Wave/Post-Punk Revival"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "nightly live": {
+    "artist": "NIGHTLY LIVE",
+    "styles": [
+      "Swing",
+      "Torch Songs",
+      "Traditional Pop",
+      "Vocal Jazz",
+      "Show Tunes",
+      "Vocal Pop",
+      "Cast Recordings"
+    ],
+    "genres": [
+      "Vocal",
+      "Jazz",
+      "Stage & Screen"
+    ],
+    "source": "allmusic.com"
+  },
+  "chiodos: 20 years of alls well that ends well": {
+    "artist": "CHIODOS: 20 Years of Alls Well That Ends Well",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Post-Hardcore",
+      "Emo",
+      "Heavy Metal",
+      "Punk Revival",
+      "Pop Punk"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "tyga": {
+    "artist": "Tyga",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "marc scibilia: more": {
+    "artist": "Marc Scibilia: More",
+    "styles": [
+      "Adult Alternative Pop/Rock",
+      "Contemporary Singer/Songwriter"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Electronic"
+    ],
+    "source": "allmusic.com"
+  },
+  "magnolia park": {
+    "artist": "Magnolia Park",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "johnnyswim:": {
+    "artist": "JOHNNYSWIM:",
+    "styles": [
+      "Indie Folk",
+      "Alternative/Indie Rock",
+      "Contemporary Folk"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Folk"
+    ],
+    "source": "allmusic.com"
+  },
+  "ole 60": {
+    "artist": "Ole 60",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "hot tub": {
+    "artist": "Hot Tub",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "upcoming events": {
+    "artist": "Upcoming Events",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "all event types": {
+    "artist": "All Event Types",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "concerts": {
+    "artist": "Concerts",
+    "styles": [
+      "Avant-Prog",
+      "Art Rock",
+      "Experimental",
+      "Experimental Rock",
+      "Improvisation",
+      "Modern Composition",
+      "Prog-Rock",
+      "Jazz-Rock",
+      "Canterbury Scene"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Avant-Garde"
+    ],
+    "source": "allmusic.com"
+  },
+  "trade show": {
+    "artist": "Trade Show",
+    "styles": [
+      "Avant-Garde Jazz",
+      "Post-Bop",
+      "Crossover Jazz",
+      "Free Improvisation",
+      "Modern Jazz"
+    ],
+    "genres": [
+      "Jazz"
+    ],
+    "source": "allmusic.com"
+  },
+  "all venues": {
+    "artist": "All Venues",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "novant health fieldhouse": {
+    "artist": "Novant Health Fieldhouse",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "piedmont hall": {
+    "artist": "Piedmont Hall",
+    "styles": [
+      "Alternative Country-Rock",
+      "Alternative/Indie Rock",
+      "Adult Alternative Pop/Rock",
+      "Americana"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Country"
+    ],
+    "source": "allmusic.com"
+  },
+  "2025 diii swimming": {
+    "artist": "2025 DIII Swimming",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Pop",
+      "Sadcore"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "the": {
+    "artist": "The",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "we them one's": {
+    "artist": "We Them One's",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "harlem globetrotters": {
+    "artist": "Harlem Globetrotters",
+    "styles": [],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "i laugh at myself: an evening": {
+    "artist": "I Laugh At Myself: An Evening",
+    "styles": [
+      "American Trad Rock",
+      "Modern Electric Blues",
+      "Blues-Rock"
+    ],
+    "genres": [
+      "Blues",
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "9 panel cheer allstar jam": {
+    "artist": "9 Panel Cheer Allstar Jam",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "deafnation": {
+    "artist": "DeafNation",
+    "styles": [
+      "Show/Musical"
+    ],
+    "genres": [
+      "Jazz",
+      "Classical"
+    ],
+    "source": "allmusic.com"
+  },
+  "killswitch engage": {
+    "artist": "Killswitch Engage",
+    "styles": [
+      "Heavy Metal",
+      "Metalcore",
+      "Alternative Metal",
+      "Progressive Metal"
+    ],
+    "genres": [],
+    "source": "allmusic.com"
+  },
+  "stephen wilson jr.": {
+    "artist": "Stephen Wilson Jr.",
+    "styles": [
+      "Americana",
+      "Outlaw Country",
+      "Neo-Traditionalist Country",
+      "Country-Folk",
+      "Contemporary Country"
+    ],
+    "genres": [
+      "Country",
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "greensboro swarm vs. westchester knicks": {
+    "artist": "Greensboro Swarm vs. Westchester Knicks",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "2025 ally acc women's": {
+    "artist": "2025 Ally ACC Women's",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "acc fan fest": {
+    "artist": "ACC Fan Fest",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "katt williams": {
+    "artist": "Katt Williams",
+    "styles": [
+      "Jazz Blues",
+      "New York Blues",
+      "Regional Blues",
+      "Swing",
+      "West Coast Blues",
+      "Big Band",
+      "Jump Blues",
+      "Early R&B",
+      "Jazz Instrument",
+      "Trumpet Jazz"
+    ],
+    "genres": [
+      "Jazz",
+      "Blues",
+      "R&B"
+    ],
+    "source": "allmusic.com"
+  },
+  "nc aau volleyball super regional": {
+    "artist": "NC AAU Volleyball Super Regional",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "vintage market days": {
+    "artist": "Vintage Market Days",
+    "styles": [],
+    "genres": [
+      "Reggae"
+    ],
+    "source": "allmusic.com"
+  },
+  "greensboro swarm vs. motor city cruise": {
+    "artist": "Greensboro Swarm vs. Motor City Cruise",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "saturday night ko fights": {
+    "artist": "Saturday Night KO Fights",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "club 90s presents": {
+    "artist": "Club 90s presents",
+    "styles": [
+      "Cuban Jazz",
+      "Global Jazz",
+      "Afro-Cuban",
+      "Son",
+      "Cuban Traditions",
+      "Latin Jazz",
+      "Western European Traditions"
+    ],
+    "genres": [
+      "Latin",
+      "Jazz",
+      "International"
+    ],
+    "source": "allmusic.com"
+  },
+  "the millennium": {
+    "artist": "The Millennium",
+    "styles": [
+      "Arena Rock",
+      "Hard Rock",
+      "Heavy Metal",
+      "Pop-Metal",
+      "Contemporary Pop/Rock",
+      "Album Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "we them one's comedy": {
+    "artist": "We Them One's Comedy",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "harlem globetrotters 2025 world": {
+    "artist": "Harlem Globetrotters 2025 World",
+    "styles": [
+      "East Coast Rap",
+      "Pop-Rap"
+    ],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "i laugh at myself": {
+    "artist": "I Laugh At Myself",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "on the radar hoops": {
+    "artist": "On The Radar Hoops",
+    "styles": [
+      "British Rap",
+      "UK Drill",
+      "Contemporary Rap",
+      "Drill",
+      "Trap (Rap)"
+    ],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "carolina cobras vs. columbus lions": {
+    "artist": "Carolina Cobras vs. Columbus Lions",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "carolina cobras vs. wheeling miners": {
+    "artist": "Carolina Cobras vs. Wheeling Miners",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "asheville guitar bar presents": {
+    "artist": "Asheville Guitar Bar Presents",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "kiss country guitar jam": {
+    "artist": "Kiss Country Guitar Jam",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "hot in herre": {
+    "artist": "Hot In Herre",
+    "styles": [
+      "Party Rap",
+      "Pop-Rap"
+    ],
+    "genres": [
+      "Rap"
+    ],
+    "source": "allmusic.com"
+  },
+  "cosmic charlie": {
+    "artist": "Cosmic Charlie",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "chris mcginnis": {
+    "artist": "Chris McGinnis",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "they might be giants": {
+    "artist": "They Might Be Giants",
+    "styles": [
+      "Alternative/Indie Rock",
+      "College Rock",
+      "Indie Rock",
+      "Alternative Pop/Rock",
+      "Children's Rock",
+      "Post-Punk"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Children's"
+    ],
+    "source": "allmusic.com"
+  },
+  "the slice of life comedy spring asheville standup contest series": {
+    "artist": "The Slice of Life Comedy Spring Asheville Standup Contest Series",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "the breakfast club": {
+    "artist": "The Breakfast Club",
+    "styles": [
+      "Dance-Pop"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "duncan trussell": {
+    "artist": "Duncan Trussell",
+    "styles": [
+      "Adult Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Contemporary Pop/Rock",
+      "Contemporary Singer/Songwriter",
+      "Musical Theater",
+      "Cast Recordings"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Stage & Screen"
+    ],
+    "source": "allmusic.com"
+  },
+  "neon trees": {
+    "artist": "Neon Trees",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "neal francis": {
+    "artist": "Neal Francis",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Funk",
+      "Retro-Soul",
+      "Neo-Psychedelia"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "R&B",
+      "Jazz"
+    ],
+    "source": "allmusic.com"
+  },
+  "color me asheville by goodwill": {
+    "artist": "Color Me Asheville by Goodwill",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "somewhat petty": {
+    "artist": "Somewhat Petty",
+    "styles": [
+      "Album Rock",
+      "Heartland Rock",
+      "Rock & Roll",
+      "Bar Band",
+      "Contemporary Pop/Rock",
+      "Hard Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "yonder mountain string band": {
+    "artist": "Yonder Mountain String Band",
+    "styles": [
+      "Jam Bands",
+      "Bluegrass",
+      "Progressive Bluegrass",
+      "Contemporary Bluegrass",
+      "Old-Timey",
+      "String Bands"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Country",
+      "Folk"
+    ],
+    "source": "allmusic.com"
+  },
+  "mission accomplished": {
+    "artist": "Mission Accomplished",
+    "styles": [
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Electronica",
+      "Trip-Hop"
+    ],
+    "genres": [
+      "Electronic",
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "larry fleet": {
+    "artist": "Larry Fleet",
+    "styles": [
+      "Contemporary Country",
+      "Country-Pop"
+    ],
+    "genres": [
+      "Country"
+    ],
+    "source": "allmusic.com"
+  },
+  "ty segall solo acoustic": {
+    "artist": "Ty Segall Solo Acoustic",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "judah": {
+    "artist": "Judah",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "standup comedy picture": {
+    "artist": "Standup Comedy Picture",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "glaive": {
+    "artist": "Glaive",
+    "styles": [
+      "Experimental Techno",
+      "Techno",
+      "IDM",
+      "Ambient Techno",
+      "Downtempo",
+      "Indie Electronic",
+      "Tech-House",
+      "Minimal Techno",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Electronic",
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "the taylor party": {
+    "artist": "THE TAYLOR PARTY",
+    "styles": [
+      "Blue Humor",
+      "Comedy",
+      "Observational Humor",
+      "Standup Comedy",
+      "Alternative Singer/Songwriter",
+      "Alternative/Indie Rock",
+      "Alternative Pop/Rock",
+      "Indie Rock",
+      "Prank Calls"
+    ],
+    "genres": [
+      "Comedy/Spoken",
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "bingo loco": {
+    "artist": "Bingo Loco",
+    "styles": [
+      "American Punk",
+      "New York Punk",
+      "Punk",
+      "Alternative/Indie Rock",
+      "Punk/New Wave",
+      "College Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "protoje meets tippy i": {
+    "artist": "Protoje meets Tippy I",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "the birthday massacre": {
+    "artist": "The Birthday Massacre",
+    "styles": [
+      "British Folk",
+      "British Folk-Rock",
+      "Folk-Rock",
+      "Psychedelic/Garage"
+    ],
+    "genres": [
+      "Folk",
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "phil hanley spellbound": {
+    "artist": "Phil Hanley Spellbound",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "sharon van etten": {
+    "artist": "Sharon Van Etten",
+    "styles": [
+      "Alternative Singer/Songwriter",
+      "Alternative/Indie Rock",
+      "Indie Folk",
+      "New Wave/Post-Punk Revival"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "saint motel": {
+    "artist": "Saint Motel",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "rhiannon giddens": {
+    "artist": "Rhiannon Giddens",
+    "styles": [
+      "String Bands",
+      "Bluegrass",
+      "Country Blues",
+      "Modern Acoustic Blues",
+      "Neo-Traditional Folk"
+    ],
+    "genres": [
+      "Folk",
+      "Country",
+      "Blues"
+    ],
+    "source": "allmusic.com"
+  },
+  "the polish ambassador": {
+    "artist": "The Polish Ambassador",
+    "styles": [
+      "Dixieland",
+      "Early Jazz",
+      "New Orleans Jazz",
+      "Vocal Jazz",
+      "Swing",
+      "Traditional Pop",
+      "Jazz Instrument",
+      "Trumpet Jazz"
+    ],
+    "genres": [
+      "Jazz",
+      "Vocal"
+    ],
+    "source": "allmusic.com"
+  },
+  "shakey graves: and the war came": {
+    "artist": "Shakey Graves: And The War Came",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Indie Rock",
+      "Alt-Country",
+      "Americana"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Folk"
+    ],
+    "source": "allmusic.com"
+  },
+  "badbadnotgood": {
+    "artist": "BADBADNOTGOOD",
+    "styles": [
+      "Contemporary Jazz",
+      "Crossover Jazz",
+      "Instrumental Hip-Hop",
+      "Alternative R&B",
+      "Electro-Jazz",
+      "Jazz-Funk",
+      "Funk"
+    ],
+    "genres": [
+      "Jazz"
+    ],
+    "source": "allmusic.com"
+  },
+  "of mice": {
+    "artist": "Of Mice",
+    "styles": [
+      "Heavy Metal",
+      "Alternative Metal",
+      "Post-Hardcore",
+      "Screamo",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "exodus": {
+    "artist": "Exodus",
+    "styles": [
+      "Roots Reggae"
+    ],
+    "genres": [
+      "Reggae"
+    ],
+    "source": "allmusic.com"
+  },
+  "sunami / pain of truth": {
+    "artist": "Sunami / Pain Of Truth",
+    "styles": [],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "mat kearney": {
+    "artist": "Mat Kearney",
+    "styles": [
+      "Adult Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Contemporary Singer/Songwriter"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "brett dennen": {
+    "artist": "Brett Dennen",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Contemporary Singer/Songwriter",
+      "Adult Alternative Pop/Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "between the buried and me": {
+    "artist": "Between The Buried And Me",
+    "styles": [
+      "Heavy Metal",
+      "Metalcore",
+      "Alternative/Indie Rock",
+      "Death Metal",
+      "Progressive Metal"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "obituary “35 years of cause of death”": {
+    "artist": "OBITUARY “35 YEARS OF CAUSE OF DEATH”",
+    "styles": [
+      "Alternative Metal",
+      "Heavy Metal",
+      "Industrial Metal"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "absfest": {
+    "artist": "ABSFest",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "moon taxi": {
+    "artist": "Moon Taxi",
+    "styles": [
+      "Outlaw Country",
+      "Progressive Country",
+      "Singer/Songwriter",
+      "Country-Folk",
+      "Traditional Country"
+    ],
+    "genres": [
+      "Country",
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "larkin poe": {
+    "artist": "Larkin Poe",
+    "styles": [
+      "Alt-Country",
+      "Electric Blues",
+      "Americana",
+      "Alternative/Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Blues",
+      "Country"
+    ],
+    "source": "allmusic.com"
+  },
+  "sleigh bells north american": {
+    "artist": "Sleigh Bells North American",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "ramy youssef": {
+    "artist": "ramy youssef",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "mannequin pussy": {
+    "artist": "Mannequin Pussy",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Punk Revival",
+      "Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "blind date": {
+    "artist": "Blind Date",
+    "styles": [
+      "Film Score",
+      "Fusion",
+      "Post-Bop",
+      "Jazz-Funk"
+    ],
+    "genres": [
+      "Jazz"
+    ],
+    "source": "allmusic.com"
+  },
+  "blondshell": {
+    "artist": "Blondshell",
+    "styles": [
+      "Alternative/Indie Rock",
+      "Alternative Singer/Songwriter",
+      "Indie Rock"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "red not chili peppers": {
+    "artist": "Red NOT Chili Peppers",
+    "styles": [
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Adult Alternative Pop/Rock",
+      "Funk Metal"
+    ],
+    "genres": [
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "american aquarium": {
+    "artist": "American Aquarium",
+    "styles": [
+      "Country Gospel",
+      "Country-Pop",
+      "Cowboy",
+      "Gospel",
+      "Rockabilly",
+      "Traditional Country",
+      "Rock & Roll",
+      "Country-Folk"
+    ],
+    "genres": [
+      "Country"
+    ],
+    "source": "allmusic.com"
+  },
+  "lazr luvr": {
+    "artist": "LAZR LUVR",
+    "styles": [
+      "Outlaw Country",
+      "Traditional Country",
+      "Honky Tonk"
+    ],
+    "genres": [
+      "Country"
+    ],
+    "source": "allmusic.com"
+  },
+  "scott bradlee’s postmodern jukebox": {
+    "artist": "Scott Bradlee’s Postmodern Jukebox",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "johnnyswim": {
+    "artist": "Johnnyswim",
+    "styles": [
+      "Indie Folk",
+      "Alternative/Indie Rock",
+      "Contemporary Folk"
+    ],
+    "genres": [
+      "Pop/Rock",
+      "Folk"
+    ],
+    "source": "allmusic.com"
+  },
+  "josé gonzález": {
+    "artist": "José González",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  },
+  "watchhouse": {
+    "artist": "Watchhouse",
+    "styles": [
+      "Americana"
+    ],
+    "genres": [
+      "Folk",
+      "Pop/Rock"
+    ],
+    "source": "allmusic.com"
+  },
+  "club 90's: gaga night": {
+    "artist": "Club 90's: Gaga Night",
+    "styles": [],
+    "genres": [],
+    "source": "fallback",
+    "error": "Artist not found on AllMusic"
+  }
+}

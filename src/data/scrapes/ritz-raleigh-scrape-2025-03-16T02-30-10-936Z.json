@@ -1,0 +1,37 @@
+{
+  "events": [
+    {
+      "id": "9ed7e565-4cb8-4b46-8a4c-cfa3655d5a46",
+      "name": "Shows",
+      "date": "2025-03-16T02:30:10.726Z",
+      "type": "music",
+      "description": "Event at The Ritz: Shows",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://www.ritzraleigh.com/shows",
+      "lastScraped": "2025-03-16T02:30:10.728Z",
+      "hash": "1547b5d1878404f523767669bf0dc11f",
+      "performers": [
+        "Shows"
+      ]
+    },
+    {
+      "id": "aad2b784-5a0b-4a3a-b4cf-b974ab94a354",
+      "name": "Private Events",
+      "date": "2025-03-16T02:30:10.731Z",
+      "type": "music",
+      "description": "Event at The Ritz: Private Events",
+      "startTime": "",
+      "venueId": "6",
+      "sourceUrl": "https://www.ritzraleigh.com/private-events",
+      "lastScraped": "2025-03-16T02:30:10.732Z",
+      "hash": "c7672a4fcc006ac3f90dfe5656ee6f34",
+      "performers": [
+        "Private Events"
+      ]
+    }
+  ],
+  "venue": "The Ritz",
+  "success": true,
+  "scrapedAt": "2025-03-16T02:30:10.732Z"
+}

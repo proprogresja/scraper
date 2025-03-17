@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>scraper</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    body {
+      font-family: 'Fira Code', monospace;
+      background-color: #000 !important;
+      color: #bbb;
+    }
+    .app-title {
+      font-family: 'Fira Code', monospace;
+      font-weight: 300;
+      text-transform: lowercase !important;
+      letter-spacing: -1px;
+      font-size: 2.5rem;
+      text-align: center;
+      display: block;
+      margin: 0 auto;
+    }
+    .app-title sup {
+      font-size: 1rem;
+      top: -1em;
+      font-weight: 300;
+    }
+    .header {
+      margin-bottom: 20px;
+      position: relative;
+    }
+    .header-row {
+      display: flex;
+      align-items: center;
+      padding: 15px 0;
+    }
+    .header-col {
+      flex: 1;
+    }
+    .header-col.center {
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .header-col.right {
+      text-align: right;
+    }
+    .header-border {
+      border-bottom: 1px solid #333;
+      margin-bottom: 20px;
+    }
+    .header-controls {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      justify-content: flex-end;
+      margin-top: 10px;
+    }
+    #last-updated {
+      font-size: 0.8rem;
+      color: #666;
+      text-align: right;
+    }
+    #last-updated:before {
+      content: "last scraped: ";
+    }
+    /* Heartbeat image styles */
+    .heartbeat-image {
+      height: 50px;
+      width: 1500px;
+      margin-left: 8px;
+      vertical-align: middle;
+      position: relative;
+      top: 5px;
+    }
+    /* Modal styles */
+    .modal-content {
+      font-family: 'Fira Code', monospace;
+      border-radius: 0;
+      border: none;
+      background-color: #111;
+      color: #999;
+    }
+    .modal-header {
+      border-bottom: 1px solid #333;
+    }
+    .modal-title {
+      font-weight: 300;
+      text-transform: lowercase;
+      color: #ccc;
+    }
+    .modal-body {
+      font-size: 0.9rem;
+    }
+    .modal-body h6 {
+      color: #ddd;
+      margin-top: 15px;
+    }
+    .modal-body ul {
+      padding-left: 20px;
+    }
+    .modal-body p, .modal-body li {
+      color: #aaa;
+    }
+    .modal-footer {
+      border-top: 1px solid #333;
+    }
+    /* Additional styles for a more modern, edgy look */
+    .table {
+      font-family: 'Fira Code', monospace;
+      background-color: #000 !important;
+    }
+    .event-artist {
+      font-weight: 500;
+    }
+    .event-openers {
+      font-size: 0.85rem;
+      color: #666;
+    }
+    .btn {
+      font-family: 'Fira Code', monospace;
+      text-transform: lowercase;
+    }
+    
+    /* User login styles */
+    #user-area {
+      display: inline-block;
+    }
+    
+    #username-input {
+      background-color: rgba(255, 255, 255, 0.1);
+      border: 1px solid #333;
+      color: #ddd;
+    }
+    
+    #username-input:focus {
+      background-color: rgba(255, 255, 255, 0.15);
+      border-color: #555;
+      box-shadow: none;
+      color: #fff;
+    }
+    
+    #login-button {
+      background-color: #000;
+      color: #fff;
+      border: 1px solid #333;
+    }
+    
+    #login-button:hover {
+      background-color: #111;
+      border-color: #444;
+    }
+    
+    #display-username {
+      color: #fff;
+      font-weight: 500;
+    }
+    
+    /* Toggle view button styles */
+    #toggle-view-button {
+      background-color: #000;
+      color: #fff;
+      border: 1px solid #333;
+      transition: all 0.2s ease;
+      padding: 6px 12px;
+      font-size: 0.9rem;
+    }
+    
+    #toggle-view-button:hover {
+      background-color: #111;
+      border-color: #444;
+    }
+    
+    /* Make view toggle match dropdown buttons */
+    #view-toggle {
+      display: inline-block;
+    }
+    
+    /* Add spacing between header controls */
+    .header-controls > div {
+      margin-right: 10px;
+    }
+    
+    .header-controls > div:last-child {
+      margin-right: 0;
+    }
+    
+    /* Responsive adjustments for user area */
+    @media (max-width: 768px) {
+      #user-area {
+        text-align: center;
+        margin-bottom: 10px;
+      }
+      
+      #login-form {
+        justify-content: center;
+        margin: 0 auto;
+      }
+      
+      #user-info {
+        text-align: center;
+      }
+    }
+    
+    /* Genre mapping styles */
+    .genre-mapping {
+      max-height: 300px;
+      overflow-y: auto;
+      margin: 10px 0;
+      padding: 10px;
+      background-color: rgba(255, 255, 255, 0.05);
+      border-radius: 5px;
+    }
+    
+    .genre-mapping ul {
+      padding-left: 15px;
+      margin-bottom: 0;
+    }
+    
+    .genre-mapping li {
+      margin-bottom: 8px;
+      font-size: 0.9rem;
+    }
+    
+    .genre-mapping strong {
+      color: #f8f9fa;
+    }
+  </style>
+</head>
+<body>
+  <div class="container-fluid">
+    <header class="header">
+      <div class="header-row">
+        <div class="header-col left">
+          <!-- Empty left column for balance -->
+        </div>
+        <div class="header-col center">
+          <span class="app-title">scrap<sup>er</sup></span>
+          <img src="heartbeat.svg" alt="Heartbeat" class="heartbeat-image">
+        </div>
+        <div class="header-col right">
+          <div id="last-updated"></div>
+          <div class="header-controls">
+            <!-- User login area moved to header controls -->
+            <div id="user-area">
+              <div id="login-form">
+                <div class="dropdown">
+                  <button class="btn dropdown-toggle" type="button" id="loginDropdownButton" data-bs-toggle="dropdown" aria-expanded="false">
+                    <i class="fas fa-user"></i> Login
+                  </button>
+                  <div class="dropdown-menu p-3" style="min-width: 250px;">
+                    <div class="mb-3">
+                      <input type="text" id="username-input" class="form-control" placeholder="Username" aria-label="Username">
+                    </div>
+                    <button id="login-button" class="btn btn-outline-light w-100">Login</button>
+                  </div>
+                </div>
+              </div>
+              <div id="user-info" class="d-none">
+                <div class="dropdown">
+                  <button class="btn dropdown-toggle" type="button" id="userDropdownButton" data-bs-toggle="dropdown" aria-expanded="false">
+                    <i class="fas fa-user"></i> <span id="display-username"></span>
+                  </button>
+                  <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="userDropdownButton">
+                    <li><button class="dropdown-item" id="logout-button">Logout</button></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            
+            <!-- View toggle button -->
+            <div id="view-toggle" class="d-none">
+              <button id="toggle-view-button" class="btn dropdown-toggle" type="button">
+                <i class="fas fa-skull"></i> My Shows
+              </button>
+            </div>
+            
+            <div id="about-button" class="dropdown">
+              <button class="btn dropdown-toggle" type="button" data-bs-toggle="modal" data-bs-target="#aboutModal">
+                <i class="fas fa-info-circle"></i> About
+              </button>
+            </div>
+            <div id="scraper-button" class="dropdown">
+              <button class="btn dropdown-toggle" type="button" id="scraperDropdownButton" data-bs-toggle="dropdown" aria-expanded="false">
+                <i class="fas fa-sync-alt"></i> Update
+              </button>
+              <ul class="dropdown-menu dropdown-menu-end" id="scraper-options" aria-labelledby="scraperDropdownButton">
+                <li><h6 class="dropdown-header">Run Scrapers</h6></li>
+                <li><button class="dropdown-item" id="run-all-scrapers">Run All Scrapers</button></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><h6 class="dropdown-header">Venue Status</h6></li>
+                <!-- Venue statuses will be populated here -->
+              </ul>
+            </div>
+            <div id="venues-dropdown" class="dropdown">
+              <button class="btn dropdown-toggle" type="button" id="venuesDropdownButton" data-bs-toggle="dropdown" aria-expanded="false">
+                <i class="fas fa-map-marker-alt"></i> Venues
+              </button>
+              <ul class="dropdown-menu dropdown-menu-end" id="venues-list" aria-labelledby="venuesDropdownButton">
+                <!-- Venues will be populated here -->
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="header-border"></div>
+    </header>
+    
+    <!-- About Modal -->
+    <div class="modal fade" id="aboutModal" tabindex="-1" aria-labelledby="aboutModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="aboutModalLabel">about scrap<sup>er</sup></h5>
+            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p><strong>scrap<sup>er</sup></strong> is a concert tracking application that aggregates event information from various venues.</p>
+            
+            <h6>Features:</h6>
+            <ul>
+              <li>Filter events by genre categories</li>
+              <li>Mark events you're interested in with the skull button</li>
+              <li>View venue-specific events</li>
+              <li>See newly added events marked with an asterisk (*)</li>
+              <li>Access ticket links directly from the interface</li>
+              <li>Login with just a username to save your selected shows</li>
+              <li>Toggle between "All Shows" and "My Shows" views</li>
+            </ul>
+            
+            <h6>User Account:</h6>
+            <p>Simply enter a username to log in. Your selected shows will be saved to your browser and will persist between visits.</p>
+            
+            <h6>Genre Classification System:</h6>
+            <p>Events are organized into broad genre categories for easy filtering. Our system maps specific styles to top-level genres:</p>
+            
+            <div class="genre-mapping">
+              <ul>
+                <li><strong>Metal:</strong> Grindcore, Heavy Metal, Death Metal, Black Metal, Thrash, Doom Metal, Power Metal, Progressive Metal, Metalcore, Sludge Metal, Nu-Metal, Groove Metal, Technical Death Metal, Symphonic Metal, Folk-Metal, Gothic Metal, Industrial Metal</li>
+                <li><strong>Punk:</strong> Hardcore Punk, Pop-Punk, Skate Punk, Crust Punk, D-beat, Anarcho-Punk, Oi!, Street Punk, Post-Punk, Proto-Punk, Garage Punk</li>
+                <li><strong>Electronic:</strong> Techno, House, EDM, Trance, Dubstep, Drum and Bass, Ambient, IDM, Electronica, Trip-Hop, Breakbeat, Jungle, Downtempo, Electro, Industrial</li>
+                <li><strong>Rock:</strong> Hard Rock, Classic Rock, Alternative Rock, Indie Rock, Progressive Rock, Psychedelic Rock, Garage Rock, Southern Rock, Blues-Rock, Folk-Rock</li>
+                <li><strong>Alternative:</strong> Indie, Shoegaze, Grunge, Emo, Post-Rock</li>
+                <li><strong>Hip-Hop:</strong> Rap, Trap, Gangsta Rap, Alternative Rap, Underground Rap</li>
+                <li><strong>Other Categories:</strong> Jazz, Blues, Country, Folk, Pop, R&B, Soul, Reggae, Classical, World</li>
+                <li><strong>Parties:</strong> Special events, showcases, raves, and other non-traditional music events</li>
+              </ul>
+            </div>
+            
+            <p>Events are also categorized as "NOISE" (Metal, Punk, etc.) and "NOT NOISE" (Pop, Folk, etc.) for quick filtering.</p>
+            
+            <h6>Data Updates:</h6>
+            <p>The data is automatically refreshed every 5 minutes, or you can manually update using the "Update" button.</p>
+            
+            <p class="text-muted mt-3">Version 1.2</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-outline-light" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div id="genre-checkboxes" class="genre-checkboxes-container">
+      <!-- Genre checkboxes will be populated here -->
+    </div>
+    
+    <div id="loading" class="text-center mt-5">
+      <div class="spinner-border" role="status">
+        <span class="visually-hidden">Loading...</span>
+      </div>
+    </div>
+    
+    <div id="no-events" class="text-center mt-5 d-none">
+      <p>No events found matching your criteria.</p>
+    </div>
+    
+    <div id="events-container">
+      <!-- Events will be populated here -->
+    </div>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html> 

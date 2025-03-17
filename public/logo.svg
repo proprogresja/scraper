@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300">
+  <style>
+    .logo-text {
+      font-family: 'Metal Mania', serif;
+      font-size: 60px;
+      font-weight: bold;
+      fill: #cccccc;
+      filter: url(#distortion);
+    }
+    .logo-path {
+      fill: none;
+      stroke: #cccccc;
+      stroke-width: 2;
+      filter: url(#distortion);
+    }
+    .logo-spike {
+      fill: none;
+      stroke: #cccccc;
+      stroke-width: 1.5;
+      filter: url(#distortion);
+    }
+    .blood {
+      fill: #ff0000;
+      filter: url(#blur);
+    }
+  </style>
+  
+  <defs>
+    <filter id="distortion" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.05" numOctaves="5" seed="3" />
+      <feDisplacementMap in="SourceGraphic" scale="10" />
+    </filter>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" />
+    </filter>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#ff0000" flood-opacity="0.7" />
+    </filter>
+  </defs>
+  
+  <!-- Blood drips -->
+  <circle class="blood" cx="150" cy="220" r="8" />
+  <circle class="blood" cx="300" cy="230" r="10" />
+  <circle class="blood" cx="450" cy="225" r="7" />
+  <path class="blood" d="M150,180 Q145,200 150,220 Q155,200 150,180" />
+  <path class="blood" d="M300,190 Q290,210 300,230 Q310,210 300,190" />
+  <path class="blood" d="M450,185 Q445,205 450,225 Q455,205 450,185" />
+  
+  <!-- Spikes and thorns -->
+  <path class="logo-spike" d="M50,100 L30,50 L70,90 L90,30 L110,90 L150,40 L160,100" />
+  <path class="logo-spike" d="M440,100 L460,50 L420,90 L400,30 L380,90 L340,40 L330,100" />
+  <path class="logo-spike" d="M200,40 L220,80 L240,30 L260,90 L280,40 L300,100 L320,40 L340,90 L360,30 L380,80 L400,40" />
+  
+  <!-- Vertical spikes -->
+  <path class="logo-spike" d="M100,120 L90,150 L100,180 L110,150 Z" />
+  <path class="logo-spike" d="M500,120 L490,150 L500,180 L510,150 Z" />
+  <path class="logo-spike" d="M200,100 L190,130 L200,160 L210,130 Z" />
+  <path class="logo-spike" d="M400,100 L390,130 L400,160 L410,130 Z" />
+  
+  <!-- Main text with distortion -->
+  <text class="logo-text" x="300" y="150" text-anchor="middle" filter="url(#shadow)">NORTH</text>
+  <text class="logo-text" x="300" y="210" text-anchor="middle" filter="url(#shadow)">KAKALAK</text>
+  
+  <!-- Decorative elements -->
+  <path class="logo-path" d="M100,230 L500,230" />
+  <path class="logo-path" d="M150,240 L450,240" />
+  
+  <!-- Inverted crosses -->
+  <path class="logo-path" d="M80,260 L80,290 M70,270 L90,270" />
+  <path class="logo-path" d="M520,260 L520,290 M510,270 L530,270" />
+</svg> 

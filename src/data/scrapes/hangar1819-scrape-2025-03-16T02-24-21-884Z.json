@@ -1,0 +1,467 @@
+{
+  "events": [
+    {
+      "id": "1ba177a0-36ad-4dff-b406-ac4be94a5b6b",
+      "name": "CAVALERAw/ Necrot, Dead Heat, Bloodritual, Deceptor",
+      "date": "2026-03-15T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: CAVALERAw/ Necrot, Dead Heat, Bloodritual, Deceptor",
+      "startTime": "6:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/325",
+      "lastScraped": "2025-03-16T02:24:21.706Z",
+      "hash": "cfcee0e5f6d9767cd7951a458c36f692",
+      "performers": [
+        "CAVALERA",
+        "Necrot, Dead Heat, Bloodritual, Deceptor"
+      ]
+    },
+    {
+      "id": "34620165-8ff4-4ea0-80f8-f1fdc49ea492",
+      "name": "Josey Scott - 'Nu Metal Revival' Tour",
+      "date": "2025-03-18T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Josey Scott - 'Nu Metal Revival' Tour",
+      "startTime": "5:30pm",
+      "venueId": "5",
+      "sourceUrl": "/event/327",
+      "lastScraped": "2025-03-16T02:24:21.707Z",
+      "hash": "cb6cca9eb850848e2252d1827e44b11b",
+      "performers": [
+        "Josey Scott"
+      ]
+    },
+    {
+      "id": "37d75db6-5e9a-42cd-b373-4a444e5c797b",
+      "name": "Belphegor - 'The Devils North American Tour 2025'",
+      "date": "2025-03-21T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Belphegor - 'The Devils North American Tour 2025'",
+      "startTime": "6:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/336",
+      "lastScraped": "2025-03-16T02:24:21.708Z",
+      "hash": "3f2d60346f083223d70271a69e23b6e0",
+      "performers": [
+        "Belphegor"
+      ]
+    },
+    {
+      "id": "f2b91037-9ea7-40cf-ae1a-ea0a09d72ae3",
+      "name": "Nookie: Nu-Metal Night",
+      "date": "2025-03-22T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Nookie: Nu-Metal Night",
+      "startTime": "8:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/343",
+      "lastScraped": "2025-03-16T02:24:21.709Z",
+      "hash": "7e9030df9e541d65aa0889ad9a84f2b0",
+      "performers": [
+        "Nookie: Nu-Metal Night"
+      ]
+    },
+    {
+      "id": "afaf2bc1-4212-4340-b5a5-363baee773a4",
+      "name": "Korpiklaani",
+      "date": "2025-03-27T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Korpiklaani",
+      "startTime": "5:30pm",
+      "venueId": "5",
+      "sourceUrl": "/event/300",
+      "lastScraped": "2025-03-16T02:24:21.710Z",
+      "hash": "3ab4bcbc145fad18a6bf8677cc02c6f0",
+      "performers": [
+        "Korpiklaani"
+      ]
+    },
+    {
+      "id": "a9ebc4d1-1ca3-48af-90fe-846a782cd13e",
+      "name": "Set For TomorrowWhat Lies Below, Enemies & Allies, Distant Fires",
+      "date": "2025-03-28T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Set For TomorrowWhat Lies Below, Enemies & Allies, Distant Fires",
+      "startTime": "7:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/344",
+      "lastScraped": "2025-03-16T02:24:21.711Z",
+      "hash": "936fc17f894781a8c35d983b6ff89bcb",
+      "performers": [
+        "Set For TomorrowWhat Lies Belo",
+        "Enemies & Allies",
+        "Distant Fires"
+      ]
+    },
+    {
+      "id": "3375f095-54b6-4c02-9880-2f0966a2ea21",
+      "name": "Paleface Swissw/ Stick To Your Guns, Nasty",
+      "date": "2025-03-29T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Paleface Swissw/ Stick To Your Guns, Nasty",
+      "startTime": "6:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/274",
+      "lastScraped": "2025-03-16T02:24:21.711Z",
+      "hash": "5b72ade8e8eb0af4977fc1a9ab77e805",
+      "performers": [
+        "Paleface Swiss",
+        "Stick To Your Guns, Nasty"
+      ]
+    },
+    {
+      "id": "fc5a5be4-ec57-42eb-a607-8a49b03bce6b",
+      "name": "Armor For Sleep",
+      "date": "2025-04-03T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Armor For Sleep",
+      "startTime": "6:30pm",
+      "venueId": "5",
+      "sourceUrl": "/event/313",
+      "lastScraped": "2025-03-16T02:24:21.711Z",
+      "hash": "9353476440c9fc26cddce3e24d974060",
+      "performers": [
+        "Armor For Sleep"
+      ]
+    },
+    {
+      "id": "43a54a13-8b01-437e-abec-417b74494ba3",
+      "name": "Pageant",
+      "date": "2025-04-11T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Pageant",
+      "startTime": "7:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/357",
+      "lastScraped": "2025-03-16T02:24:21.712Z",
+      "hash": "5cb0514605dd3575b026cdeb21cb0805",
+      "performers": [
+        "Pageant"
+      ]
+    },
+    {
+      "id": "18dfbd93-b6b2-412e-8478-38e654ef4d46",
+      "name": "The Dirty Secrets & 30 Is Dead",
+      "date": "2025-04-12T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: The Dirty Secrets & 30 Is Dead",
+      "startTime": "7:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/351",
+      "lastScraped": "2025-03-16T02:24:21.712Z",
+      "hash": "7074b44d9a0980f10270b3d33e0b7a27",
+      "performers": [
+        "The Dirty Secrets & 30 Is Dead"
+      ]
+    },
+    {
+      "id": "70861699-5e5a-4f19-8ecb-be8f68d24e31",
+      "name": "Fake Happy: Paramore Tribute",
+      "date": "2025-04-18T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Fake Happy: Paramore Tribute",
+      "startTime": "6:30pm",
+      "venueId": "5",
+      "sourceUrl": "/event/352",
+      "lastScraped": "2025-03-16T02:24:21.712Z",
+      "hash": "50eb48de10bc9233fd835d485b6ab1ad",
+      "performers": [
+        "Fake Happy: Paramore Tribute"
+      ]
+    },
+    {
+      "id": "e3c150da-17c6-488b-ac31-c2a0a08f453f",
+      "name": "It's A 2000s Party: Greensboro",
+      "date": "2025-04-19T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: It's A 2000s Party: Greensboro",
+      "startTime": "8:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/353",
+      "lastScraped": "2025-03-16T02:24:21.712Z",
+      "hash": "afbda870c37ae804230b14051d143f5f",
+      "performers": [
+        "It's A 2000s Party: Greensboro"
+      ]
+    },
+    {
+      "id": "c7b797b2-42cd-4c4d-928c-afe31cc9df28",
+      "name": "Thornhill – North American Tour 2025w/ Avoid, Banks Arcade, Oceans Grove",
+      "date": "2025-04-23T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Thornhill – North American Tour 2025w/ Avoid, Banks Arcade, Oceans Grove",
+      "startTime": "6:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/337",
+      "lastScraped": "2025-03-16T02:24:21.713Z",
+      "hash": "96bc56b13f3e345506e454360e4c8651",
+      "performers": [
+        "Thornhill – North American Tour 2025",
+        "Avoid, Banks Arcade, Oceans Grove"
+      ]
+    },
+    {
+      "id": "afef1748-75af-4d80-adb8-63dd5fd8cd25",
+      "name": "Capstan - 'The Cult Tour'",
+      "date": "2025-04-24T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Capstan - 'The Cult Tour'",
+      "startTime": "6:30pm",
+      "venueId": "5",
+      "sourceUrl": "/event/316",
+      "lastScraped": "2025-03-16T02:24:21.713Z",
+      "hash": "d802c91efbb406f58adceb5592924822",
+      "performers": [
+        "Capstan"
+      ]
+    },
+    {
+      "id": "b75dbfb5-0987-429d-878d-eafdc30eb55e",
+      "name": "Liam St. John",
+      "date": "2025-04-25T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Liam St. John",
+      "startTime": "7:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/322",
+      "lastScraped": "2025-03-16T02:24:21.713Z",
+      "hash": "ef41e1f772a340834a7de8c8ae5d7f1e",
+      "performers": [
+        "Liam St. John"
+      ]
+    },
+    {
+      "id": "6da32e40-1cda-4dd5-90ff-571003932758",
+      "name": "Emo Kids Emo nights are better live!",
+      "date": "2025-04-26T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Emo Kids Emo nights are better live!",
+      "startTime": "7:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/346",
+      "lastScraped": "2025-03-16T02:24:21.714Z",
+      "hash": "ca3b0ba5ac728ebd04e628fd13dae182",
+      "performers": [
+        "Emo Kids Emo nights are better live!"
+      ]
+    },
+    {
+      "id": "0e2dbcbc-b76e-463f-8320-24c249152a80",
+      "name": "OsamaSon - 'Jumpout Tour'",
+      "date": "2025-04-27T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: OsamaSon - 'Jumpout Tour'",
+      "startTime": "7:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/334",
+      "lastScraped": "2025-03-16T02:24:21.714Z",
+      "hash": "1aed03e850d7ef9d5286d8daaa775067",
+      "performers": [
+        "OsamaSon"
+      ]
+    },
+    {
+      "id": "9b364621-0519-4d92-b0ad-654a3d595a9a",
+      "name": "Shred Fest 2025: Obscura",
+      "date": "2025-04-29T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Shred Fest 2025: Obscura",
+      "startTime": "5:30pm",
+      "venueId": "5",
+      "sourceUrl": "/event/342",
+      "lastScraped": "2025-03-16T02:24:21.714Z",
+      "hash": "61b198310a9065e8dd9263317407c6c3",
+      "performers": [
+        "Shred Fest 2025: Obscura"
+      ]
+    },
+    {
+      "id": "8522b0b6-34ad-4637-98fe-1e133c1bc44b",
+      "name": "Soulja Boy - 'The Swag Tour' 2025",
+      "date": "2025-05-04T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Soulja Boy - 'The Swag Tour' 2025",
+      "startTime": "8:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/340",
+      "lastScraped": "2025-03-16T02:24:21.715Z",
+      "hash": "5ed51bb1b89ca73c924662bfb21ff51c",
+      "performers": [
+        "Soulja Boy"
+      ]
+    },
+    {
+      "id": "75e896d8-14a2-48f7-98af-0bbad069f546",
+      "name": "The Acacia Strainw/ Frozen Soul, Snuffed On Sight, Gates To Hell, Maul",
+      "date": "2025-05-06T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: The Acacia Strainw/ Frozen Soul, Snuffed On Sight, Gates To Hell, Maul",
+      "startTime": "6:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/335",
+      "lastScraped": "2025-03-16T02:24:21.715Z",
+      "hash": "2b872d89a6e6f31606ec64076d39d795",
+      "performers": [
+        "The Acacia Strain",
+        "Frozen Soul, Snuffed On Sight, Gates To Hell, Maul"
+      ]
+    },
+    {
+      "id": "e4c173af-8dcb-4584-9f35-ebd6bfa85ad4",
+      "name": "Sondw/ Dying To Live, Saving Darkness, Leaving Echoes",
+      "date": "2025-05-10T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Sondw/ Dying To Live, Saving Darkness, Leaving Echoes",
+      "startTime": "7:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/354",
+      "lastScraped": "2025-03-16T02:24:21.716Z",
+      "hash": "3660b5d92040ae5cac5a6457b937c583",
+      "performers": [
+        "Sond",
+        "Dying To Live, Saving Darkness, Leaving Echoes"
+      ]
+    },
+    {
+      "id": "e0f1f5e8-834f-416a-b084-9d4a3f218248",
+      "name": "Silverstein - '25 Years Of Noise' Tourw/ Real Friends, Broadside, greyhaven",
+      "date": "2025-05-14T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Silverstein - '25 Years Of Noise' Tourw/ Real Friends, Broadside, greyhaven",
+      "startTime": "6:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/348",
+      "lastScraped": "2025-03-16T02:24:21.716Z",
+      "hash": "4e325919ac17f8b38204463308df749b",
+      "performers": [
+        "Silverstein",
+        "Real Friends, Broadside, greyhaven"
+      ]
+    },
+    {
+      "id": "d077817c-7e65-4c37-8f17-0f353f416ce4",
+      "name": "Attack Attack - 'The Roadside Rumble Tour'",
+      "date": "2025-05-15T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Attack Attack - 'The Roadside Rumble Tour'",
+      "startTime": "5:30pm",
+      "venueId": "5",
+      "sourceUrl": "/event/345",
+      "lastScraped": "2025-03-16T02:24:21.716Z",
+      "hash": "5c38ca5a58c40f92ce47e05c970ee4e7",
+      "performers": [
+        "Attack Attack"
+      ]
+    },
+    {
+      "id": "4a8a8e99-7416-4b3d-84ff-30e118a1ca02",
+      "name": "ANGELMAKER",
+      "date": "2025-05-16T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: ANGELMAKER",
+      "startTime": "6:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/333",
+      "lastScraped": "2025-03-16T02:24:21.717Z",
+      "hash": "884fc3bdb854313b1ab2fd64a0a13891",
+      "performers": [
+        "ANGELMAKER"
+      ]
+    },
+    {
+      "id": "6dd2f369-cf3c-4c9d-99ad-9d18568a2a82",
+      "name": "Speed",
+      "date": "2025-05-24T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Speed",
+      "startTime": "7:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/356",
+      "lastScraped": "2025-03-16T02:24:21.717Z",
+      "hash": "7ced366dc9eaecc32ea58576dd4b902b",
+      "performers": [
+        "Speed"
+      ]
+    },
+    {
+      "id": "acbddc5a-289e-435c-8c1a-cbe97663aa7b",
+      "name": "Nekrogoblikonw/ Revocation, Ov Sulfur, BRAT",
+      "date": "2025-05-27T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Nekrogoblikonw/ Revocation, Ov Sulfur, BRAT",
+      "startTime": "6:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/341",
+      "lastScraped": "2025-03-16T02:24:21.717Z",
+      "hash": "d7576c325fadfd801d10ea6729e1b33e",
+      "performers": [
+        "Nekrogoblikon",
+        "Revocation, Ov Sulfur, BRAT"
+      ]
+    },
+    {
+      "id": "3d9c0c72-1d15-4106-b7e6-696c23e207be",
+      "name": "Merkules - 'The Survivor's Guilt' Tour",
+      "date": "2025-06-04T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Merkules - 'The Survivor's Guilt' Tour",
+      "startTime": "6:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/350",
+      "lastScraped": "2025-03-16T02:24:21.718Z",
+      "hash": "a4448e8c0aabe43c5a7b25b3ea217a37",
+      "performers": [
+        "Merkules"
+      ]
+    },
+    {
+      "id": "3d9e095c-160b-43e2-b3b3-6148076f14ad",
+      "name": "The Native Howlw/ Tejon Street Corner Thieves",
+      "date": "2025-06-18T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: The Native Howlw/ Tejon Street Corner Thieves",
+      "startTime": "6:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/355",
+      "lastScraped": "2025-03-16T02:24:21.718Z",
+      "hash": "76d8bb2991e8e1eb891c79bd5f717fa6",
+      "performers": [
+        "The Native Howl",
+        "Tejon Street Corner Thieves"
+      ]
+    },
+    {
+      "id": "6efefff9-9bdb-4a2c-bb09-ff92aec265ea",
+      "name": "One Step Closer - 'All You Embrace' Tour",
+      "date": "2025-06-21T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: One Step Closer - 'All You Embrace' Tour",
+      "startTime": "6:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/347",
+      "lastScraped": "2025-03-16T02:24:21.718Z",
+      "hash": "a71a8cb99119d260a53449928bb1300c",
+      "performers": [
+        "One Step Closer"
+      ]
+    },
+    {
+      "id": "c099e2b8-6ab6-40c1-a1c6-9a0873bc580c",
+      "name": "Rio Da Yung OG",
+      "date": "2025-09-16T04:00:00.000Z",
+      "type": "music",
+      "description": "Event at Hangar 1819: Rio Da Yung OG",
+      "startTime": "7:00pm",
+      "venueId": "5",
+      "sourceUrl": "/event/328",
+      "lastScraped": "2025-03-16T02:24:21.718Z",
+      "hash": "a4bf5221afb32441d539840bc0fb9d13",
+      "performers": [
+        "Rio Da Yung OG"
+      ]
+    }
+  ],
+  "venue": "Hangar 1819",
+  "success": true,
+  "scrapedAt": "2025-03-16T02:24:21.719Z"
+}
