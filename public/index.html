@@ -3,7 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Local concert and event tracker with genre filtering">
+  <meta name="theme-color" content="#000000">
   <title>scraper</title>
+  <!-- PWA manifest -->
+  <link rel="manifest" href="/manifest.json">
+  <link rel="icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <!-- Preload critical fonts and assets -->
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500&display=swap" as="style">
+  <link rel="preload" href="heartbeat.svg" as="image">
+  <!-- Load stylesheets with async for non-critical CSS -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -11,6 +21,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
   <style>
+    /* Critical CSS inlined for faster rendering */
     body {
       font-family: 'Fira Code', monospace;
       background-color: #000 !important;
@@ -207,6 +218,67 @@
       #user-info {
         text-align: center;
       }
+      
+      .app-title {
+        font-size: 1.8rem;
+      }
+      
+      .table {
+        font-size: 0.8rem;
+      }
+      
+      .table th, .table td {
+        padding: 0.4rem;
+      }
+      
+      .event-artist {
+        font-size: 0.9rem;
+      }
+      
+      .event-openers {
+        font-size: 0.7rem;
+      }
+      
+      .event-venue {
+        font-size: 0.7rem;
+      }
+      
+      .event-genre-cell {
+        font-size: 0.7rem;
+      }
+      
+      .genre-mapping {
+        max-height: 200px;
+      }
+      
+      .modal-dialog {
+        margin: 0.5rem;
+        width: 95%;
+      }
+      
+      .genre-checkboxes-container {
+        flex-wrap: wrap;
+        gap: 0.4rem;
+        padding: 0 5px;
+      }
+      
+      .genre-checkbox, .login-genre-checkbox {
+        font-size: 0.7rem;
+        padding: 4px 8px;
+      }
+      
+      .login-genre-checkboxes {
+        gap: 5px;
+      }
+      
+      .header-controls {
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+      
+      .header-col.right {
+        text-align: center;
+      }
     }
     
     /* Genre mapping styles */
@@ -232,6 +304,230 @@
     .genre-mapping strong {
       color: #f8f9fa;
     }
+    
+    /* Mobile optimization */
+    @media (max-width: 768px) {
+      .app-title {
+        font-size: 2rem;
+      }
+      
+      /* Additional mobile styles... */
+    }
+    
+    /* Genre buttons styles */
+    .genre-checkboxes-container {
+      display: flex;
+      align-items: flex-start;
+      justify-content: flex-start;
+      margin-bottom: 30px;
+      gap: 20px;
+      width: 98%;
+      margin: 0 auto 30px;
+      padding: 0 15px;
+      flex-wrap: wrap;
+    }
+    
+    .genre-section {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: flex-start;
+      align-items: center;
+      width: 100%;
+    }
+    
+    .genre-checkbox {
+      background-color: #000;
+      color: #888;
+      border: 1px solid #333;
+      border-radius: 15px;
+      padding: 5px 10px;
+      transition: all 0.2s ease;
+      cursor: pointer;
+      display: inline-block;
+      white-space: nowrap;
+      font-size: 0.9rem;
+      height: 34px; /* Consistent height for all buttons */
+      line-height: 22px; /* Vertically center text */
+    }
+    
+    .genre-checkbox:hover {
+      background-color: #111;
+      color: #ccc;
+    }
+    
+    .btn-check {
+      position: absolute;
+      clip: rect(0,0,0,0);
+      pointer-events: none;
+    }
+    
+    .btn-check:checked + .genre-checkbox,
+    .genre-checkbox.active {
+      background-color: #fff !important;
+      color: #222 !important;
+      border-color: #fff !important;
+    }
+    
+    .all-genres-button {
+      background-color: #000;
+      color: #888;
+      border: 1px solid #333;
+      height: 34px; /* Match other buttons */
+    }
+    
+    .btn-check:checked + .all-genres-button,
+    .all-genres-button.active {
+      background-color: #fff !important;
+      color: #222 !important;
+      border-color: #fff !important;
+    }
+    
+    #events-container {
+      width: 98%;
+      margin: 0 auto;
+    }
+    
+    /* Spotify link styles */
+    .spotify-link {
+      color: #aa3333; /* Further desaturated red */
+      font-size: 1.2em;
+      transition: all 0.2s ease;
+    }
+    
+    .spotify-link:hover {
+      color: #bb4444; /* Further desaturated lighter red on hover */
+      transform: scale(1.2);
+    }
+    
+    /* Going button and highlighted row styles */
+    .going-btn {
+      background: none;
+      border: none;
+      cursor: pointer;
+      color: #666;
+      transition: color 0.2s ease;
+      padding: 5px;
+      outline: none;
+    }
+    
+    .going-btn:hover {
+      color: #aaa;
+    }
+    
+    .going-btn.active-skull {
+      color: #cc3333;
+    }
+    
+    .text-center {
+      text-align: center;
+    }
+    
+    /* Additional table styles for consistent spacing */
+    .table th, .table td {
+      padding: 10px;
+      vertical-align: middle;
+    }
+    
+    .table th {
+      border-bottom: 1px solid #333;
+      color: #999;
+      font-weight: 500;
+      text-transform: uppercase;
+      font-size: 0.85rem;
+      letter-spacing: 1px;
+    }
+    
+    .table td {
+      border-bottom: 1px solid #1a1a1a;
+      vertical-align: middle;
+    }
+    
+    .event-artist {
+      font-weight: 500;
+      margin-bottom: 4px;
+    }
+    
+    .event-openers {
+      font-size: 0.85rem;
+      color: #666;
+      margin-top: 4px;
+    }
+    
+    .event-date {
+      white-space: nowrap;
+    }
+    
+    .event-venue {
+      white-space: normal;
+      font-size: 0.9rem;
+    }
+    
+    /* Login genre preferences */
+    .login-genre-checkboxes {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 5px;
+    }
+    
+    .login-genre-checkbox {
+      display: inline-block;
+      margin-bottom: 5px;
+      padding: 5px 10px;
+      background-color: #000;
+      color: #888;
+      border: 1px solid #333;
+      border-radius: 15px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      white-space: nowrap;
+      font-size: 0.9rem;
+    }
+    
+    .login-genre-checkbox:hover {
+      background-color: #111;
+      color: #ccc;
+    }
+    
+    .login-genre-checkbox.active {
+      background-color: #fff !important;
+      color: #222 !important;
+      border-color: #fff !important;
+    }
+    
+    .login-genre-checkbox input {
+      position: absolute;
+      opacity: 0;
+      cursor: pointer;
+      height: 0;
+      width: 0;
+    }
+    
+    .login-genre-checkbox span {
+      margin-left: 4px;
+      font-size: 0.9rem;
+    }
+    
+    /* Make dropdown text more readable */
+    .dropdown-menu {
+      background-color: #111;
+      border: 1px solid #333;
+    }
+    
+    .form-label {
+      color: #ccc !important;
+    }
+    
+    .text-light {
+      color: #ccc !important;
+    }
+    
+    /* Make input placeholder more visible */
+    .form-control::placeholder {
+      color: #666;
+      opacity: 1;
+    }
   </style>
 </head>
 <body>
@@ -255,11 +551,18 @@
                   <button class="btn dropdown-toggle" type="button" id="loginDropdownButton" data-bs-toggle="dropdown" aria-expanded="false">
                     <i class="fas fa-user"></i> Login
                   </button>
-                  <div class="dropdown-menu p-3" style="min-width: 250px;">
+                  <div class="dropdown-menu p-3" style="min-width: 350px; max-height: 500px; overflow-y: auto;">
                     <div class="mb-3">
-                      <input type="text" id="username-input" class="form-control" placeholder="Username" aria-label="Username">
+                      <label for="username-input" class="form-label text-light">Username:</label>
+                      <input type="text" id="username-input" class="form-control" placeholder="Enter your username" aria-label="Username">
                     </div>
-                    <button id="login-button" class="btn btn-outline-light w-100">Login</button>
+                    <div class="mb-3">
+                      <p class="text-light mb-2">What are your favorite genres?</p>
+                      <div id="login-genre-preferences" class="login-genre-checkboxes">
+                        <!-- Genre checkboxes will be populated here -->
+                      </div>
+                    </div>
+                    <button id="login-button" class="btn btn-outline-light w-100 mt-3">Login</button>
                   </div>
                 </div>
               </div>
@@ -268,9 +571,19 @@
                   <button class="btn dropdown-toggle" type="button" id="userDropdownButton" data-bs-toggle="dropdown" aria-expanded="false">
                     <i class="fas fa-user"></i> <span id="display-username"></span>
                   </button>
-                  <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="userDropdownButton">
-                    <li><button class="dropdown-item" id="logout-button">Logout</button></li>
-                  </ul>
+                  <div class="dropdown-menu dropdown-menu-end p-3" style="min-width: 350px; max-height: 500px; overflow-y: auto;">
+                    <h6 class="dropdown-header">User Preferences</h6>
+                    <div class="mb-3">
+                      <p class="text-light mb-2">Your Favorite Genres:</p>
+                      <div id="user-genre-preferences" class="login-genre-checkboxes">
+                        <!-- User genre preferences will be populated here -->
+                      </div>
+                    </div>
+                    <div class="d-flex justify-content-between mt-3">
+                      <button id="save-preferences-button" class="btn btn-outline-light">Save Preferences</button>
+                      <button id="logout-button" class="btn btn-outline-danger">Logout</button>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -315,33 +628,27 @@
     
     <!-- About Modal -->
     <div class="modal fade" id="aboutModal" tabindex="-1" aria-labelledby="aboutModalLabel" aria-hidden="true">
-      <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-dialog modal-dialog-centered modal-xl">
         <div class="modal-content">
           <div class="modal-header">
             <h5 class="modal-title" id="aboutModalLabel">about scrap<sup>er</sup></h5>
             <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p><strong>scrap<sup>er</sup></strong> is a concert tracking application that aggregates event information from various venues.</p>
+            <p><strong>scrap<sup>er</sup></strong> is a concert tracking application that aggregates event information.</p>
             
             <h6>Features:</h6>
             <ul>
-              <li>Filter events by genre categories</li>
-              <li>Mark events you're interested in with the skull button</li>
-              <li>View venue-specific events</li>
-              <li>See newly added events marked with an asterisk (*)</li>
-              <li>Access ticket links directly from the interface</li>
-              <li>Login with just a username to save your selected shows</li>
+              <li>Filter events by genre and/or venue</li>
+              <li>Login with username and favorite genres</li>
+              <li>Mark events you're interested in using the skull icon</li>
               <li>Toggle between "All Shows" and "My Shows" views</li>
             </ul>
             
-            <h6>User Account:</h6>
-            <p>Simply enter a username to log in. Your selected shows will be saved to your browser and will persist between visits.</p>
-            
             <h6>Genre Classification System:</h6>
-            <p>Events are organized into broad genre categories for easy filtering. Our system maps specific styles to top-level genres:</p>
+            <p>Events are organized into genres. The classification system analyzes artist metadata from multiple sources to determine appropriate categorization. Artist style information is collected from AllMusic's genre taxonomy, Bandcamp tags, and Spotify's artist categorization to create a comprehensive genre mapping.</p>
             
-            <div class="genre-mapping">
+            <div>
               <ul>
                 <li><strong>Metal:</strong> Grindcore, Heavy Metal, Death Metal, Black Metal, Thrash, Doom Metal, Power Metal, Progressive Metal, Metalcore, Sludge Metal, Nu-Metal, Groove Metal, Technical Death Metal, Symphonic Metal, Folk-Metal, Gothic Metal, Industrial Metal</li>
                 <li><strong>Punk:</strong> Hardcore Punk, Pop-Punk, Skate Punk, Crust Punk, D-beat, Anarcho-Punk, Oi!, Street Punk, Post-Punk, Proto-Punk, Garage Punk</li>
@@ -353,8 +660,6 @@
                 <li><strong>Parties:</strong> Special events, showcases, raves, and other non-traditional music events</li>
               </ul>
             </div>
-            
-            <p>Events are also categorized as "NOISE" (Metal, Punk, etc.) and "NOT NOISE" (Pop, Folk, etc.) for quick filtering.</p>
             
             <h6>Data Updates:</h6>
             <p>The data is automatically refreshed every 5 minutes, or you can manually update using the "Update" button.</p>
@@ -389,5 +694,17 @@
   
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
   <script src="app.js"></script>
+  <!-- Service worker registration for PWA -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function() {
+        navigator.serviceWorker.register('/service-worker.js').then(function(registration) {
+          console.log('ServiceWorker registration successful');
+        }, function(err) {
+          console.log('ServiceWorker registration failed: ', err);
+        });
+      });
+    }
+  </script>
 </body>
 </html> 

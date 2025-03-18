@@ -34,6 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let userSelectedEvents = new Set(); // Store user's selected events
   let showingUserEvents = false; // Flag to track which view is active
   let venueFilterActive = false; // Flag to track if venue filtering is active
+  let userGenrePreferences = []; // Store user's genre preferences
   
   // Genres to filter out by default
   const defaultFilteredOutGenres = ['Rock', 'Jazz', 'World', 'Classical', 'Country', 'Alternative', 'Hip-Hop', 'Soul', 'R&B', 'Parties', 'Folk', 'Pop', 'Reggae'];
@@ -75,10 +76,83 @@ document.addEventListener('DOMContentLoaded', () => {
       loginUser(savedUser);
     }
     
+    // Prevent dropdown from closing when clicking inside it
+    document.querySelector('.dropdown-menu.p-3').addEventListener('click', function(e) {
+      // Only prevent closing if clicking on a genre checkbox
+      if (e.target.classList.contains('login-genre-checkbox') || 
+          e.target.closest('.login-genre-checkbox')) {
+        e.stopPropagation();
+      }
+    });
+    
+    // Add an event listener to user dropdown to populate genre preferences
+    document.getElementById('userDropdownButton').addEventListener('click', function(e) {
+      // Populate the user's genre preferences in the dropdown
+      updateUserGenrePreferencesDropdown();
+    });
+    
+    // Populate the login genre preferences once the genres are available
+    function populateLoginGenrePreferences(genres) {
+      const container = document.getElementById('login-genre-preferences');
+      if (!container) return;
+      
+      container.innerHTML = '';
+      
+      // Get all genres and sort them alphabetically except "Other" at the end
+      const sortedGenres = [...genres].sort((a, b) => {
+        // Skip "Unknown" genre
+        if (a === 'Unknown' || b === 'Unknown') return 0;
+        
+        // Keep "Other" at the end
+        if (a === 'Other') return 1;
+        if (b === 'Other') return -1;
+        return a.localeCompare(b);
+      });
+      
+      // Create a checkbox for each genre
+      sortedGenres.forEach(genre => {
+        // Skip Unknown and Industrial genres
+        if (genre === 'Unknown' || genre === 'Industrial') return;
+        
+        // Rename "Electronic" to "Electro"
+        const displayGenre = genre === 'Electronic' ? 'Electro' : genre;
+        
+        const label = document.createElement('label');
+        label.className = 'login-genre-checkbox';
+        
+        const input = document.createElement('input');
+        input.type = 'checkbox';
+        input.dataset.genre = genre;
+        
+        label.appendChild(input);
+        label.appendChild(document.createTextNode(displayGenre));
+        
+        // Add click event to toggle active class
+        label.addEventListener('click', function(e) {
+          e.preventDefault();
+          e.stopPropagation(); // Prevent event from bubbling up
+          this.classList.toggle('active');
+          input.checked = !input.checked;
+        });
+        
+        container.appendChild(label);
+      });
+    }
+    
     // Login button click handler
     loginButton.addEventListener('click', () => {
       const username = usernameInput.value.trim();
       if (username) {
+        // Get selected genre preferences
+        const selectedGenres = Array.from(document.querySelectorAll('.login-genre-checkbox.active'))
+          .map(label => label.querySelector('input').dataset.genre);
+        
+        // Store genre preferences
+        userGenrePreferences = selectedGenres;
+        
+        // Save to localStorage
+        localStorage.setItem(`genrePreferences_${username}`, JSON.stringify(selectedGenres));
+        
         loginUser(username);
       }
     });
@@ -88,7 +162,8 @@ document.addEventListener('DOMContentLoaded', () => {
       if (e.key === 'Enter') {
         const username = usernameInput.value.trim();
         if (username) {
-          loginUser(username);
+          // Trigger the login button click to handle genre preferences
+          loginButton.click();
         }
       }
     });
@@ -102,6 +177,9 @@ document.addEventListener('DOMContentLoaded', () => {
     toggleViewButton.addEventListener('click', () => {
       toggleEventView();
     });
+    
+    // Make the populateLoginGenrePreferences function accessible
+    window.populateLoginGenrePreferences = populateLoginGenrePreferences;
   }
   
   // Login user
@@ -118,22 +196,71 @@ document.addEventListener('DOMContentLoaded', () => {
     // Load user's selected events
     loadUserSelectedEvents();
     
+    // Load user's genre preferences
+    loadUserGenrePreferences();
+    
+    // Apply filters according to user's genre preferences
+    applyUserGenrePreferences();
+    
     // Apply filters and render events
     applyFiltersAndSearch();
   }
   
+  // Load user's genre preferences from localStorage
+  function loadUserGenrePreferences() {
+    if (!currentUser) return;
+    
+    const savedPreferences = localStorage.getItem(`genrePreferences_${currentUser}`);
+    if (savedPreferences) {
+      userGenrePreferences = JSON.parse(savedPreferences);
+    } else {
+      userGenrePreferences = [];
+    }
+  }
+  
+  // Apply user's genre preferences to the genre checkboxes
+  function applyUserGenrePreferences() {
+    if (!userGenrePreferences || userGenrePreferences.length === 0) return;
+    
+    // Uncheck "All Genres"
+    const allGenresCheckbox = document.getElementById('genre-All-Genres');
+    if (allGenresCheckbox) {
+      allGenresCheckbox.checked = false;
+      allGenresCheckbox.closest('label')?.classList.remove('active');
+    }
+    
+    // Check the genres that the user prefers
+    userGenrePreferences.forEach(genre => {
+      const genreCheckbox = document.getElementById(`genre-${genre.replace(/\s+/g, '-')}`);
+      if (genreCheckbox) {
+        genreCheckbox.checked = true;
+        genreCheckbox.closest('label')?.classList.add('active');
+      }
+    });
+  }
+  
   // Logout user
   function logoutUser() {
+    // Save the current user's selected events before logging out
+    if (currentUser) {
+      saveUserSelectedEvents();
+      
+      // Save the user's current genre preferences before logging out
+      saveUserGenrePreferences();
+    }
+    
     currentUser = null;
     localStorage.removeItem('currentUser');
+    
+    // Reset genre filters to default (All Genres)
+    resetGenreFilters();
     
     // Update UI
     loginForm.classList.remove('d-none');
     userInfo.classList.add('d-none');
     viewToggle.classList.add('d-none');
-    usernameInput.value = '';
     
-    // Reset to all events view
+    // Reset to showing all events
     showingUserEvents = false;
     updateToggleButtonText();
     
@@ -470,6 +597,11 @@ document.addEventListener('DOMContentLoaded', () => {
       // Populate genre checkboxes
       populateGenreCheckboxes(allGenres);
       
+      // Also populate login genre preferences
+      if (window.populateLoginGenrePreferences) {
+        window.populateLoginGenrePreferences(allGenres);
+      }
+      
       // Populate venues dropdown
       populateVenuesDropdown();
       
@@ -750,555 +882,211 @@ document.addEventListener('DOMContentLoaded', () => {
   
   // Populate genre checkboxes
   function populateGenreCheckboxes(genres) {
-    genreCheckboxesContainer.innerHTML = '';
+    const container = document.getElementById('genre-checkboxes');
+    container.innerHTML = '';
     
-    // Sort genres alphabetically
-    const sortedGenres = Array.from(genres).sort();
+    // Get all genres and sort them alphabetically
+    const sortedGenres = [...genres].sort((a, b) => {
+      // Keep "Other" at the end
+      if (a === 'Other') return 1;
+      if (b === 'Other') return -1;
+      return a.localeCompare(b);
+    });
     
-    // Filter out "Unknown" genre
-    const filteredGenres = sortedGenres.filter(genre => genre !== 'Unknown');
+    // Create a single row for all genre buttons
+    const genresDiv = document.createElement('div');
+    genresDiv.className = 'genre-section';
+    genresDiv.style.display = 'flex';
+    genresDiv.style.flexWrap = 'wrap';
+    genresDiv.style.gap = '8px';
+    genresDiv.style.justifyContent = 'space-between'; // Change to space-between for equal spacing
+    genresDiv.style.alignItems = 'center';
+    genresDiv.style.width = '100%';
     
-    // Create container for left side (default genres)
-    const leftContainer = document.createElement('div');
-    leftContainer.className = 'genre-left-container';
+    // Create "All Genres" button first
+    const allGenresLabel = document.createElement('label');
+    allGenresLabel.className = 'genre-checkbox btn all-genres-button';
     
-    // Add header for left container
-    const leftHeader = document.createElement('div');
-    leftHeader.className = 'genre-header';
-    leftHeader.textContent = 'NOISE';
-    leftContainer.appendChild(leftHeader);
+    const allGenresInput = document.createElement('input');
+    allGenresInput.type = 'checkbox';
+    allGenresInput.id = 'genre-All-Genres';
+    allGenresInput.value = 'All Genres';
+    allGenresInput.className = 'btn-check';
     
-    // Create container for left genres
-    const leftGenresContainer = document.createElement('div');
-    leftGenresContainer.className = 'genre-items-container';
-    leftContainer.appendChild(leftGenresContainer);
+    // Only check "All Genres" by default if no user is logged in
+    // or the user doesn't have saved preferences
+    const shouldCheckAllGenres = !currentUser || 
+                              (currentUser && (!userGenrePreferences || userGenrePreferences.length === 0));
+    allGenresInput.checked = shouldCheckAllGenres;
     
-    // Create container for right side (other genres)
-    const rightContainer = document.createElement('div');
-    rightContainer.className = 'genre-right-container';
+    allGenresLabel.appendChild(allGenresInput);
+    allGenresLabel.appendChild(document.createTextNode('All Genres'));
+    allGenresLabel.setAttribute('for', 'genre-All-Genres');
     
-    // Add header for right container
-    const rightHeader = document.createElement('div');
-    rightHeader.className = 'genre-header';
-    rightHeader.textContent = 'NOT NOISE';
-    rightContainer.appendChild(rightHeader);
-    
-    // Create container for right genres
-    const rightGenresContainer = document.createElement('div');
-    rightGenresContainer.className = 'genre-items-container';
-    rightContainer.appendChild(rightGenresContainer);
-    
-    // Default genres to show on the left
-    const defaultGenres = ['Electronic', 'Metal', 'Punk'];
-    
-    // Create a set to track which genres we've already processed
-    const processedGenres = new Set();
-    
-    // Add "Other" category for combined genres
-    const otherLabel = document.createElement('label');
-    otherLabel.className = 'genre-checkbox-label';
-    
-    const otherCheckbox = document.createElement('input');
-    otherCheckbox.type = 'checkbox';
-    otherCheckbox.value = 'Other';
-    otherCheckbox.className = 'genre-checkbox';
-    
-    // Check if any of the combined genres should be checked by default
-    const shouldCheckOther = otherGenres.some(genre => !defaultFilteredOutGenres.includes(genre));
-    otherCheckbox.checked = shouldCheckOther;
-    
-    if (shouldCheckOther) {
-      otherLabel.classList.add('active');
-      // Add all the combined genres to selected genres
-      otherGenres.forEach(genre => {
-        if (!defaultFilteredOutGenres.includes(genre)) {
-          selectedGenres.add(genre);
-        }
-      });
+    // Apply active class to match the checked state
+    if (allGenresInput.checked) {
+      allGenresLabel.classList.add('active');
     }
     
-    otherLabel.appendChild(otherCheckbox);
-    otherLabel.appendChild(document.createTextNode('Other'));
+    genresDiv.appendChild(allGenresLabel);
     
-    // Create dropdown container for Other genres
-    const otherDropdown = document.createElement('div');
-    otherDropdown.className = 'other-dropdown';
-    otherDropdown.style.display = 'none';
+    // Add a separator after All Genres
+    const separator = document.createElement('div');
+    separator.className = 'genre-separator';
+    separator.innerHTML = '|';
+    separator.style.color = '#555';
+    separator.style.margin = '0 4px';
+    separator.style.height = '34px'; // Match the height of genre buttons
+    separator.style.lineHeight = '34px'; // Vertically center the pipe
+    separator.style.display = 'flex';
+    separator.style.alignItems = 'center';
+    genresDiv.appendChild(separator);
     
-    // Create dropdown items for each genre in otherGenres
-    otherGenres.sort().forEach(genre => {
-      const dropdownItem = document.createElement('div');
-      dropdownItem.className = 'other-dropdown-item';
+    // Create a wrapper for all other genre buttons to ensure even spacing
+    const otherGenresWrapper = document.createElement('div');
+    otherGenresWrapper.style.display = 'flex';
+    otherGenresWrapper.style.flexWrap = 'wrap';
+    otherGenresWrapper.style.gap = '8px';
+    otherGenresWrapper.style.flex = '1';
+    otherGenresWrapper.style.justifyContent = 'space-between';
+    
+    // Add the rest of the genre buttons
+    sortedGenres.forEach(genre => {
+      // Skip Unknown and Industrial genres
+      if (genre === 'Unknown' || genre === 'Industrial') return;
       
-      const itemCheckbox = document.createElement('input');
-      itemCheckbox.type = 'checkbox';
-      itemCheckbox.value = genre;
-      itemCheckbox.className = 'other-genre-checkbox';
-      itemCheckbox.checked = selectedGenres.has(genre);
+      // Rename "Electronic" to "Electro"
+      const displayGenre = genre === 'Electronic' ? 'Electro' : genre;
       
-      if (selectedGenres.has(genre)) {
-        dropdownItem.classList.add('active');
-      }
-      
-      dropdownItem.appendChild(itemCheckbox);
-      dropdownItem.appendChild(document.createTextNode(genre));
-      
-      // Add event listener to update filters when checkbox is clicked
-      itemCheckbox.addEventListener('change', function() {
-        if (this.checked) {
-          selectedGenres.add(genre);
-          dropdownItem.classList.add('active');
-        } else {
-          selectedGenres.delete(genre);
-          dropdownItem.classList.remove('active');
-        }
-        
-        // Update the main "Other" checkbox based on whether any sub-genres are selected
-        const anySelected = otherGenres.some(g => selectedGenres.has(g));
-        otherCheckbox.checked = anySelected;
-        if (anySelected) {
-          otherLabel.classList.add('active');
-        } else {
-          otherLabel.classList.remove('active');
-        }
-        
-        applyFiltersAndSearch();
-      });
-      
-      otherDropdown.appendChild(dropdownItem);
-    });
-    
-    // Create a container for the Other label and dropdown
-    const otherContainer = document.createElement('div');
-    otherContainer.className = 'other-container';
-    otherContainer.appendChild(otherLabel);
-    otherContainer.appendChild(otherDropdown);
-    
-    // Add event listener for the "Other" checkbox
-    otherCheckbox.addEventListener('change', function() {
-      if (this.checked) {
-        otherLabel.classList.add('active');
-        // Add all the combined genres to selected genres
-        otherGenres.forEach(genre => selectedGenres.add(genre));
-        
-        // Update all dropdown item checkboxes
-        otherDropdown.querySelectorAll('.other-genre-checkbox').forEach(checkbox => {
-          checkbox.checked = true;
-          checkbox.parentElement.classList.add('active');
-        });
-      } else {
-        otherLabel.classList.remove('active');
-        // Remove all the combined genres from selected genres
-        otherGenres.forEach(genre => selectedGenres.delete(genre));
-        
-        // Update all dropdown item checkboxes
-        otherDropdown.querySelectorAll('.other-genre-checkbox').forEach(checkbox => {
-          checkbox.checked = false;
-          checkbox.parentElement.classList.remove('active');
-        });
-      }
-      applyFiltersAndSearch();
-    });
-    
-    // Toggle dropdown when clicking on the Other label
-    otherLabel.addEventListener('click', function(e) {
-      // Prevent the checkbox from being toggled when clicking the label
-      if (e.target !== otherCheckbox) {
-        e.preventDefault();
-        
-        // Toggle dropdown visibility
-        if (otherDropdown.style.display === 'none') {
-          otherDropdown.style.display = 'block';
-          
-          // Add click event to document to close dropdown when clicking outside
-          setTimeout(() => {
-            document.addEventListener('click', closeOtherDropdown);
-          }, 0);
-        } else {
-          otherDropdown.style.display = 'none';
-          document.removeEventListener('click', closeOtherDropdown);
-        }
-      }
-    });
-    
-    // Function to close dropdown when clicking outside
-    function closeOtherDropdown(e) {
-      if (!otherContainer.contains(e.target)) {
-        otherDropdown.style.display = 'none';
-        document.removeEventListener('click', closeOtherDropdown);
-      }
-    }
-    
-    // Mark all the combined genres as processed
-    otherGenres.forEach(genre => processedGenres.add(genre));
-    
-    // Collect genres for left and right containers
-    const leftGenres = [];
-    const rightGenres = [];
-    
-    // Process each genre
-    filteredGenres.forEach(genre => {
-      // Skip genres that are part of the "Other" category
-      if (processedGenres.has(genre)) {
-        return;
-      }
-      
-      // Skip Industrial (it's a sub-genre of Electronic) and Country (it should be in Other)
-      if (genre === 'Industrial' || genre === 'Country') {
-        return;
-      }
-      
-      // Add to appropriate array
-      if (defaultGenres.includes(genre)) {
-        leftGenres.push(genre);
-      } else {
-        rightGenres.push(genre);
-      }
-    });
-    
-    // Sort the left genres alphabetically
-    leftGenres.sort();
-    
-    // Create and add left genre buttons
-    leftGenres.forEach(genre => {
-      const label = createGenreLabel(genre);
-      leftGenresContainer.appendChild(label);
-    });
-    
-    // Define the specific order for right genres
-    const rightGenreOrder = ['Alternative', 'Hip-Hop', 'Parties', 'Pop', 'Rock'];
-    
-    // Create a map to store the genre labels
-    const rightGenreLabels = {};
-    
-    // Create labels for all right genres
-    rightGenres.forEach(genre => {
-      rightGenreLabels[genre] = createGenreLabel(genre);
-    });
-    
-    // Add genres in the specified order
-    rightGenreOrder.forEach(genre => {
-      if (rightGenreLabels[genre]) {
-        rightGenresContainer.appendChild(rightGenreLabels[genre]);
-        delete rightGenreLabels[genre]; // Remove from map to avoid duplication
-      }
-    });
-    
-    // Add any remaining genres that weren't in the specified order (in alphabetical order)
-    const remainingGenres = Object.keys(rightGenreLabels).sort();
-    remainingGenres.forEach(genre => {
-      rightGenresContainer.appendChild(rightGenreLabels[genre]);
-    });
-    
-    // Add "Other" label at the end
-    rightGenresContainer.appendChild(otherContainer);
-    
-    // Helper function to create a genre label
-    function createGenreLabel(genre) {
       const label = document.createElement('label');
-      label.className = 'genre-checkbox-label';
+      label.className = 'genre-checkbox btn';
       
-      const checkbox = document.createElement('input');
-      checkbox.type = 'checkbox';
-      checkbox.value = genre;
-      checkbox.className = 'genre-checkbox';
+      const input = document.createElement('input');
+      input.type = 'checkbox';
+      input.id = `genre-${genre.replace(/\s+/g, '-')}`;
+      input.value = genre;
+      input.className = 'btn-check';
       
-      // Check if this genre should be selected by default
-      const shouldBeChecked = !defaultFilteredOutGenres.includes(genre);
-      checkbox.checked = shouldBeChecked;
-      
-      if (shouldBeChecked) {
-        selectedGenres.add(genre);
+      // Check if this genre is in user preferences
+      if (currentUser && userGenrePreferences && userGenrePreferences.includes(genre)) {
+        input.checked = true;
         label.classList.add('active');
-      } else {
-        // Ensure the genre is removed from selectedGenres if it's in defaultFilteredOutGenres
-        selectedGenres.delete(genre);
-        label.classList.remove('active');
       }
       
-      label.appendChild(checkbox);
-      label.appendChild(document.createTextNode(genre));
+      label.appendChild(input);
+      label.appendChild(document.createTextNode(displayGenre));
+      label.setAttribute('for', `genre-${genre.replace(/\s+/g, '-')}`);
       
-      // Add event listener to update filters when checkbox is clicked
+      otherGenresWrapper.appendChild(label);
+    });
+    
+    genresDiv.appendChild(otherGenresWrapper);
+    container.appendChild(genresDiv);
+    
+    // Add event listeners for all checkboxes
+    const checkboxes = document.querySelectorAll('.genre-checkbox input');
+    checkboxes.forEach(checkbox => {
+      // Update the active class when the checkbox is clicked
       checkbox.addEventListener('change', function() {
+        // Update the active class based on the checked state
+        const label = this.closest('label');
         if (this.checked) {
-          selectedGenres.add(genre);
           label.classList.add('active');
         } else {
-          selectedGenres.delete(genre);
           label.classList.remove('active');
         }
+        
+        if (this.id === 'genre-All-Genres') {
+          // If "All Genres" is selected, uncheck all other genres
+          checkboxes.forEach(cb => {
+            if (cb.id !== 'genre-All-Genres') {
+              cb.checked = false;
+              cb.closest('label').classList.remove('active');
+            }
+          });
+        } else {
+          // If any other genre is selected, uncheck "All Genres"
+          const allGenresCheckbox = document.getElementById('genre-All-Genres');
+          if (allGenresCheckbox) {
+            allGenresCheckbox.checked = false;
+            allGenresCheckbox.closest('label').classList.remove('active');
+          }
+        }
+        
+        // Save genre preferences if user is logged in
+        if (currentUser) {
+          saveUserGenrePreferences();
+        }
+        
         applyFiltersAndSearch();
       });
-      
-      return label;
-    }
-    
-    // Add containers to main container
-    genreCheckboxesContainer.appendChild(leftContainer);
-    genreCheckboxesContainer.appendChild(rightContainer);
-    
-    // Add CSS for the new layout
-    const style = document.createElement('style');
-    style.textContent = `
-      .genre-checkboxes-container {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        width: 100%;
-        margin-bottom: 30px;
-        flex-wrap: nowrap;
-      }
-      .genre-left-container, .genre-right-container {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        width: 45%;
-        margin-top: -5px;
-      }
-      .genre-items-container {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: center;
-        width: 100%;
-        margin-bottom: 10px;
-      }
-      /* Ensure right container buttons fit on one line */
-      .genre-right-container .genre-items-container {
-        flex-wrap: nowrap;
-        justify-content: space-between;
-      }
-      .genre-right-container .genre-checkbox-label {
-        font-size: 0.9rem;
-        padding: 4px 6px;
-        white-space: nowrap;
-      }
-      .genre-header {
-        font-weight: bold;
-        margin-bottom: 5px;
-        font-size: 0.9rem;
-        color: #aaa;
-        text-transform: uppercase;
-        letter-spacing: 1px;
-        width: 100%;
-        text-align: center;
-      }
-      .genre-checkbox-label {
-        margin: 3px;
-        padding: 4px 8px;
-        border-radius: 15px;
-        transition: all 0.2s ease;
-        cursor: pointer;
-        display: inline-block;
-        background-color: transparent;
-        color: #ccc;
-      }
-      
-      /* All genre buttons (both left and right) */
-      .genre-checkbox-label {
-        background-color: transparent;
-        color: #ccc;
-        border: none;
-      }
-      
-      .genre-checkbox-label.active {
-        background-color: #ccc;
-        color: #000;
-        border: 1px solid #ccc;
-      }
-      
-      .genre-checkbox-label:hover {
-        opacity: 0.8;
-      }
-      
-      .genre-checkbox {
-        display: none;
-      }
-      
-      /* Other dropdown styles */
-      .other-container {
-        position: relative;
-        display: inline-block;
-      }
-      
-      .other-dropdown {
-        position: absolute;
-        top: 100%;
-        left: 0;
-        z-index: 1000;
-        min-width: 150px;
-        margin-top: 5px;
-        background-color: #111;
-        border: 1px solid #333;
-        border-radius: 5px;
-        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
-        padding: 5px 0;
-      }
-      
-      .other-dropdown-item {
-        padding: 6px 12px;
-        cursor: pointer;
-        transition: all 0.2s ease;
-        display: flex;
-        align-items: center;
-        color: #ccc;
-        font-size: 0.9rem;
-      }
-      
-      .other-dropdown-item:hover {
-        background-color: #222;
-      }
-      
-      .other-dropdown-item.active {
-        color: #fff;
-        font-weight: 500;
-      }
-      
-      .other-genre-checkbox {
-        margin-right: 8px;
-        appearance: none;
-        -webkit-appearance: none;
-        width: 14px;
-        height: 14px;
-        border: 1px solid #555;
-        border-radius: 3px;
-        background-color: transparent;
-        position: relative;
-        cursor: pointer;
-      }
-      
-      .other-genre-checkbox:checked {
-        background-color: #ccc;
-        border-color: #ccc;
-      }
-      
-      .other-genre-checkbox:checked:after {
-        content: '';
-        position: absolute;
-        left: 4px;
-        top: 1px;
-        width: 4px;
-        height: 8px;
-        border: solid #000;
-        border-width: 0 2px 2px 0;
-        transform: rotate(45deg);
-      }
-      
-      /* Going button and highlighted row styles */
-      .going-btn {
-        background: none;
-        border: none;
-        cursor: pointer;
-        color: #666;
-        transition: color 0.2s ease;
-        padding: 5px;
-        outline: none;
-      }
-      
-      .going-btn:hover {
-        color: #000;
-      }
-      
-      .going-btn.active-skull {
-        color: #ff3333;
-      }
-      
-      .going-row .event-date,
-      .going-row .event-artist,
-      .going-row .event-venue,
-      .going-row .event-genre-cell {
-        color: #ff3333 !important;
-      }
-      
-      .going-row .event-openers {
-        color: #ff6666 !important;
-      }
-      
-      .going-row .tickets-link {
-        color: #ff3333 !important;
-      }
-      
-      .new-indicator {
-        color: #ff5252;
-        font-weight: bold;
-        margin-left: 5px;
-      }
-      
-      /* Spotify link styles */
-      .spotify-link {
-        color: #1DB954; /* Spotify green */
-        font-size: 1.2em;
-        transition: all 0.2s ease;
-      }
-      
-      .spotify-link:hover {
-        color: #1ED760; /* Lighter Spotify green */
-        transform: scale(1.2);
-      }
-    `;
-    document.head.appendChild(style);
+    });
   }
   
   // Apply filters and search to events
   function applyFiltersAndSearch() {
-    // If no genres are selected, show no events
-    if (selectedGenres.size === 0) {
-      filteredEvents = [];
-      renderEvents();
-      return;
-    }
+    // Get selected genres
+    const selectedGenres = Array.from(document.querySelectorAll('.genre-checkbox input:checked'))
+      .map(checkbox => checkbox.value);
     
-    // Filter events based on selected genres
-    let genreFilteredEvents = allEvents.filter(event => {
-      // Special case: If only Metal is selected, exclude "The Rocket Summer" event
-      if (selectedGenres.size === 1 && selectedGenres.has('Metal') && 
-          event.name && event.name.includes('Rocket Summer')) {
+    // Check if "All Genres" is selected
+    const allGenresSelected = selectedGenres.includes('All Genres');
+    
+    // Get current date (start of day) for filtering past events
+    const currentDate = new Date();
+    currentDate.setHours(0, 0, 0, 0);
+    
+    // Filter events by genre, search term, and date (remove past events)
+    const filteredEvents = allEvents.filter(event => {
+      // Filter out past events
+      const eventDate = new Date(event.date);
+      eventDate.setHours(0, 0, 0, 0);
+      if (eventDate < currentDate) {
         return false;
       }
       
-      // Check if primary genre is in selected genres
-      if (selectedGenres.has(event.primaryGenre)) {
+      // If "All Genres" is selected, include all events regardless of genre
+      if (allGenresSelected) {
         return true;
       }
       
-      // Check if style is in selected genres
-      if (event.style && selectedGenres.has(event.style)) {
+      // If no genres are selected, show no events
+      if (selectedGenres.length === 0) {
+        return false;
+      }
+      
+      // Map Industrial to Electronic
+      if (event.primaryGenre === 'Industrial' && selectedGenres.includes('Electronic')) {
         return true;
       }
       
-      // Special case: If Industrial style and Electronic is selected
-      if (event.style === 'Industrial' && selectedGenres.has('Electronic')) {
+      if (event.style === 'Industrial' && selectedGenres.includes('Electronic')) {
         return true;
       }
       
-      // Check if any of the other genres are in selected genres
-      if (event.otherGenres && Array.isArray(event.otherGenres)) {
-        for (const genre of event.otherGenres) {
-          if (selectedGenres.has(genre)) {
-            return true;
-          }
-        }
-      }
-      
-      return false;
+      // Check if the event's genre is in the selected genres
+      return selectedGenres.includes(event.primaryGenre) || 
+             (event.style && selectedGenres.includes(event.style)) ||
+             (event.otherGenres && event.otherGenres.some(g => selectedGenres.includes(g)));
     });
     
     // Apply venue filtering if active
+    let finalFilteredEvents = filteredEvents;
     if (venueFilterActive && selectedVenues.size > 0) {
-      genreFilteredEvents = genreFilteredEvents.filter(event => 
+      finalFilteredEvents = finalFilteredEvents.filter(event => 
         selectedVenues.has(event.normalizedVenue || event.venue)
       );
     }
     
     // If showing user events, filter to only include selected events
     if (showingUserEvents && currentUser) {
-      filteredEvents = genreFilteredEvents.filter(event => userSelectedEvents.has(event.id));
-    } else {
-      filteredEvents = genreFilteredEvents;
+      finalFilteredEvents = finalFilteredEvents.filter(event => 
+        isEventSelected(generateEventId(event))
+      );
     }
     
-    renderEvents();
+    // Render the filtered events
+    renderEvents(finalFilteredEvents);
   }
   
   // Check if an event is new (added within the last 7 days)
@@ -1508,10 +1296,10 @@ document.addEventListener('DOMContentLoaded', () => {
   }
   
   // Function to render events
-  function renderEvents() {
+  function renderEvents(events) {
     eventsContainer.innerHTML = '';
     
-    if (filteredEvents.length === 0) {
+    if (events.length === 0) {
       showNoEvents();
       return;
     }
@@ -1520,29 +1308,29 @@ document.addEventListener('DOMContentLoaded', () => {
     hideNoEvents();
     
     // Sort events by date
-    filteredEvents.sort((a, b) => new Date(a.date) - new Date(b.date));
+    events.sort((a, b) => new Date(a.date) - new Date(b.date));
     
-    // Create table structure
+    // Create table with responsive columns
     const table = document.createElement('table');
-    table.className = 'table table-hover';
-    
-    // Create table header
-    const thead = document.createElement('thead');
-    thead.innerHTML = `
-      <tr>
-        <th>Date</th>
-        <th><i class="fas fa-skull"></i></th>
-        <th>Artist</th>
-        <th>Venue</th>
-        <th>Genre</th>
-        <th>Link</th>
-        <th>Spotify</th>
-      </tr>
+    table.className = 'table table-dark table-hover';
+    table.innerHTML = `
+      <thead>
+        <tr>
+          <th style="width: 8%;">DATE</th>
+          <th style="width: 8%;" class="text-center">GOING</th>
+          <th style="width: 36%;">ARTIST</th>
+          <th style="width: 23%;">VENUE</th>
+          <th style="width: 13%;">GENRE</th>
+          <th style="width: 7%;" class="text-center">EVENT</th>
+          <th style="width: 5%;" class="text-center">BAND</th>
+        </tr>
+      </thead>
+      <tbody id="events-table-body">
+      </tbody>
     `;
-    table.appendChild(thead);
     
     // Create table body
-    const tbody = document.createElement('tbody');
+    const tbody = table.querySelector('tbody');
     
     // Map of known artist Spotify IDs - COMPREHENSIVE LIST
     const knownArtistIds = {
@@ -1832,7 +1620,7 @@ document.addEventListener('DOMContentLoaded', () => {
     };
     
     // Render each event row
-    filteredEvents.forEach(event => {
+    events.forEach(event => {
       // Use the simple parsing function
       const { mainArtist, openers } = parseArtists(event.name, event.performers, event);
       
@@ -1918,7 +1706,11 @@ document.addEventListener('DOMContentLoaded', () => {
       // Create HTML for the event row
       tr.innerHTML = `
         <td class="event-date">${formattedDate}</td>
-        <td><button class="going-btn ${isEventSelected(event.id) ? 'active-skull' : ''}" type="button"><i class="fas fa-skull"></i></button></td>
+        <td class="text-center">
+          <button class="going-btn ${isEventSelected(event.id) ? 'active-skull' : ''}" type="button">
+            <i class="fas fa-skull"></i>
+          </button>
+        </td>
         <td>
           <div class="event-artist">${mainArtist}${isNew ? ' <span class="new-indicator">*</span>' : ''}</div>
           ${openers ? `<div class="event-openers">${openers.startsWith('with ') ? openers.substring(5) : openers}</div>` : ''}
@@ -2022,9 +1814,11 @@ document.addEventListener('DOMContentLoaded', () => {
     return date.toLocaleDateString('en-US', options);
   }
   
+  // Function to format last updated time to show only hours and minutes
   function formatLastUpdated(date) {
-    const options = { day: 'numeric', month: 'numeric' };
-    return date.toLocaleDateString('en-US', options);
+    const d = new Date(date);
+    // Format time as HH:MM (24-hour format)
+    return `${d.getHours().toString().padStart(2, '0')}:${d.getMinutes().toString().padStart(2, '0')}`;
   }
   
   function formatDateTime(date) {
@@ -2049,4 +1843,121 @@ document.addEventListener('DOMContentLoaded', () => {
   
   // Auto-refresh every 5 minutes
   setInterval(fetchEvents, 5 * 60 * 1000);
+  
+  // Save user's genre preferences to localStorage
+  function saveUserGenrePreferences() {
+    if (!currentUser) return;
+    
+    // Get currently selected genres from the filter buttons
+    const selectedGenres = Array.from(document.querySelectorAll('.genre-checkbox input:checked'))
+      .map(checkbox => checkbox.value);
+    
+    // Store in localStorage
+    localStorage.setItem(`genrePreferences_${currentUser}`, JSON.stringify(selectedGenres));
+  }
+  
+  // Reset genre filters to default (All Genres)
+  function resetGenreFilters() {
+    // Check the All Genres checkbox
+    const allGenresCheckbox = document.getElementById('genre-All-Genres');
+    if (allGenresCheckbox) {
+      allGenresCheckbox.checked = true;
+      allGenresCheckbox.closest('label')?.classList.add('active');
+    }
+    
+    // Uncheck all other genre checkboxes
+    const genreCheckboxes = document.querySelectorAll('.genre-checkbox input:not(#genre-All-Genres)');
+    genreCheckboxes.forEach(checkbox => {
+      checkbox.checked = false;
+      checkbox.closest('label')?.classList.remove('active');
+    });
+  }
+  
+  // Update the genre preferences in the user dropdown
+  function updateUserGenrePreferencesDropdown() {
+    if (!currentUser) return;
+    
+    const container = document.getElementById('user-genre-preferences');
+    if (!container) return;
+    
+    container.innerHTML = '';
+    
+    // Get all genres from the main genre filter buttons
+    const allGenres = Array.from(document.querySelectorAll('.genre-checkbox input:not(#genre-All-Genres)'))
+      .map(checkbox => checkbox.value);
+    
+    // Sort them alphabetically except "Other" at the end
+    const sortedGenres = [...allGenres].sort((a, b) => {
+      // Keep "Other" at the end
+      if (a === 'Other') return 1;
+      if (b === 'Other') return -1;
+      return a.localeCompare(b);
+    });
+    
+    // Create a checkbox for each genre
+    sortedGenres.forEach(genre => {
+      // Skip Unknown and Industrial genres
+      if (genre === 'Unknown' || genre === 'Industrial') return;
+      
+      // Rename "Electronic" to "Electro"
+      const displayGenre = genre === 'Electronic' ? 'Electro' : genre;
+      
+      const label = document.createElement('label');
+      label.className = 'login-genre-checkbox';
+      
+      const input = document.createElement('input');
+      input.type = 'checkbox';
+      input.dataset.genre = genre;
+      input.checked = userGenrePreferences.includes(genre);
+      
+      if (input.checked) {
+        label.classList.add('active');
+      }
+      
+      label.appendChild(input);
+      label.appendChild(document.createTextNode(displayGenre));
+      
+      // Add click event to toggle active class
+      label.addEventListener('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation(); // Prevent event from bubbling up
+        this.classList.toggle('active');
+        input.checked = !input.checked;
+      });
+      
+      container.appendChild(label);
+    });
+    
+    // Add event listener to save button
+    document.getElementById('save-preferences-button').addEventListener('click', function() {
+      saveUserPreferences();
+    });
+  }
+  
+  // Save user preferences
+  function saveUserPreferences() {
+    if (!currentUser) return;
+    
+    // Get the selected genres from the user dropdown
+    const selectedGenres = Array.from(document.querySelectorAll('#user-genre-preferences .login-genre-checkbox.active'))
+      .map(label => label.querySelector('input').dataset.genre);
+    
+    // Update user preferences
+    userGenrePreferences = selectedGenres;
+    
+    // Save to localStorage
+    localStorage.setItem(`genrePreferences_${currentUser}`, JSON.stringify(selectedGenres));
+    
+    // Apply to the main filter buttons
+    applyUserGenrePreferences();
+    
+    // Apply filters and update display
+    applyFiltersAndSearch();
+    
+    // Close the dropdown
+    const userDropdown = bootstrap.Dropdown.getInstance(document.getElementById('userDropdownButton'));
+    if (userDropdown) {
+      userDropdown.hide();
+    }
+  }
 }); 
